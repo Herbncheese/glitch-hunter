@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sd-tv-1794561069000-899940insigniaf40series1",
+    "fingerprint": "amazon|89.99|899940insigniaf40series1080pledfiresmarttvwvoiceremoteatamazon",
+    "title": "$89.99 | 40\" Insignia F40 Series 1080p LED Fire Smart TV w/ Voice Remote at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 89.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $89.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20302251-89-99-40-insignia-f40-series-1080p-led-fire-smart-tv-w-voice-remote-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20302251-89-99-40-insignia-f40-series-1080p-led-fire-smart-tv-w-voice-remote-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-13T23:36:14.710Z",
+    "triggeredAtPT": "Nov 13, 2026, 3:36:14 PM PST",
+    "discordStatus": "skipped-baseline"
+  }
+]

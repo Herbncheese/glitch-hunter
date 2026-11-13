@@ -1,0 +1,63 @@
+name: Scan feeds
+
+on:
+  schedule:
+    # Every 5 minutes. GitHub may delay a scheduled run slightly under load.
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One scan at a time so two runs never race on seen-alerts.json.
+concurrency:
+  group: glitch-hunter-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout scanner code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Restore scanner-data state
+        run: |
+          set -euo pipefail
+          git fetch origin scanner-data || true
+          if git show-ref --verify --quiet refs/remotes/origin/scanner-data; then
+            mkdir -p data
+            for name in seen-alerts.json alerts-history.json latest-scan.json rejections.json; do
+              if git cat-file -e "origin/scanner-data:data/${name}" 2>/dev/null; then
+                git show "origin/scanner-data:data/${name}" > "data/${name}"
+              fi
+            done
+            echo "Restored data/ from origin/scanner-data"
+          else
+            echo "scanner-data does not exist yet. Using data/ from this checkout as the baseline seed."
+          fi
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Scan feeds
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DATA_DIR: ${{ github.workspace }}/data
+        run: npm run scan
+
+      - name: Publish state
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DATA_DIR: ${{ github.workspace }}/data
+        run: bash scripts/publish-state.sh
