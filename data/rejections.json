@@ -1,8 +1,33 @@
 {
-  "count": 341,
-  "scannedAt": "2026-11-13T23:36:14.945Z",
-  "scannedAtPT": "Nov 13, 2026, 3:36:14 PM PST",
+  "count": 319,
+  "scannedAt": "2026-11-13T23:53:52.931Z",
+  "scannedAtPT": "Nov 13, 2026, 3:53:52 PM PST",
   "rejections": [
+    {
+      "title": "Dora Rainforest Rhythms Musical Toy Microphone w/ Songs & Sounds $5",
+      "source": "Slickdeals Frontpage",
+      "reason": "not tech"
+    },
+    {
+      "title": "Lenovo LOQ Essential Laptop: 15.3\" 2K 165Hz, Ultra X7 358H, 16GB RAM, 512GB SSD $850 + Free S&H",
+      "source": "Slickdeals Frontpage",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "Like New: Amazon Fire TV Stick 4K (2nd Gen) $21 & More + Free S&H w/ Prime",
+      "source": "Slickdeals Frontpage",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "Select Home Depot Stores: Husky 33-Compartment Double Sided Tool Storage Box $12 (Pricing/Availability Will Vary)",
+      "source": "Slickdeals Frontpage",
+      "reason": "not tech"
+    },
+    {
+      "title": "Prime: 32-oz Cleancult Liquid Hand Soap Refill (Lemon Verbena) 2 for $5.20 w/ S&S",
+      "source": "Slickdeals Frontpage",
+      "reason": "not tech"
+    },
     {
       "title": "3-pk 3.2-oz Colgate Optic White Advanced Hydrogen Peroxide Toothpaste $4.95 w/ S&S",
       "source": "Slickdeals Frontpage",
@@ -104,29 +129,34 @@
       "reason": "not tech"
     },
     {
-      "title": "Jet Blue: Round Trip Nonstop Flights: Clevland, OH to/from Ft Lauderdale FL $97 (Travel December 2026 - February 2027)",
-      "source": "Slickdeals Frontpage",
+      "title": "The Waltons: The Complete Series $18",
+      "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "8-Port 252W Sabrent Voltik USB-A & USB-C PD 3.0 Charging Station $59.60 + Free S&H",
-      "source": "Slickdeals Frontpage",
+      "title": "2-Pack EYAIOROTES Universal Samsung TV Replacement Remote Control $6.49 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "reason": "accessory under $100"
+    },
+    {
+      "title": "$11.20 adidas Mens Unisex Trefoil Beanie",
+      "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "19-Oz Windex Fast Shine Foam Glass Cleaner Spray (Grapefruit) $2.60 w/ S&S",
-      "source": "Slickdeals Frontpage",
+      "title": "[Open-Box] Nothing Headphone (1) Pro Wireless Over-the-Ear ANC Headphones (White) $268.99 + Free Store Pickup",
+      "source": "Slickdeals Popular",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "[SnS, AC] $10.67 or $9.03 | 8-Pack 180-Count Kleenex Ultra Soft Facial Tissues at Amazon ($1.33 each)",
+      "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "adidas Women's VL Court Base Shoes (Cream White / Core Black / Sizes 5 - 6.5) $20.40 w/ S&S",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "Prime Members: 4-Ct FLYRUIT Bluetooth Air Tracker Tags for Apple Find My (iOS Only) $10 + Free S&H",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
+      "title": "3-Pack Kalysky 8.5x11\" Watercolor Coloring Books for Adults w/ 160GSM Cold Press Paper $6.99 + Free Shipping w/ Prime or on $35+",
+      "source": "Slickdeals Popular",
+      "reason": "does not match any watch rule"
     },
     {
       "title": "RVShare Early Black Friday Holiday Savings $200 Off $2000+ Spend on RV Rentals - Book by November 27, 2026",
@@ -219,41 +249,6 @@
       "reason": "not tech"
     },
     {
-      "title": "Refurbished Excellent: SCUF Valor Pro Wired Performance Controller for Xbox Series X|S, Xbox One, and PC - Steel Gray $44.55",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "Gowill 7 Piece Luggage Sets: 13\"/16\"/20\"/24\"/28\" Hardside Lightweight ABS Suitcase w/ Expandable Duffle Bag (Various Colors) $115.99",
-      "source": "Slickdeals Popular",
-      "reason": "not tech"
-    },
-    {
-      "title": "ivoler Nintendo Switch 2 Accessories Bundle Kit w/ Carrying Case & Charging Dock $13.99 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "TCL - 55\" QM6K Series 4K UHD HDR QD Mini LED Smart TV with Google TV with Gemini (2025) $479.99",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "EA Sports FC 27 Standard Edition - XBOX One, XBOX Series X|S [Digital] $35",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "Atzeste Ultra-Slim Bidet, Non-Electric Dual Nozzle $18.99",
-      "source": "Slickdeals Popular",
-      "reason": "not tech"
-    },
-    {
-      "title": "QualityBath has TOTO's latest flagship WASHLET bidet seats on sale with free shipping: - TOTO WASHLET S5 Elongated (Cotton White, SW3446#01): $496.00 (List Price: $682.00) - TOTO",
-      "source": "Slickdeals Popular",
-      "reason": "not tech"
-    },
-    {
       "title": "YMMV Restored Apple iPhone 15 - Carrier Unlocked - 128GB Black $159.99",
       "source": "Slickdeals \"price mistake\"",
       "reason": "does not match any watch rule"
@@ -299,6 +294,11 @@
       "reason": "not tech"
     },
     {
+      "title": "$199.99 FS BEST BUY Hisense - 55\" Class QD5 Hi-QLED Series 4K UHD Smart Roku TV (2026)",
+      "source": "Slickdeals TV search",
+      "reason": "does not match any watch rule"
+    },
+    {
       "title": "LG Partner: 55\" LG OLED evo AI G6 4K TV + M5 Sound Suite Speakers (2 units) $1399.99",
       "source": "Slickdeals TV search",
       "reason": "does not match any watch rule"
@@ -332,11 +332,6 @@
       "title": "LG - 75” Class NU700B Series LED Nano AI 4K UHD Smart webOS TV (2026) @ Best Buy $399.99",
       "source": "Slickdeals TV search",
       "reason": "does not match any watch rule"
-    },
-    {
-      "title": "2-Pack EYAIOROTES Universal Samsung TV Replacement Remote Control $6.49 + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals TV search",
-      "reason": "accessory under $100"
     },
     {
       "title": "TCL - 55\" Class Q6LR Series 4K UHD HDR QLED Smart TV with Roku TV (2026) $279.99",
@@ -409,8 +404,8 @@
       "reason": "no item price found"
     },
     {
-      "title": "Samsung 85” Class QN90H Series Neo QLED Mini LED 4K UHD Glare Free SamsungVision AI Smart Tizen TV $1999.99",
-      "source": "Slickdeals TV search",
+      "title": "ASUS TUF Gaming A16 16” FHD+ 16:10 Laptop, AMD Ryzen™ 7 8745HX Processor, NVIDIA® GeForce RTX™ 5060 Laptop GPU, 16GB RAM, 512GB SSD, Jaeger Gray $1099",
+      "source": "Slickdeals laptop search",
       "reason": "does not match any watch rule"
     },
     {
@@ -520,11 +515,6 @@
     },
     {
       "title": "$10.19* | Osprey Arcane Laptop Sleeve (16\" or 14\") at Amazon",
-      "source": "Slickdeals laptop search",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "$28.95 | Thule Lithos Laptop Sleeve at Amazon",
       "source": "Slickdeals laptop search",
       "reason": "accessory under $100"
     },
@@ -999,17 +989,12 @@
       "reason": "does not match any watch rule"
     },
     {
-      "title": "LTC MKM071 Wireless MMO Gaming Mouse",
+      "title": "RK ROYAL KLUDGE S98 Wireless Keyboard",
       "source": "Woot",
       "reason": "does not match any watch rule"
     },
     {
-      "title": "LTC GM051 Wireless Vertical Ergonomic Mouse",
-      "source": "Woot",
-      "reason": "not tech"
-    },
-    {
-      "title": "RK ROYAL KLUDGE S98 Wireless Keyboard",
+      "title": "LTC MKM071 Wireless MMO Gaming Mouse",
       "source": "Woot",
       "reason": "does not match any watch rule"
     },
@@ -1019,14 +1004,19 @@
       "reason": "does not match any watch rule"
     },
     {
-      "title": "(NEW) Amazon Fire TV Stick 4K (1st Gen) with Alexa Voice Remote (3rd Gen)",
+      "title": "LTC GM051 Wireless Vertical Ergonomic Mouse",
       "source": "Woot",
-      "reason": "does not match any watch rule"
+      "reason": "not tech"
     },
     {
       "title": "Kensington H1050 EQ Wireless Headset",
       "source": "Woot",
       "reason": "not tech"
+    },
+    {
+      "title": "(NEW) Amazon Fire TV Stick 4K (1st Gen) with Alexa Voice Remote (3rd Gen)",
+      "source": "Woot",
+      "reason": "does not match any watch rule"
     },
     {
       "title": "Amazon Fire TV Stick 4K Plus with AI-powered Fire TV Search",
@@ -1082,11 +1072,6 @@
       "title": "Daran NEOK2 600W Portable Power Station for $191 + free shipping",
       "source": "DealNews Electronics",
       "reason": "does not match any watch rule"
-    },
-    {
-      "title": "AliExpress Singles Day Sale: Up to 77% off + extra $3 to $155 off + free shipping",
-      "source": "DealNews Electronics",
-      "reason": "multi-item roundup / sale event"
     },
     {
       "title": "Refurb Sony ULT Field 3 Wireless Portable Bluetooth Speaker for $72 + free shipping",
@@ -1199,6 +1184,11 @@
       "reason": "does not match any watch rule"
     },
     {
+      "title": "Mint Mobile Black Friday Premium Wireless Deal for $15/mo. for up to 1 year",
+      "source": "DealNews Electronics",
+      "reason": "subscription / license"
+    },
+    {
       "title": "Best Buy Early Black Friday Doorbusters: Up to 67% off + free shipping",
       "source": "DealNews Electronics",
       "reason": "multi-item roundup / sale event"
@@ -1222,6 +1212,11 @@
       "title": "Prouder Mage AI Voice Recorder for $55 + free shipping",
       "source": "DealNews Electronics",
       "reason": "not tech"
+    },
+    {
+      "title": "vSeeBox V6 Plus 8K HDR Android 14 TV Box for $319 + free shipping",
+      "source": "DealNews Electronics",
+      "reason": "does not match any watch rule"
     },
     {
       "title": "Walmart Black Friday Cell Phone Deals: Up to 57% off + free shipping",
@@ -1252,11 +1247,6 @@
       "title": "Samsung Galaxy Z Flip8 Android Smartphone: Up to $1,300 off w/ trade-in + free shipping",
       "source": "DealNews Electronics",
       "reason": "multi-item roundup / sale event"
-    },
-    {
-      "title": "Ultra Mobile Ultra-Early Access Savings for 50% off plans, from $6.50/mo.",
-      "source": "DealNews Electronics",
-      "reason": "subscription / license"
     },
     {
       "title": "Samsung Galaxy Z Fold8 Ultra Smartphone: Up to $1,400 off w/ trade-in + free shipping",
@@ -1502,6 +1492,16 @@
       "title": "Nintendo officially reveals 2026 Black Friday deals: Switch 2 bundle, games from $40, more",
       "source": "9to5Toys",
       "reason": "news / discussion post"
+    },
+    {
+      "title": "Walmart 2026 early Black Friday sale now live! Thousands of deals, tech, LEGO, home, more",
+      "source": "9to5Toys",
+      "reason": "multi-item roundup / sale event"
+    },
+    {
+      "title": "Bose SoundLink Flex speaker drops to early Black Friday pricing today at nearly 40% off",
+      "source": "9to5Toys",
+      "reason": "no item price found"
     }
   ]
 }
