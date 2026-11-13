@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { PRICE_ERROR_DISCORD_CAUTION } from '../rules/watchRules.ts';
 import type { GlitchDeal } from '../types/deals.ts';
 import { buildDiscordMessage } from './discord.ts';
+import { X_DEAL_ACCOUNTS } from '../data/xLinks.ts';
 import { normalize, type RawItem } from './engine.ts';
 import { assertNoSecrets, containsSecret, scrubSecrets } from './secrets.ts';
 import { emptySeen, isBaselineState, planAlerts } from './state.ts';
@@ -117,6 +118,15 @@ describe('secret scrubbing', () => {
   });
 });
 
+describe('monitored X accounts', () => {
+  it('lists Oscar\'s four deal accounts', () => {
+    assert.deepEqual(
+      X_DEAL_ACCOUNTS.map((account) => account.uri),
+      ['https://x.com/thedealsguy_', 'https://x.com/PayDirtDeals', 'https://x.com/ClearanceCapt', 'https://x.com/dealzbro_']
+    );
+  });
+});
+
 describe('feed normalization', () => {
   it('keeps a legit 55-inch TV markdown and its links-only price checks', () => {
     const { deal, reject } = normalize(
@@ -134,6 +144,59 @@ describe('feed normalization', () => {
     assert.ok(deal?.matchedRules?.some((rule) => rule.ruleId === 'tech-clearance'));
     assert.ok(deal?.checkPriceLinks.some((link) => link.label.includes('Google Shopping')));
     assert.ok(deal?.checkPriceLinks.every((link) => /^https:\/\//.test(link.uri)));
+  });
+
+  it('rejects medical and tire monitors and keeps a gaming monitor', () => {
+    const glucose = normalize(
+      raw({
+        title: 'Contour Next Glucose Monitor $19.99 (Was $59.99)',
+        text: 'diabetic glucometer with lancets',
+        retailerHint: 'Amazon',
+        link: 'https://www.amazon.com/dp/B00EXAMPLE1',
+      }),
+      Date.now()
+    );
+    assert.equal(glucose.deal, undefined);
+    assert.equal(glucose.reject, 'not tech');
+
+    const tpms = normalize(
+      raw({
+        title: 'Autel TPMS Tire Pressure Monitor $29.99',
+        retailerHint: 'Amazon',
+        link: 'https://www.amazon.com/dp/B00EXAMPLE2',
+      }),
+      Date.now()
+    );
+    assert.equal(tpms.deal, undefined);
+    assert.equal(tpms.reject, 'not tech');
+
+    const gaming = normalize(
+      raw({
+        title: 'Samsung 27" Odyssey G5 Gaming Monitor $89.00 (Was $349.00)',
+        text: '1440p 165Hz gaming monitor',
+        retailerHint: 'Best Buy',
+        link: 'https://www.bestbuy.com/site/samsung-monitor',
+      }),
+      Date.now()
+    );
+    assert.ok(gaming.deal, gaming.reject);
+    assert.ok(gaming.deal?.matchedRules?.some((rule) => rule.ruleId === 'tech-clearance'));
+  });
+
+  it('drops the Switch 2 accessories bundle kit', () => {
+    const kit = normalize(
+      raw({
+        title: 'ivoler Nintendo Switch 2 Accessories Bundle Kit w/ Carrying Case & Charging Dock $13.99',
+        text: 'OUKmall-AMUS via Amazon has ivoler Nintendo Switch 2 Accessories Bundle Kit on sale for $13.99',
+        retailerHint: 'Amazon',
+        link: 'https://www.amazon.com/dp/B00EXAMPLE3',
+        sourceId: 'sd-popular',
+        sourceLabel: 'Slickdeals Popular',
+      }),
+      Date.now()
+    );
+    assert.equal(kit.deal, undefined);
+    assert.equal(kit.reject, 'accessory under $100');
   });
 
   it('drops questions and marketplace listings', () => {

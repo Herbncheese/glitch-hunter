@@ -1,49 +1,6 @@
 {
   "deals": [
     {
-      "id": "sd-popular-1794607214000-ivolernintendoswitch2acc",
-      "title": "ivoler Nintendo Switch 2 Accessories Bundle Kit w/ Carrying Case & Charging Dock $13.99 + Free Shipping w/ Prime or on $35+",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 13.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 6,
-      "substanceScore": 63,
-      "retailer": "Amazon",
-      "sourceChannel": "Slickdeals Popular",
-      "sourceUrl": "https://slickdeals.net/f/20306058-ivoler-nintendo-switch-2-accessories-bundle-kit-w-carrying-case-charging-dock-13-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "timeDetected": "2026-11-13T22:00:14.000Z",
-      "detectedTimestamp": 1794607214000,
-      "directBuyUrl": "https://slickdeals.net/f/20306058-ivoler-nintendo-switch-2-accessories-bundle-kit-w-carrying-case-charging-dock-13-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "specsSummary": "OUKmall-AMUS via Amazon [ amazon.com ] has ivoler Nintendo Switch 2 Accessories Bundle Kit w/ Carrying Case & Charging Dock on sale for $13.99 . Shipping is free w/ Prime or on orders $35+. Compiled From Merchant's Produ...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=ivoler%20Nintendo%20Switch%202%20Accessories%20Bundle%20Kit%20w%2F%20Carrying%20Case%20%26%20Charging%20Dock%20%2B%20w%2F%20or%20o"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Popular",
-          "uri": "https://slickdeals.net/f/20306058-ivoler-nintendo-switch-2-accessories-bundle-kit-w-carrying-case-charging-dock-13-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [
-        {
-          "ruleId": "christmas-2026",
-          "label": "Christmas 2026 Watch",
-          "reason": "Switch 2 at $13.99 < $499"
-        }
-      ]
-    },
-    {
       "id": "sd-tv-1794561069000-899940insigniaf40series1",
       "title": "$89.99 | 40\" Insignia F40 Series 1080p LED Fire Smart TV w/ Voice Remote at Amazon",
       "skuOrAsin": "ASIN B0F7RXTN1Y",
@@ -57,7 +14,7 @@
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
       "upvoteScore": 9,
-      "substanceScore": 59,
+      "substanceScore": 58,
       "retailer": "Amazon",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20302251-89-99-40-insignia-f40-series-1080p-led-fire-smart-tv-w-voice-remote-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -168,21 +125,21 @@
       "url": "https://slickdeals.net/",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.903Z",
+      "checkedAt": "2026-11-13T23:36:14.945Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-popular",
       "label": "Slickdeals Popular",
       "url": "https://slickdeals.net/deals/",
       "itemsFetched": 25,
-      "dealsKept": 1,
-      "checkedAt": "2026-11-13T23:06:03.933Z",
+      "dealsKept": 0,
+      "checkedAt": "2026-11-13T23:36:14.966Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-price-mistake",
@@ -190,10 +147,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=price%20mistake&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.935Z",
+      "checkedAt": "2026-11-13T23:36:14.967Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-price-error",
@@ -201,10 +158,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=price%20error&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.937Z",
+      "checkedAt": "2026-11-13T23:36:14.967Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-glitch",
@@ -212,10 +169,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=glitch&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.938Z",
+      "checkedAt": "2026-11-13T23:36:14.968Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-tv",
@@ -223,10 +180,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=tv&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 1,
-      "checkedAt": "2026-11-13T23:06:03.939Z",
+      "checkedAt": "2026-11-13T23:36:14.969Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-laptop",
@@ -234,10 +191,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=laptop&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.940Z",
+      "checkedAt": "2026-11-13T23:36:14.969Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-monitor",
@@ -245,10 +202,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=monitor&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.942Z",
+      "checkedAt": "2026-11-13T23:36:14.970Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "sd-gpu",
@@ -256,10 +213,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=rtx%20graphics%20card&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.944Z",
+      "checkedAt": "2026-11-13T23:36:14.971Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "reddit-deals",
@@ -267,10 +224,10 @@
       "url": "https://www.reddit.com/r/buildapcsales+LaptopDeals+deals+PriceMistakes+glitchdeals/new/",
       "itemsFetched": 100,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.952Z",
+      "checkedAt": "2026-11-13T23:36:14.975Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "reddit-monitors",
@@ -278,11 +235,11 @@
       "url": "https://www.reddit.com/r/Monitors/new/",
       "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:07.653Z",
+      "checkedAt": "2026-11-13T23:36:18.741Z",
       "state": "rate-limited",
       "httpStatus": 429,
       "message": "HTTP 429 - rate limited by the site",
-      "checkedAtPT": "Nov 13, 2026, 3:06:07 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:18 PM PST"
     },
     {
       "id": "woot",
@@ -290,10 +247,10 @@
       "url": "https://www.woot.com/category/computers",
       "itemsFetched": 12,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.946Z",
+      "checkedAt": "2026-11-13T23:36:14.972Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "meh",
@@ -301,10 +258,10 @@
       "url": "https://meh.com/",
       "itemsFetched": 1,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.947Z",
+      "checkedAt": "2026-11-13T23:36:14.973Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "dealnews-electronics",
@@ -312,10 +269,10 @@
       "url": "https://www.dealnews.com/c142/Electronics/?rss=1",
       "itemsFetched": 47,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.948Z",
+      "checkedAt": "2026-11-13T23:36:14.973Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "dealnews-computers",
@@ -323,10 +280,10 @@
       "url": "https://www.dealnews.com/c39/Computers/?rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.949Z",
+      "checkedAt": "2026-11-13T23:36:14.974Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "9to5toys",
@@ -334,10 +291,10 @@
       "url": "https://9to5toys.com/feed/",
       "itemsFetched": 50,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.950Z",
+      "checkedAt": "2026-11-13T23:36:14.974Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "techbargains",
@@ -345,11 +302,11 @@
       "url": "https://www.techbargains.com/",
       "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.951Z",
+      "checkedAt": "2026-11-13T23:36:14.975Z",
       "state": "blocked",
       "httpStatus": 403,
       "message": "HTTP 403 - site blocked this server",
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     },
     {
       "id": "bensbargains",
@@ -357,10 +314,10 @@
       "url": "https://bensbargains.com/",
       "itemsFetched": 20,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:06:03.951Z",
+      "checkedAt": "2026-11-13T23:36:14.975Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:06:03 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
     }
   ],
   "xPosts": [],
@@ -388,27 +345,27 @@
   ],
   "xAccounts": [
     {
-      "label": "@Slickdeals",
-      "uri": "https://x.com/Slickdeals"
+      "label": "@thedealsguy_",
+      "uri": "https://x.com/thedealsguy_"
     },
     {
-      "label": "@Ben's Bargains",
-      "uri": "https://x.com/bensbargains"
+      "label": "@PayDirtDeals",
+      "uri": "https://x.com/PayDirtDeals"
     },
     {
-      "label": "@9to5toys",
-      "uri": "https://x.com/9to5toys"
+      "label": "@ClearanceCapt",
+      "uri": "https://x.com/ClearanceCapt"
     },
     {
-      "label": "@woot",
-      "uri": "https://x.com/woot"
+      "label": "@dealzbro_",
+      "uri": "https://x.com/dealzbro_"
     }
   ],
-  "rejectedCount": 343,
+  "rejectedCount": 341,
   "rejectionReasonCounts": [
     {
       "reason": "does not match any watch rule",
-      "count": 177
+      "count": 167
     },
     {
       "reason": "not tech",
@@ -416,22 +373,26 @@
     },
     {
       "reason": "multi-item roundup / sale event",
-      "count": 37
+      "count": 38
     },
     {
       "reason": "accessory under $100",
-      "count": 18
+      "count": 22
     },
     {
       "reason": "no item price found",
       "count": 8
     },
     {
+      "reason": "subscription / license",
+      "count": 3
+    },
+    {
       "reason": "news / discussion post",
       "count": 3
     },
     {
-      "reason": "subscription / license",
+      "reason": "movie / game / media",
       "count": 2
     },
     {
@@ -443,9 +404,9 @@
       "count": 1
     }
   ],
-  "scanSummary": "2 watch-rule matches kept from 480 fetched posts across 16/18 working sources; 343 filtered out (questions, news, roundups, ambiguous prices, non-matches). 0 flagged as possible price errors.",
-  "scannedAt": "2026-11-13T23:06:03.903Z",
-  "scannedAtPT": "Nov 13, 2026, 3:06:03 PM PST",
+  "scanSummary": "1 watch-rule matches kept from 480 fetched posts across 16/18 working sources; 341 filtered out (questions, news, roundups, ambiguous prices, non-matches). 0 flagged as possible price errors.",
+  "scannedAt": "2026-11-13T23:36:14.945Z",
+  "scannedAtPT": "Nov 13, 2026, 3:36:14 PM PST",
   "queryExecuted": "Free RSS/JSON deal feeds (zero AI, no paid APIs)",
   "newMatchCount": 0,
   "baselineComplete": true,

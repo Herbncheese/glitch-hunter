@@ -254,6 +254,41 @@ describe('Christmas 2026 Watch', () => {
       false
     );
   });
+  it('drops Switch 2 accessory kits and third-party Amazon sellers', () => {
+    const kit = 'ivoler Nintendo Switch 2 Accessories Bundle Kit w/ Carrying Case & Charging Dock';
+    assert.equal(ids({ title: kit, retailer: 'OUKmall-AMUS via Amazon', price: 13.99 }).includes('christmas-2026'), false);
+    assert.equal(
+      ids({ title: kit, retailer: 'Amazon', price: 13.99, text: 'OUKmall-AMUS via Amazon has this accessories bundle kit' }).includes('christmas-2026'),
+      false
+    );
+    assert.equal(ids({ title: kit, retailer: 'Amazon', price: 13.99 }).includes('christmas-2026'), false);
+    assert.equal(isLegitRetailer('OUKmall-AMUS via Amazon', kit), false);
+    assert.equal(isLegitRetailer('Amazon', kit, 'OUKmall-AMUS via Amazon'), false);
+
+    assert.ok(ids({ title: 'Nintendo Switch 2 Console $449', retailer: 'Best Buy via Amazon', price: 449 }).includes('christmas-2026'));
+    assert.ok(ids({ title: 'Nintendo Switch 2 Console $449', retailer: 'Amazon', price: 449 }).includes('christmas-2026'));
+    assert.ok(
+      ids({ title: 'Nintendo Switch 2 Console + Mario Kart World Bundle $449', retailer: 'Best Buy', price: 449 }).includes('christmas-2026')
+    );
+    assert.equal(
+      ids({
+        title: 'Nintendo Switch 2 Console $449',
+        retailer: 'Amazon',
+        price: 449,
+        text: 'OUKmall-AMUS via Amazon',
+      }).includes('christmas-2026'),
+      false
+    );
+    assert.equal(isLegitRetailer('Best Buy via Amazon', 'Nintendo Switch 2 Console $449'), true);
+    assert.ok(
+      ids({
+        title: 'Insignia 40" Fire TV $89.99',
+        retailer: 'Amazon',
+        price: 89.99,
+        text: 'Best Buy via Amazon',
+      }).includes('tech-clearance')
+    );
+  });
   it('matches a clear price error on a 1P console even if the sticker is not below the usual threshold', () => {
     assert.ok(
       ids({

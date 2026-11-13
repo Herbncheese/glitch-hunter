@@ -5,10 +5,10 @@ export interface XLink {
 
 /** Manual click-through accounts. The scanner never calls the paid X API. */
 export const X_DEAL_ACCOUNTS: XLink[] = [
-  { label: '@Slickdeals', uri: 'https://x.com/Slickdeals' },
-  { label: "@Ben's Bargains", uri: 'https://x.com/bensbargains' },
-  { label: '@9to5toys', uri: 'https://x.com/9to5toys' },
-  { label: '@woot', uri: 'https://x.com/woot' },
+  { label: '@thedealsguy_', uri: 'https://x.com/thedealsguy_' },
+  { label: '@PayDirtDeals', uri: 'https://x.com/PayDirtDeals' },
+  { label: '@ClearanceCapt', uri: 'https://x.com/ClearanceCapt' },
+  { label: '@dealzbro_', uri: 'https://x.com/dealzbro_' },
 ];
 
 export const X_SEARCH_LINKS: XLink[] = [

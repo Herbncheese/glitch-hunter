@@ -320,7 +320,10 @@ const REBATE_ONLY_RE = /\b(?:mail-?in rebate|rebate)\b/i;
 const COUPON_ONLY_RE = new RegExp(`^(?:[^$]*?)${MONEY}\\s*off\\b`, 'i'); // title's first price is "$X off"
 const MEDIA_RE = /\b(?:blu-?ray|steelbook|dvd|digital (?:code|copy)|@ steam|on steam|steam key|pc game|dlc|season pass|ebook|kindle edition|audiobook|vinyl|soundtrack)\b/i;
 const NON_TECH_RE = /\b(?:tv stand|media console|entertainment center|furniture|grill|smoker|vacuum|air fryer|air purifier|hair|dryer|washer|refrigerator|mattress|toy|lego|socks|shirt|shoes|cookies|snack|coffee|dog food|cat food|lip balm|gloves|bucket|putty|lawn|mower|blower|cultivator|garage door|lock|blood pressure|baby monitor|e-?bike|scooter)\b/i;
-const ACCESSORY_RE = /\b(?:case|cases|cover|pencil|screen protector|tempered glass|cable|cord|charger|charging|adapter|mount|stand|stylus|skin|sleeve|bag|backpack|strap|band|dock|hub|remote|grip|mouse ?pad|desk ?mat|power bank|portable charger|wall plate|cleaning|filter)\b/i;
+/** Medical, baby, pet, air, water, tire, and power "monitors" are not display monitors. */
+const MONITOR_NOISE_REGEX =
+  /\b(?:glucose|glucometer|diabetic|lancet|blood pressure|heart rate|spo2|pulse ox|baby monitor|nanny|pet monitor|selfie monitor|breath|fetal|fetus|air quality|water monitor|tire pressure|tpms|power monitor|energy monitor|plant monitor)\b/i;
+const ACCESSORY_RE = /\b(?:accessor(?:y|ies)|bundle kit|carrying case|charging dock|joy-?con|thumb grip|steering wheel|travel case|facial interface|head ?strap|link cable|case|cases|cover|pencil|screen protector|tempered glass|cable|cord|charger|charging|adapter|mount|stand|stylus|skin|sleeve|bag|backpack|strap|band|dock|hub|remote|grip|mouse ?pad|desk ?mat|power bank|portable charger|wall plate|cleaning|filter)\b/i;
 
 const CAT_TV_MON = /\b(?:tv|tvs|television|oled|qled|qned|mini[- ]?led|monitor|monitors|ultrawide|projector|\d{2}["”]?\s*(?:in(?:ch)?)?\s*(?:4k|uhd|1440p|qhd)|bravia|odyssey g\d|ultragear)\b|\[monitor\]/i;
 const CAT_LAPTOP_PC = /\b(?:laptop|laptops|notebook|macbook|chromebook|thinkpad|ideapad|loq|galaxy book\d*|lg gram|predator|helios|nitro v?|rog (?:strix|zephyrus|flow)|tuf gaming|aero x?\d*|vector|katana|cyborg|stealth|razer blade|pavilion|aspire|swift|probook|elitebook|yoga slim|zenbook|vivobook|zephyrus|legion|omen|victus|alienware|xps|inspiron|latitude|spectre|envy x360|surface (?:laptop|pro)|desktop|prebuilt|gaming pc|mini pc|mac mini|mac studio|imac|nuc|all-in-one pc)\b|\[(?:laptop|prebuilt|desktop)\]/i;
@@ -572,6 +575,7 @@ export function normalize(raw: RawItem, now: number): { deal?: GlitchDeal; rejec
   if (REBATE_ONLY_RE.test(t) && !new RegExp(MONEY).test(t.replace(/\$\s?\d[\d,.]*\s*(?:mail-?in\s+)?rebate/gi, ''))) return { reject: 'rebate only' };
   if (MEDIA_RE.test(t) && !isKidsItem(t, raw.text)) return { reject: 'movie / game / media' };
   const kidsItem = isKidsItem(t, raw.text);
+  if (MONITOR_NOISE_REGEX.test(`${t} ${raw.text.slice(0, 400)}`)) return { reject: 'not tech' };
   if (NON_TECH_RE.test(t) && !kidsItem) return { reject: 'not tech' };
 
   const flair = (t.match(/^\[([^\]]+)\]/) || [])[0] || '';

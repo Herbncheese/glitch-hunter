@@ -97,8 +97,37 @@ const SCAM_OR_MARKETPLACE_RE =
 const THIRD_PARTY_AMAZON_RE =
   /\b(?:sold by (?!amazon)[a-z0-9][^,.]{0,40}|third[- ]party|3rd[- ]party|marketplace seller|fulfilled by merchant)\b/i;
 
+/** Seller named immediately before "via Amazon" that is still first-party. */
+const FIRST_PARTY_VIA_AMAZON_RE =
+  /^(?:amazon(?:\.com)?|best\s*buy|target|walmart(?:\.com)?|nintendo|meta|oculus|apple(?:\s+store)?|microsoft|sony|samsung|woot|b\s*&\s*h(?:\s+photo(?:\s+video)?)?|bh\s+photo|costco(?:\s+wholesale)?|game\s*stop)$/i;
+
+const VIA_AMAZON_NOISE_RE =
+  /^(?:free|shipping|shipped|ships|ship|fulfilled|fulfillment|available|sold|prime|delivery|delivered|with|w)$/i;
+
 const ACCESSORY_RE =
-  /\b(?:case|cases|cover|folio|pencil|screen protector|tempered glass|cable|cord|charger|charging|adapter|mount|stand|stylus|skin|sleeve|bag|backpack|strap|band|dock|hub|remote|grip|mouse ?pad|desk ?mat|power bank|portable charger|wall plate|cleaning|filter|screen door)\b/i;
+  /\b(?:accessor(?:y|ies)|bundle kit|carrying case|charging dock|joy-?con|thumb grip|steering wheel|travel case|facial interface|head ?strap|link cable|case|cases|cover|folio|pencil|screen protector|tempered glass|cable|cord|charger|charging|adapter|mount|stand|stylus|skin|sleeve|bag|backpack|strap|band|dock|hub|remote|grip|mouse ?pad|desk ?mat|power bank|portable charger|wall plate|cleaning|filter|screen door)\b/i;
+
+/**
+ * "<Seller> via Amazon" is a marketplace listing unless that seller is Amazon
+ * or another major first-party store (Best Buy, Target, Walmart, Nintendo, ...).
+ */
+export function hasThirdPartyViaAmazon(hay: string): boolean {
+  const re = /([a-z0-9][\w.&'-]*(?:\s+[a-z0-9][\w.&'-]*){0,4})\s+via\s+amazon\b/gi;
+  let match: RegExpExecArray | null;
+  while ((match = re.exec(hay)) !== null) {
+    const tokens = match[1].replace(/\s+/g, ' ').trim().split(' ');
+    const windows = [3, 2, 1].map((count) => tokens.slice(-count).join(' ')).filter(Boolean);
+    if (windows.some((seller) => FIRST_PARTY_VIA_AMAZON_RE.test(seller))) continue;
+    const last = tokens[tokens.length - 1] || '';
+    if (VIA_AMAZON_NOISE_RE.test(last)) continue;
+    return true;
+  }
+  return false;
+}
+
+function isThirdPartyAmazon(hay: string): boolean {
+  return THIRD_PARTY_AMAZON_RE.test(hay) || hasThirdPartyViaAmazon(hay);
+}
 
 const TABLET_RE =
   /\b(?:ipad|galaxy tab|fire tablet|fire hd|kindle fire|android tablet|\btablet\b)\b/i;
@@ -141,7 +170,7 @@ export function isMajorLegitStore(retailer: string): boolean {
 export function isLegitRetailer(retailer: string, title = '', text = ''): boolean {
   const hay = `${title} ${text} ${retailer}`;
   if (SCAM_OR_MARKETPLACE_RE.test(hay)) return false;
-  if (/amazon/i.test(retailer) && THIRD_PARTY_AMAZON_RE.test(hay)) return false;
+  if (/amazon/i.test(retailer) && isThirdPartyAmazon(hay)) return false;
   const r = retailer.trim().toLowerCase();
   if (!r || r === 'see source') return false;
   return LEGIT_RETAILERS.some((s) => r === s.toLowerCase() || r.includes(s.toLowerCase()));
@@ -150,7 +179,7 @@ export function isLegitRetailer(retailer: string, title = '', text = ''): boolea
 export function isChristmasFirstPartyRetailer(retailer: string, title = '', text = ''): boolean {
   if (!isLegitRetailer(retailer, title, text)) return false;
   // Christmas rule is 1P only — skip clearly third-party / marketplace language even at a major store name.
-  if (THIRD_PARTY_AMAZON_RE.test(`${title} ${text}`)) return false;
+  if (isThirdPartyAmazon(`${title} ${text} ${retailer}`)) return false;
   return true;
 }
 
