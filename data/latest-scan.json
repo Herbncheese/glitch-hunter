@@ -14,7 +14,7 @@
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
       "upvoteScore": 9,
-      "substanceScore": 58,
+      "substanceScore": 57,
       "retailer": "Amazon",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20302251-89-99-40-insignia-f40-series-1080p-led-fire-smart-tv-w-voice-remote-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -112,10 +112,6 @@
     {
       "title": "9to5Toys",
       "uri": "https://9to5toys.com/feed/"
-    },
-    {
-      "title": "Ben's Bargains",
-      "uri": "https://bensbargains.com/"
     }
   ],
   "sourceStatus": [
@@ -125,10 +121,10 @@
       "url": "https://slickdeals.net/",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.945Z",
+      "checkedAt": "2026-11-13T23:53:52.931Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:52 PM PST"
     },
     {
       "id": "sd-popular",
@@ -136,10 +132,10 @@
       "url": "https://slickdeals.net/deals/",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.966Z",
+      "checkedAt": "2026-11-13T23:53:53.003Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "sd-price-mistake",
@@ -147,10 +143,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=price%20mistake&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.967Z",
+      "checkedAt": "2026-11-13T23:53:53.005Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "sd-price-error",
@@ -158,10 +154,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=price%20error&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.967Z",
+      "checkedAt": "2026-11-13T23:53:53.006Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "sd-glitch",
@@ -169,10 +165,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=glitch&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.968Z",
+      "checkedAt": "2026-11-13T23:53:53.007Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "sd-tv",
@@ -180,10 +176,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=tv&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 1,
-      "checkedAt": "2026-11-13T23:36:14.969Z",
+      "checkedAt": "2026-11-13T23:53:53.008Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "sd-laptop",
@@ -191,10 +187,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=laptop&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.969Z",
+      "checkedAt": "2026-11-13T23:53:53.009Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "sd-monitor",
@@ -202,10 +198,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=monitor&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.970Z",
+      "checkedAt": "2026-11-13T23:53:53.010Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "sd-gpu",
@@ -213,10 +209,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=rtx%20graphics%20card&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.971Z",
+      "checkedAt": "2026-11-13T23:53:53.011Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "reddit-deals",
@@ -224,10 +220,10 @@
       "url": "https://www.reddit.com/r/buildapcsales+LaptopDeals+deals+PriceMistakes+glitchdeals/new/",
       "itemsFetched": 100,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.975Z",
+      "checkedAt": "2026-11-13T23:53:53.017Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "reddit-monitors",
@@ -235,11 +231,11 @@
       "url": "https://www.reddit.com/r/Monitors/new/",
       "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:18.741Z",
+      "checkedAt": "2026-11-13T23:53:56.848Z",
       "state": "rate-limited",
       "httpStatus": 429,
       "message": "HTTP 429 - rate limited by the site",
-      "checkedAtPT": "Nov 13, 2026, 3:36:18 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:56 PM PST"
     },
     {
       "id": "woot",
@@ -247,10 +243,10 @@
       "url": "https://www.woot.com/category/computers",
       "itemsFetched": 12,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.972Z",
+      "checkedAt": "2026-11-13T23:53:53.013Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "meh",
@@ -258,10 +254,10 @@
       "url": "https://meh.com/",
       "itemsFetched": 1,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.973Z",
+      "checkedAt": "2026-11-13T23:53:53.014Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "dealnews-electronics",
@@ -269,10 +265,10 @@
       "url": "https://www.dealnews.com/c142/Electronics/?rss=1",
       "itemsFetched": 47,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.973Z",
+      "checkedAt": "2026-11-13T23:53:53.015Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "dealnews-computers",
@@ -280,10 +276,10 @@
       "url": "https://www.dealnews.com/c39/Computers/?rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.974Z",
+      "checkedAt": "2026-11-13T23:53:53.015Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "9to5toys",
@@ -291,10 +287,10 @@
       "url": "https://9to5toys.com/feed/",
       "itemsFetched": 50,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.974Z",
+      "checkedAt": "2026-11-13T23:53:53.016Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "techbargains",
@@ -302,22 +298,23 @@
       "url": "https://www.techbargains.com/",
       "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.975Z",
+      "checkedAt": "2026-11-13T23:53:53.016Z",
       "state": "blocked",
       "httpStatus": 403,
       "message": "HTTP 403 - site blocked this server",
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     },
     {
       "id": "bensbargains",
       "label": "Ben's Bargains",
       "url": "https://bensbargains.com/",
-      "itemsFetched": 20,
+      "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-13T23:36:14.975Z",
-      "state": "ok",
-      "httpStatus": 200,
-      "checkedAtPT": "Nov 13, 2026, 3:36:14 PM PST"
+      "checkedAt": "2026-11-13T23:53:53.017Z",
+      "state": "blocked",
+      "httpStatus": 403,
+      "message": "HTTP 403 - site blocked this server",
+      "checkedAtPT": "Nov 13, 2026, 3:53:53 PM PST"
     }
   ],
   "xPosts": [],
@@ -361,7 +358,7 @@
       "uri": "https://x.com/dealzbro_"
     }
   ],
-  "rejectedCount": 341,
+  "rejectedCount": 319,
   "rejectionReasonCounts": [
     {
       "reason": "does not match any watch rule",
@@ -369,15 +366,15 @@
     },
     {
       "reason": "not tech",
-      "count": 96
+      "count": 79
     },
     {
       "reason": "multi-item roundup / sale event",
-      "count": 38
+      "count": 37
     },
     {
       "reason": "accessory under $100",
-      "count": 22
+      "count": 19
     },
     {
       "reason": "no item price found",
@@ -393,7 +390,7 @@
     },
     {
       "reason": "movie / game / media",
-      "count": 2
+      "count": 1
     },
     {
       "reason": "multiple prices without a clear was/now marker ($79.99, $89.99)",
@@ -404,17 +401,17 @@
       "count": 1
     }
   ],
-  "scanSummary": "1 watch-rule matches kept from 480 fetched posts across 16/18 working sources; 341 filtered out (questions, news, roundups, ambiguous prices, non-matches). 0 flagged as possible price errors.",
-  "scannedAt": "2026-11-13T23:36:14.945Z",
-  "scannedAtPT": "Nov 13, 2026, 3:36:14 PM PST",
+  "scanSummary": "1 watch-rule matches kept from 460 fetched posts across 15/18 working sources; 319 filtered out (questions, news, roundups, ambiguous prices, non-matches). 0 flagged as possible price errors.",
+  "scannedAt": "2026-11-13T23:53:52.931Z",
+  "scannedAtPT": "Nov 13, 2026, 3:53:52 PM PST",
   "queryExecuted": "Free RSS/JSON deal feeds (zero AI, no paid APIs)",
   "newMatchCount": 0,
   "baselineComplete": true,
   "discordConfigured": false,
   "discordDelivery": "none",
   "sourceHealth": {
-    "ok": 16,
+    "ok": 15,
     "rate-limited": 1,
-    "blocked": 1
+    "blocked": 2
   }
 }
