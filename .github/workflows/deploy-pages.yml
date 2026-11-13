@@ -1,0 +1,86 @@
+name: Build and deploy GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    # Data-only commits (the daily heartbeat / rule-hit sync) must not rebuild Pages.
+    # GITHUB_TOKEN pushes also do not retrigger this workflow; paths-ignore covers other credentials.
+    paths-ignore:
+      - 'data/**'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Typecheck
+        run: npx tsc --noEmit
+
+      - name: Test
+        run: npm test
+
+      - name: Build Pages site
+        env:
+          VITE_BASE_PATH: /glitch-hunter/
+          VITE_DATA_REPO: Herbncheese/glitch-hunter
+          VITE_DATA_BRANCH: scanner-data
+        run: npm run build
+
+      - name: Verify base path and bundled data
+        run: |
+          set -euo pipefail
+          grep -q '/glitch-hunter/' dist/index.html
+          test -f dist/data/latest-scan.json
+          test -f dist/data/alerts-history.json
+          test -f dist/data/rejections.json
+          test -f dist/data/seen-alerts.json
+          if grep -R -E -q -i 'discord(app)?\.com/api/webhooks/[0-9]+/' dist/data; then
+            echo "webhook-like string in dist/data"
+            exit 1
+          fi
+
+      - name: Setup Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: check
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
