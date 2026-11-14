@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1794619101000-cronosthenewdawnswitch22",
+    "fingerprint": "walmart|22.00|cronosthenewdawnswitch222",
+    "title": "Cronos: The New Dawn (Switch 2) $22",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 22,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $22.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20305164-cronos-the-new-dawn-nintendo-switch-2-21-99-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20305164-cronos-the-new-dawn-nintendo-switch-2-21-99-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-14T02:23:50.671Z",
+    "triggeredAtPT": "Nov 13, 2026, 6:23:50 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1794561069000-899940insigniaf40series1",
     "fingerprint": "amazon|89.99|899940insigniaf40series1080pledfiresmarttvwvoiceremoteatamazon",
     "title": "$89.99 | 40\" Insignia F40 Series 1080p LED Fire Smart TV w/ Voice Remote at Amazon",
