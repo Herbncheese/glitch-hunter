@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-laptop-1794672263000-kingspecne1tbm2nvmegen3x",
+    "fingerprint": "walmart|125.99|kingspecne1tbm2nvmegen3x4ssd2280upto2400mbs3dnandflashinternalsolidstatedrivecom",
+    "title": "KingSpec NE 1TB M.2 NVMe Gen3x4 SSD 2280 - Up to 2400MB/s, 3D NAND Flash Internal Solid State Drive Compatible with Desktop and Laptop $125.99",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 125.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $125.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20309568-kingspec-ne-1tb-m-2-nvme-gen3x4-ssd-2280-up-to-2400mb-s-3d-nand-flash-internal-solid-state-drive-compatible-with-desktop-and-laptop-125-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20309568-kingspec-ne-1tb-m-2-nvme-gen3x4-ssd-2280-up-to-2400mb-s-3d-nand-flash-internal-solid-state-drive-compatible-with-desktop-and-laptop-125-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-14T20:10:11.194Z",
+    "triggeredAtPT": "Nov 14, 2026, 12:10:11 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-laptop-1794665277000-849fswmtbyviplivewireles",
     "fingerprint": "walmart|8.49|849fswmtbyviplivewirelessmouseg12slimledrechargeablesilentwirelessmouseforlaptop",
     "title": "$8.49 FS WMT+ by VIP LIVE Wireless Mouse, G12 Slim LED Rechargeable Silent Wireless Mouse for Laptop, 2.4G Portable USB Optical",
