@@ -2,6 +2,7 @@ import type { CheckPriceLink, GlitchDeal, GlitchType, PriceBasis, SourceState, S
 import type { XLink } from '../data/xLinks.ts';
 import { X_DEAL_ACCOUNTS, X_SEARCH_LINKS } from '../data/xLinks.ts';
 import { detectCondition, evaluateWatchRules, isKidsItem } from '../rules/watchRules.ts';
+import { classifyHotDeal, rankHotDeals } from './hotDeals.ts';
 import { formatPT } from './time.ts';
 
 /**
@@ -499,6 +500,7 @@ function detectRetailer(raw: RawItem): string {
     [/homedepot|home depot/, 'Home Depot'],
     [/lowes|lowe's/, "Lowe's"],
     [/gamestop/, 'GameStop'],
+    [/bj'?s|bjs wholesale/, "BJ's"],
     [/nintendo\.com|store\.nintendo/, 'Nintendo'],
     [/meta\.com|oculus/, 'Meta'],
     [/ebay/, 'eBay'],
@@ -563,7 +565,7 @@ export interface Rejection {
   reason: string;
 }
 
-export function normalize(raw: RawItem, now: number): { deal?: GlitchDeal; reject?: string } {
+export function normalize(raw: RawItem, now: number): { deal?: GlitchDeal; hot?: GlitchDeal; reject?: string } {
   const maxAge = raw.isGlitchFeed ? GLITCH_MAX_AGE_MS : GENERAL_MAX_AGE_MS;
   if (now - raw.pubMs > maxAge) return { reject: 'older than age limit' };
   const t = raw.title;
@@ -668,13 +670,18 @@ export function normalize(raw: RawItem, now: number): { deal?: GlitchDeal; rejec
     category: deal.category,
     detectedTimestamp: deal.detectedTimestamp,
   });
-  if (!deal.matchedRules.length) return { reject: 'does not match any watch rule' };
-  return { deal };
+  const hot = classifyHotDeal(deal, raw.text, now) ?? undefined;
+  if (!deal.matchedRules.length) {
+    if (hot) return { hot };
+    return { reject: 'does not match any watch rule' };
+  }
+  return { deal, hot };
 }
 
 
 export interface FeedScanResult {
   deals: GlitchDeal[];
+  hotDeals: GlitchDeal[];
   rejections: Rejection[];
   rejectedCount: number;
   sourceStatus: SourceStatus[];
@@ -743,22 +750,28 @@ export async function runFeedScan(now = Date.now()): Promise<FeedScanResult> {
 
   const all = SOURCES.flatMap((s) => byId.get(s.id)?.items || []);
   const seen = new Set<string>();
-  const deals: GlitchDeal[] = [];
-  const rejections: Rejection[] = [];
-  const kept = new Map<string, number>();
-  for (const raw of all) {
-    const key = raw.title.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 60);
-    if (seen.has(key)) continue;
-    seen.add(key);
-    const { deal, reject } = normalize(raw, now);
-    if (deal) {
-      deals.push(deal);
-      kept.set(raw.sourceId, (kept.get(raw.sourceId) || 0) + 1);
-    } else if (reject && reject !== 'older than age limit') {
-      rejections.push({ title: raw.title, source: raw.sourceLabel, reason: reject });
+    const deals: GlitchDeal[] = [];
+    const hotPool: GlitchDeal[] = [];
+    const rejections: Rejection[] = [];
+    const kept = new Map<string, number>();
+    for (const raw of all) {
+      const key = raw.title.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 60);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      const { deal, hot, reject } = normalize(raw, now);
+      if (deal) {
+        deals.push(deal);
+        kept.set(raw.sourceId, (kept.get(raw.sourceId) || 0) + 1);
+      }
+      if (hot) {
+        hotPool.push(hot);
+        if (!deal) kept.set(raw.sourceId, (kept.get(raw.sourceId) || 0) + 1);
+      } else if (!deal && reject && reject !== 'older than age limit') {
+        rejections.push({ title: raw.title, source: raw.sourceLabel, reason: reject });
+      }
     }
-  }
-  deals.sort((a, b) => (b.substanceScore || 0) - (a.substanceScore || 0));
+    deals.sort((a, b) => (b.substanceScore || 0) - (a.substanceScore || 0));
+    const hotDeals = rankHotDeals(hotPool);
 
   const sourceStatus: SourceStatus[] = SOURCES.map((s) => {
     const row = byId.get(s.id);
@@ -779,7 +792,8 @@ export async function runFeedScan(now = Date.now()): Promise<FeedScanResult> {
     sourceStatus,
     xSearchLinks: X_SEARCH_LINKS,
     xAccounts: X_DEAL_ACCOUNTS,
-    scanSummary: `${deals.length} watch-rule matches kept from ${all.length} fetched posts across ${okCount}/${SOURCES.length} working sources; ${rejections.length} filtered out (questions, news, roundups, ambiguous prices, non-matches). ${errCount} flagged as possible price errors.`,
+    hotDeals,
+    scanSummary: `${deals.length} watch-rule matches and ${hotDeals.length} hot deals kept from ${all.length} fetched posts across ${okCount}/${SOURCES.length} working sources; ${rejections.length} filtered out. ${errCount} flagged as possible price errors.`,
     scannedAt,
     scannedAtPT: formatPT(now),
     queryExecuted: 'Free RSS/JSON deal feeds (zero AI, no paid APIs)',

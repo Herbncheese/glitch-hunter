@@ -6,6 +6,7 @@ import { INITIAL_GLITCH_DEALS, DEFAULT_WATCHLIST_KEYWORDS } from './data/initial
 import { actionsSecretsUrl, actionsWorkflowUrl, loadDashboard } from './data/liveData';
 import { DealCard } from './components/DealCard';
 import { LiveGlitchRadarSidebar } from './components/LiveGlitchRadarSidebar';
+import { HOT_CATEGORY_LABELS, type HotCategory } from './scanner/hotDeals';
 import { formatPT } from './scanner/time';
 
 type SortOption = 'substance-desc' | 'recent' | 'discount-desc' | 'price-asc' | 'savings-desc';
@@ -14,6 +15,12 @@ type TabId = DealCategory | 'saved';
 const POLL_SECONDS = 60;
 
 const WATCH_TABS: TabId[] = ['tech-clearance', 'cyber-laptop', 'mac-mini', 'kids', 'local-ai', 'christmas-2026'];
+
+const HOT_TABS: { id: 'all' | 'saved' | HotCategory; label: string }[] = [
+  { id: 'all', label: 'All hot deals' },
+  ...(Object.entries(HOT_CATEGORY_LABELS) as [HotCategory, string][]).map(([id, label]) => ({ id, label })),
+  { id: 'saved', label: 'Saved' },
+];
 
 const CATEGORY_TABS: { id: TabId; label: string }[] = [
   { id: 'all', label: 'All Matches' },
@@ -55,6 +62,10 @@ function playBotAlertSound() {
 
 export default function App() {
   const [deals, setDeals] = useState<GlitchDeal[]>(INITIAL_GLITCH_DEALS);
+  const [hotDeals, setHotDeals] = useState<GlitchDeal[]>([]);
+  const [board, setBoard] = useState<'hot' | 'watch'>('hot');
+  const [hotTab, setHotTab] = useState<(typeof HOT_TABS)[number]['id']>('all');
+  const [activeStores, setActiveStores] = useState<string[]>([]);
   const [activeTab, setActiveTab] = useState<TabId>('all');
   const [minDiscount, setMinDiscount] = useState<number>(0);
   const [searchQuery, setSearchQuery] = useState<string>('');
@@ -96,13 +107,16 @@ export default function App() {
     [watchlistInput]
   );
 
-  const dealsWithWatchlist = useMemo(() => {
+  const annotate = (list: GlitchDeal[]) => {
     const regexes = parsedWatchlistKeywords.map((kw) => ({ kw, re: new RegExp(`\\b${escapeRe(kw)}\\b`, 'i') }));
-    return deals.map((deal) => ({
+    return list.map((deal) => ({
       ...deal,
       matchedWatchlistKeywords: regexes.filter(({ re }) => re.test(deal.title)).map(({ kw }) => kw),
     }));
-  }, [deals, parsedWatchlistKeywords]);
+  };
+  const dealsWithWatchlist = useMemo(() => annotate(deals), [deals, parsedWatchlistKeywords]);
+  const hotWithWatchlist = useMemo(() => annotate(hotDeals), [hotDeals, parsedWatchlistKeywords]);
+  const boardDeals = board === 'hot' ? hotWithWatchlist : dealsWithWatchlist;
 
   const handleToggleSave = (id: string) =>
     setSavedIds((prev) => (prev.includes(id) ? prev.filter((item) => item !== id) : [...prev, id]));
@@ -131,6 +145,7 @@ export default function App() {
         } else {
           setDeals([]);
         }
+        setHotDeals(Array.isArray(scan.hotDeals) ? scan.hotDeals : []);
         setSourceStatus(Array.isArray(scan.sourceStatus) ? scan.sourceStatus : []);
         setXPosts(Array.isArray(scan.xPosts) ? scan.xPosts : []);
         setXSearchLinks(Array.isArray(scan.xSearchLinks) ? scan.xSearchLinks : []);
@@ -193,10 +208,14 @@ export default function App() {
 
   const filteredDeals = useMemo(() => {
     const q = searchQuery.trim().toLowerCase();
-    return dealsWithWatchlist
+    return boardDeals
       .filter((deal) => {
         if (watchlistOnlyFilter && !(deal.matchedWatchlistKeywords || []).length) return false;
-        if (!matchesTab(deal, activeTab)) return false;
+        if (board === 'hot') {
+          if (hotTab === 'saved' && !savedIds.includes(deal.id)) return false;
+          if (hotTab !== 'all' && hotTab !== 'saved' && deal.hotCategory !== hotTab) return false;
+          if (activeStores.length > 0 && !activeStores.includes(deal.retailer)) return false;
+        } else if (!matchesTab(deal, activeTab)) return false;
         if (minDiscount > 0 && deal.discountPercent < minDiscount) return false;
         if (activeSources.length > 0 && !activeSources.includes(deal.sourceChannel)) return false;
         if (q) {
@@ -207,6 +226,7 @@ export default function App() {
       })
       .sort((a, b) => {
         if (sortBy === 'substance-desc') {
+          if (board === 'hot') return (b.hotScore || 0) - (a.hotScore || 0) || b.detectedTimestamp - a.detectedTimestamp;
           const diff = (b.substanceScore || 0) - (a.substanceScore || 0);
           return diff !== 0 ? diff : b.detectedTimestamp - a.detectedTimestamp;
         }
@@ -220,7 +240,7 @@ export default function App() {
         return b.detectedTimestamp - a.detectedTimestamp;
       });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [dealsWithWatchlist, watchlistOnlyFilter, activeTab, minDiscount, activeSources, searchQuery, sortBy, savedIds]);
+  }, [boardDeals, board, hotTab, activeStores, watchlistOnlyFilter, activeTab, minDiscount, activeSources, searchQuery, sortBy, savedIds]);
 
   // All KPI numbers are computed from the currently fetched deals - nothing hardcoded.
   const metrics = useMemo(() => {
@@ -246,11 +266,11 @@ export default function App() {
     setActiveTab('all');
     setSearchQuery('');
     setActiveSources([]);
+    setActiveStores([]);
+    setHotTab('all');
     setMinDiscount(0);
     setWatchlistOnlyFilter(false);
   };
-
-  const navTabs: TabId[] = ['all', 'price-errors', 'tech-clearance', 'cyber-laptop', 'kids', 'christmas-2026'];
 
   return (
     <div className="min-h-screen bg-[#0B0F17] text-slate-100 flex flex-col">
@@ -266,17 +286,21 @@ export default function App() {
           >
             GlitchHunter
           </a>
-          <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-slate-400">
-            {navTabs.map((id) => (
-              <button
-                key={id}
-                type="button"
-                onClick={() => setActiveTab(id)}
-                className={`hover:text-slate-100 transition-colors whitespace-nowrap shrink-0 ${activeTab === id ? 'text-emerald-400' : ''}`}
-              >
-                {CATEGORY_TABS.find((t) => t.id === id)?.label}
-              </button>
-            ))}
+          <nav className="flex items-center gap-2 text-sm font-medium">
+            <button
+              type="button"
+              onClick={() => setBoard('hot')}
+              className={`px-3 py-1.5 rounded-lg ${board === 'hot' ? 'bg-emerald-500 text-slate-950 font-semibold' : 'text-slate-300 hover:text-slate-100'}`}
+            >
+              Hot deals <span className="font-mono">{hotDeals.length}</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => setBoard('watch')}
+              className={`px-3 py-1.5 rounded-lg ${board === 'watch' ? 'bg-emerald-500 text-slate-950 font-semibold' : 'text-slate-300 hover:text-slate-100'}`}
+            >
+              Watch rules <span className="font-mono">{deals.length}</span>
+            </button>
           </nav>
           <div className="flex items-center shrink-0">
             <button
@@ -303,7 +327,7 @@ export default function App() {
                   : 'Connecting to deal sources...'}
               </div>
               <h1 className="font-display text-2xl sm:text-3xl font-bold text-slate-100 tracking-tight text-balance">
-                Live Price Errors & Watch-Rule Matches
+                {board === 'hot' ? 'Hot deals from legit stores' : 'Watch-rule matches'}
               </h1>
               <p className="text-sm text-slate-400 mt-2 leading-relaxed">{scanSummary}</p>
             </div>
@@ -401,16 +425,21 @@ export default function App() {
 
           <div className="flex flex-col xl:flex-row xl:items-center justify-between gap-5">
             <div role="tablist" aria-label="Deal Categories" className="flex items-center gap-1.5 overflow-x-auto pb-1 xl:pb-0">
-              {CATEGORY_TABS.map((tab) => {
-                const isActive = activeTab === tab.id;
-                const count = tab.id === 'saved' ? savedIds.length : dealsWithWatchlist.filter((d) => matchesTab(d, tab.id)).length;
+              {(board === 'hot' ? HOT_TABS : CATEGORY_TABS).map((tab) => {
+                const isActive = board === 'hot' ? hotTab === tab.id : activeTab === tab.id;
+                const count =
+                  tab.id === 'saved'
+                    ? boardDeals.filter((deal) => savedIds.includes(deal.id)).length
+                    : board === 'hot'
+                      ? hotWithWatchlist.filter((deal) => tab.id === 'all' || deal.hotCategory === tab.id).length
+                      : dealsWithWatchlist.filter((deal) => matchesTab(deal, tab.id as TabId)).length;
                 return (
                   <button
                     key={tab.id}
                     role="tab"
                     aria-selected={isActive}
                     type="button"
-                    onClick={() => setActiveTab(tab.id)}
+                    onClick={() => (board === 'hot' ? setHotTab(tab.id as (typeof HOT_TABS)[number]['id']) : setActiveTab(tab.id as TabId))}
                     className={`px-3 py-2 rounded-lg text-xs font-medium transition-colors whitespace-nowrap shrink-0 inline-flex items-center gap-1.5 ${
                       isActive ? 'bg-emerald-500 text-slate-950 font-semibold' : 'bg-[#0B0F17] text-slate-300 hover:text-slate-100 border border-slate-800/90'
                     }`}
@@ -465,13 +494,38 @@ export default function App() {
               </div>
             </div>
           </div>
+          {board === 'hot' && (
+            <div className="flex items-center gap-1.5 overflow-x-auto">
+              <span className="text-[11px] text-slate-500 shrink-0">Store</span>
+              {Array.from(
+                hotWithWatchlist.reduce((counts, deal) => counts.set(deal.retailer, (counts.get(deal.retailer) || 0) + 1), new Map<string, number>())
+              )
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 12)
+                .map(([store, count]) => {
+                  const on = activeStores.includes(store);
+                  return (
+                    <button
+                      key={store}
+                      type="button"
+                      onClick={() => setActiveStores((prev) => (prev.includes(store) ? prev.filter((item) => item !== store) : [...prev, store]))}
+                      className={`px-2.5 py-1 rounded-lg text-[11px] whitespace-nowrap shrink-0 border ${on ? 'bg-emerald-500/15 border-emerald-500/40 text-emerald-200' : 'bg-[#0B0F17] border-slate-800 text-slate-300'}`}
+                    >
+                      {store} <span className="font-mono">{count}</span>
+                    </button>
+                  );
+                })}
+            </div>
+          )}
         </section>
 
         <section className="grid grid-cols-2 lg:grid-cols-4 gap-4">
           <div className="bg-[#111827] border border-slate-800/90 rounded-xl p-4">
             <div className="text-xs text-slate-400">Deals shown</div>
             <div className="font-mono tabular-nums text-2xl font-bold text-slate-100 mt-1">{metrics.activeCount}</div>
-            <div className="text-[11px] text-slate-500 mt-1">of {dealsWithWatchlist.length} watch-rule matches fetched</div>
+            <div className="text-[11px] text-slate-500 mt-1">
+              of {board === 'hot' ? `${hotDeals.length} hot deals` : `${dealsWithWatchlist.length} watch-rule matches`}
+            </div>
           </div>
           <div className="bg-[#111827] border border-slate-800/90 rounded-xl p-4">
             <div className="text-xs text-slate-400">Possible price errors</div>
@@ -641,7 +695,7 @@ export default function App() {
 
           <div className="lg:col-span-4">
             <LiveGlitchRadarSidebar
-              deals={dealsWithWatchlist}
+              deals={boardDeals}
               activeSources={activeSources}
               onToggleSource={handleToggleSource}
               onClearSources={() => setActiveSources([])}

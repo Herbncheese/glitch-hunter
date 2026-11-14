@@ -77,6 +77,9 @@ export interface GlitchDeal {
   substanceScore?: number;
   matchedWatchlistKeywords?: string[];
   matchedRules?: RuleMatch[];
+  hotCategory?: 'tvs-monitors' | 'laptops-pcs' | 'tablets' | 'phones' | 'consoles' | 'gpus-ssds' | 'audio' | 'wearables' | 'kids';
+  hotScore?: number;
+  seenAtPT?: string;
   retailer: string;
   sourceChannel: SourcePlatform;
   sourceUrl: string; // discussion / article link on the source site
@@ -123,6 +126,7 @@ export interface XSearchLink {
 
 export interface ScanResponse {
   deals: GlitchDeal[];
+  hotDeals?: GlitchDeal[];
   groundingUrls: GroundingCitation[];
   sourceStatus: SourceStatus[];
   xPosts: XGlitchPost[];
