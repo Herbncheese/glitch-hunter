@@ -1,165 +1,89 @@
 {
-  "deals": [],
-  "hotDeals": [
+  "deals": [
     {
-      "id": "sd-frontpage-1794642737000-32msioptixg32c4wfhd165hz",
-      "title": "32\" MSI Optix G32C4W FHD 165Hz FreeSync Curved VA Monitor $120 + Free S&H",
-      "skuOrAsin": "",
-      "category": "tvs-monitors",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 120,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 33,
-      "substanceScore": 115,
-      "retailer": "Walmart",
-      "sourceChannel": "Slickdeals Frontpage",
-      "sourceUrl": "https://slickdeals.net/f/20294028-120-fs-walmart-msi-optix-g32c4w-32-inch-curved-1920x1080-hdmi-dp-165hz-1ms-freesync-lcd-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T07:52:17.000Z",
-      "detectedTimestamp": 1794642737000,
-      "directBuyUrl": "https://slickdeals.net/f/20294028-120-fs-walmart-msi-optix-g32c4w-32-inch-curved-1920x1080-hdmi-dp-165hz-1ms-freesync-lcd-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "specsSummary": "https://www.walmart.com/ip/seort/975393584 https://www.walmart.com/ip/seort/975393584",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=32%22%20MSI%20Optix%20G32C4W%20FHD%20165Hz%20FreeSync%20Curved%20VA%20Monitor%20%2B"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Frontpage",
-          "uri": "https://slickdeals.net/f/20294028-120-fs-walmart-msi-optix-g32c4w-32-inch-curved-1920x1080-hdmi-dp-165hz-1ms-freesync-lcd-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "tvs-monitors",
-      "hotScore": 121,
-      "seenAtPT": "Nov 13, 2026, 11:52:17 PM PST"
-    },
-    {
-      "id": "sd-frontpage-1794645855000-samsclubmembers50vizioqu",
-      "title": "Sam's Club Members: 50\" VIZIO Quantum Series 4K QLED Smart TV $128 + Free S&H w/ Plus",
-      "skuOrAsin": "",
-      "category": "tvs-monitors",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 128,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 27,
-      "substanceScore": 111,
-      "retailer": "Sam's Club",
-      "sourceChannel": "Slickdeals Frontpage",
-      "sourceUrl": "https://slickdeals.net/f/20304195-sam-s-club-members-50-vizio-quantum-series-4k-qled-smart-tv-vqd50x-10-128-free-s-h-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T08:44:15.000Z",
-      "detectedTimestamp": 1794645855000,
-      "directBuyUrl": "https://slickdeals.net/f/20304195-sam-s-club-members-50-vizio-quantum-series-4k-qled-smart-tv-vqd50x-10-128-free-s-h-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "specsSummary": "Sam's Club [ samsclub.com ] has for Members : 50\" VIZIO Quantum Series 4K QLED Smart TV (VQD50X-10) on sale for $128 - $100 off (automatically applied at checkout) = $128 . Shipping is free for Orders $50+ for Sam's Club...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Sam's%20Club%20Members%3A%2050%22%20VIZIO%20Quantum%20Series%204K%20QLED%20Smart%20TV%20%2B%20w%2F%20Plus"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Frontpage",
-          "uri": "https://slickdeals.net/f/20304195-sam-s-club-members-50-vizio-quantum-series-4k-qled-smart-tv-vqd50x-10-128-free-s-h-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "tvs-monitors",
-      "hotScore": 116,
-      "seenAtPT": "Nov 14, 2026, 12:44:15 AM PST"
-    },
-    {
-      "id": "sd-laptop-1794595437000-dell156dc15250laptopi513",
-      "title": "Dell 15.6\" DC15250 Laptop (i5-1334U, 8GB, 512GB SSD, FHD Touch) $429 + Free Shipping",
+      "id": "sd-laptop-1794665277000-849fswmtbyviplivewireles",
+      "title": "$8.49 FS WMT+ by VIP LIVE Wireless Mouse, G12 Slim LED Rechargeable Silent Wireless Mouse for Laptop, 2.4G Portable USB Optical",
       "skuOrAsin": "",
       "category": "laptops-pcs",
-      "glitchType": "Big Markdown",
+      "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
-      "originalPrice": 849.99,
-      "glitchPrice": 429,
-      "discountPercent": 50,
-      "priceBasis": "labeled-was",
-      "isVerifiedSinglePrice": false,
-      "condition": "New",
-      "upvoteScore": 1,
-      "substanceScore": 255,
+      "originalPrice": 0,
+      "glitchPrice": 8.49,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 3,
+      "substanceScore": 84,
       "retailer": "Walmart",
       "sourceChannel": "Slickdeals laptop search",
-      "sourceUrl": "https://slickdeals.net/f/20305179-dell-15-6-dc15250-laptop-i5-1334u-8gb-512gb-ssd-fhd-touch-429-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-13T18:43:57.000Z",
-      "detectedTimestamp": 1794595437000,
-      "directBuyUrl": "https://slickdeals.net/f/20305179-dell-15-6-dc15250-laptop-i5-1334u-8gb-512gb-ssd-fhd-touch-429-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.walmart.com/ip/Dell-D...6387515296 $429 at Walmart, sold & shipped by Walmart.com. Brand new, with free shipping (pickup also available). Dell DC15250 15.6\" laptop: - Intel Core i5-1334U - 8GB DDR5 RAM, 512GB...",
+      "sourceUrl": "https://slickdeals.net/f/20308953-8-49-fs-wmt-by-vip-live-wireless-mouse-g12-slim-led-rechargeable-silent-wireless-mouse-for-laptop-2-4g-portable-usb-optical?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T14:07:57.000Z",
+      "detectedTimestamp": 1794665277000,
+      "directBuyUrl": "https://slickdeals.net/f/20308953-8-49-fs-wmt-by-vip-live-wireless-mouse-g12-slim-led-rechargeable-silent-wireless-mouse-for-laptop-2-4g-portable-usb-optical?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.walmart.com/ip/Wirele...886079 6?cl https://www.walmart.com/ip/Wirele...8860796?cl",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Dell%2015.6%22%20DC15250%20Laptop%20i5-1334U%2C%208GB%2C%20512GB%20SSD%2C%20FHD%20Touch%20%2B"
+          "uri": "https://www.google.com/search?tbm=shop&q=FS%20WMT%2B%20by%20VIP%20LIVE%20Wireless%20Mouse%2C%20G12%20Slim%20LED%20Rechargeable%20Silent%20Wireless%20Mouse%20for%20La"
         }
       ],
       "groundingSources": [
         {
           "title": "Slickdeals laptop search",
-          "uri": "https://slickdeals.net/f/20305179-dell-15-6-dc15250-laptop-i5-1334u-8gb-512gb-ssd-fhd-touch-429-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2"
+          "uri": "https://slickdeals.net/f/20308953-8-49-fs-wmt-by-vip-live-wireless-mouse-g12-slim-led-rechargeable-silent-wireless-mouse-for-laptop-2-4g-portable-usb-optical?utm_source=rss&utm_content=def&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 116,
-      "seenAtPT": "Nov 13, 2026, 10:43:57 AM PST"
-    },
+      "matchedRules": [
+        {
+          "ruleId": "tech-clearance",
+          "label": "Tech & Clearance",
+          "reason": "Laptop (not an accessory) at $8.49 ≤ $150"
+        }
+      ]
+    }
+  ],
+  "hotDeals": [
     {
-      "id": "sd-frontpage-1794635781000-amdryzen79850x3d8coredes",
-      "title": "AMD Ryzen 7 9850X3D 8-Core Desktop AM5 Processor $419 + Free S&H",
+      "id": "sd-frontpage-1794667036000-selectmicrocenterstoresa",
+      "title": "Select Micro Center Stores: Apple Mac mini Desktop: M4 Chip, 16GB RAM, 256GB SSD $600 + Free Pickup",
       "skuOrAsin": "",
       "category": "laptops-pcs",
       "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
       "originalPrice": 0,
-      "glitchPrice": 419,
+      "glitchPrice": 600,
       "discountPercent": 0,
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 27,
-      "substanceScore": 104,
-      "retailer": "Amazon",
+      "upvoteScore": 51,
+      "substanceScore": 133,
+      "retailer": "Best Buy",
       "sourceChannel": "Slickdeals Frontpage",
-      "sourceUrl": "https://slickdeals.net/f/20302224-ac-419-amd-ryzen-7-9850x3d-desktop-processor-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T05:56:21.000Z",
-      "detectedTimestamp": 1794635781000,
-      "directBuyUrl": "https://slickdeals.net/f/20302224-ac-419-amd-ryzen-7-9850x3d-desktop-processor-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "specsSummary": "Amazon has AMD Ryzen 7 9850X3D Desktop Processor (100-100001973WOF) on sale for $454 - $35 clip coupon on the page = $419 . Shipping is free . Thanks to Community Member phoinix for sharing this deal.[LIST][*]Note: You m...",
+      "sourceUrl": "https://slickdeals.net/f/20307996-apple-mac-mini-desktop-m4-chip-16gb-ram-256gb-ssd-599-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T14:37:16.000Z",
+      "detectedTimestamp": 1794667036000,
+      "directBuyUrl": "https://slickdeals.net/f/20307996-apple-mac-mini-desktop-m4-chip-16gb-ram-256gb-ssd-599-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "specsSummary": "Available In-Store Only; In stock at all stores when posting. Cheaper than the recent popular FP deal . Best Buy [ bestbuy.com ] might price match. *Available In-Store Only;* In stock at all stores when posting. Cheaper ...",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=AMD%20Ryzen%207%209850X3D%208-Core%20Desktop%20AM5%20Processor%20%2B"
+          "uri": "https://www.google.com/search?tbm=shop&q=Select%20Micro%20Center%20Stores%3A%20Apple%20Mac%20mini%20Desktop%3A%20M4%20Chip%2C%2016GB%20RAM%2C%20256GB%20SSD%20%2B%20Free%20Pi"
         }
       ],
       "groundingSources": [
         {
           "title": "Slickdeals Frontpage",
-          "uri": "https://slickdeals.net/f/20302224-ac-419-amd-ryzen-7-9850x3d-desktop-processor-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2"
+          "uri": "https://slickdeals.net/f/20307996-apple-mac-mini-desktop-m4-chip-16gb-ram-256gb-ssd-599-99?utm_source=rss&utm_content=fp&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "laptops-pcs",
-      "hotScore": 113,
-      "seenAtPT": "Nov 13, 2026, 9:56:21 PM PST"
+      "hotScore": 128,
+      "seenAtPT": "Nov 14, 2026, 6:37:16 AM PST"
     },
     {
       "id": "9to5toys-1794573591000-bestbuyearlyblackfridayd",
@@ -174,7 +98,7 @@
       "priceBasis": "percent-off",
       "isVerifiedSinglePrice": false,
       "condition": "Unverified condition",
-      "substanceScore": 209,
+      "substanceScore": 200,
       "retailer": "Best Buy",
       "sourceChannel": "9to5Toys",
       "sourceUrl": "https://9to5toys.com/2026/11/13/best-buy-early-black-friday-doorbuster-wd-black-sn850p-2tb-ps5-ssd/",
@@ -197,173 +121,8 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "consoles",
-      "hotScore": 108,
-      "seenAtPT": "Nov 13, 2026, 4:39:51 AM PST"
-    },
-    {
-      "id": "reddit-deals-1794544104000-prebuiltsamsclubinstoreo",
-      "title": "[Prebuilt] Sams Club in Store Only | HP OMEN Gaming Desktop | Intel i7-14700F, 16GB DDR5 5600 RAM, 1TB SSD, NVIDIA RTX 5060 | $539.31 ($1199.00-$659.69) | YMMV!",
-      "skuOrAsin": "Prebuilt",
-      "category": "laptops-pcs",
-      "glitchType": "Big Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 1199,
-      "glitchPrice": 539.31,
-      "discountPercent": 55,
-      "priceBasis": "equation",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 300,
-      "retailer": "Sam's Club",
-      "sourceChannel": "r/buildapcsales",
-      "sourceUrl": "https://www.reddit.com/r/buildapcsales/comments/1xuyei8/prebuilt_sams_club_in_store_only_hp_omen_gaming/",
-      "timeDetected": "2026-11-13T04:28:24.000Z",
-      "detectedTimestamp": 1794544104000,
-      "directBuyUrl": "https://www.samsclub.com/ip/hp-tg03-0007c/16656420249",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Sams%20Club%20in%20Store%20Only%20HP%20OMEN%20Gaming%20Desktop%20Intel%20i7-14700F%2C%2016GB%20DDR5%205600%20RAM%2C%201TB%20SS"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/buildapcsales",
-          "uri": "https://www.reddit.com/r/buildapcsales/comments/1xuyei8/prebuilt_sams_club_in_store_only_hp_omen_gaming/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 108,
-      "seenAtPT": "Nov 12, 2026, 8:28:24 PM PST"
-    },
-    {
-      "id": "sd-frontpage-1794644933000-916pclegocreator3in1icon",
-      "title": "916-Pc LEGO Creator 3-in-1 Iconic Ferris Wheel Building Set $79.95 + Free S&H",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 79.95,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 28,
-      "substanceScore": 86,
-      "retailer": "Amazon",
-      "sourceChannel": "Slickdeals Frontpage",
-      "sourceUrl": "https://slickdeals.net/f/20305038-916-pc-lego-creator-3-in-1-iconic-ferris-wheel-building-set-79-95-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T08:28:53.000Z",
-      "detectedTimestamp": 1794644933000,
-      "directBuyUrl": "https://slickdeals.net/f/20305038-916-pc-lego-creator-3-in-1-iconic-ferris-wheel-building-set-79-95-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "specsSummary": "Amazon [ amazon.com ] has 916-Piece LEGO Creator 3-in-1 Iconic Ferris Wheel Building Set (31389) on sale for $79.95 . Shipping is free . About this Item:[LIST][*]3-in-1 building set: builds a Ferris wheel, UFO ride, or c...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=916-Pc%20LEGO%20Creator%203-in-1%20Iconic%20Ferris%20Wheel%20Building%20Set%20%2B"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Frontpage",
-          "uri": "https://slickdeals.net/f/20305038-916-pc-lego-creator-3-in-1-iconic-ferris-wheel-building-set-79-95-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "kids",
-      "hotScore": 106,
-      "seenAtPT": "Nov 14, 2026, 12:28:53 AM PST"
-    },
-    {
-      "id": "reddit-deals-1794598560000-bosesoundlinkflexbluetoo",
-      "title": "Bose SoundLink Flex Bluetooth Speaker (2nd Gen) at $99 (50% off) Early Black Friday Deal",
-      "skuOrAsin": "ASIN B0D6WD2QSQ",
-      "category": "other-tech",
-      "glitchType": "Big Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 198,
-      "glitchPrice": 99,
-      "discountPercent": 50,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 151,
-      "retailer": "Amazon",
-      "sourceChannel": "r/deals",
-      "sourceUrl": "https://www.reddit.com/r/deals/comments/1xvhfpn/bose_soundlink_flex_bluetooth_speaker_2nd_gen_at/",
-      "timeDetected": "2026-11-13T19:36:00.000Z",
-      "detectedTimestamp": 1794598560000,
-      "directBuyUrl": "https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?th=1&linkCode=ll2&tag=kashkoli0f-20&linkId=72f1058ac7a933a0449acce26862cbf4&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
-      "specsSummary": "Bose SoundLink Flex Bluetooth Speaker (2nd Gen) - Portable Outdoor Speaker with Hi-Fi Audio, Waterproof and Dustproof, USB-C, Up to 12 Hours Battery Life",
-      "checkPriceLinks": [
-        {
-          "label": "camelcamelcamel price history",
-          "uri": "https://camelcamelcamel.com/product/B0D6WD2QSQ"
-        },
-        {
-          "label": "Keepa price history",
-          "uri": "https://keepa.com/#!product/1-B0D6WD2QSQ"
-        },
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Bose%20SoundLink%20Flex%20Bluetooth%20Speaker%202nd%20Gen%20at%2050%25%20off%20Early%20Black%20Friday%20Deal"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/deals",
-          "uri": "https://www.reddit.com/r/deals/comments/1xvhfpn/bose_soundlink_flex_bluetooth_speaker_2nd_gen_at/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "audio",
-      "hotScore": 105,
-      "seenAtPT": "Nov 13, 2026, 11:36:00 AM PST"
-    },
-    {
-      "id": "reddit-deals-1794577398000-lenovolenovoloq15amdamdr",
-      "title": "[Lenovo]Lenovo LOQ (15” AMD):AMD Ryzen 5 220 Processor, 15.6\" FHD 100% sRGB 144Hz display, 16 GB RAM, 512 GB SSD, Nvidia RTX RTX 5050 8GB 100W graphics card with 45% OFF, FOR $999.99 🔻See OP's Comment below🔻",
-      "skuOrAsin": "Lenovo",
-      "category": "laptops-pcs",
-      "glitchType": "Big Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 1818.16,
-      "glitchPrice": 999.99,
-      "discountPercent": 45,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 326,
-      "retailer": "Lenovo",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xv87wc/lenovolenovo_loq_15_amdamd_ryzen_5_220_processor/",
-      "timeDetected": "2026-11-13T13:43:18.000Z",
-      "detectedTimestamp": 1794577398000,
-      "directBuyUrl": "https://lenovo.vzew.net/nXDPrV",
-      "specsSummary": "Considering how expensive gaming laptops have become lately, I think this is a pretty solid deal for $999.99. The RTX 5050 runs at a full 100W TGP, so you're not getting a heavily power-limited GPU. The Ryzen 5 220 isn't...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Lenovo%20LOQ%2015%E2%80%9D%20AMD%20%3AAMD%20Ryzen%205%20220%20Processor%2C%2015.6%22%20FHD%20100%25%20sRGB%20144Hz%20display%2C%2016%20GB%20RA"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xv87wc/lenovolenovo_loq_15_amdamd_ryzen_5_220_processor/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
       "hotScore": 102,
-      "seenAtPT": "Nov 13, 2026, 5:43:18 AM PST"
+      "seenAtPT": "Nov 13, 2026, 4:39:51 AM PST"
     },
     {
       "id": "9to5toys-1794573290000-massiveearlyblackfridayd",
@@ -378,7 +137,7 @@
       "priceBasis": "percent-off",
       "isVerifiedSinglePrice": false,
       "condition": "Unverified condition",
-      "substanceScore": 121,
+      "substanceScore": 112,
       "retailer": "Amazon",
       "sourceChannel": "9to5Toys",
       "sourceUrl": "https://9to5toys.com/2026/11/13/massive-early-black-friday-deal-nothing-headphone-a/",
@@ -401,166 +160,128 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "audio",
-      "hotScore": 101,
+      "hotScore": 94,
       "seenAtPT": "Nov 13, 2026, 4:34:50 AM PST"
     },
     {
-      "id": "sd-frontpage-1794638622000-selectbestbuystoresopenb",
-      "title": "Select Best Buy Stores / Open Box: Apple Magic Keyboard (USB-C) from $26 + Free Pickup",
+      "id": "sd-popular-1794648707000-dellultrasharp326kmonito",
+      "title": "Dell Ultra Sharp 32” 6K Monitor $749",
       "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 26,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Open-Box",
-      "upvoteScore": 31,
-      "substanceScore": 85,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals Frontpage",
-      "sourceUrl": "https://slickdeals.net/f/20305125-ymmv-open-box-apple-magic-keyboard-usb-c-white-from-25-99-w-store-pick-up?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T06:43:42.000Z",
-      "detectedTimestamp": 1794638622000,
-      "directBuyUrl": "https://slickdeals.net/f/20305125-ymmv-open-box-apple-magic-keyboard-usb-c-white-from-25-99-w-store-pick-up?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "specsSummary": "Best Buy has Open Box: A pple - Magic Keyboard (USB-C) - White from $25.99 + Store Pick-Up (where in stock, ymmv ) Good: $27.99 Fair: $25.99 Magic Keyboard delivers a remarkably comfortable and precise typing experience ...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Select%20Best%20Buy%20Stores%20%2F%20Open%20Box%3A%20Apple%20Magic%20Keyboard%20USB-C%20from%20%2B%20Free%20Pickup"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Frontpage",
-          "uri": "https://slickdeals.net/f/20305125-ymmv-open-box-apple-magic-keyboard-usb-c-white-from-25-99-w-store-pick-up?utm_source=rss&utm_content=fp&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "kids",
-      "hotScore": 100,
-      "seenAtPT": "Nov 13, 2026, 10:43:42 PM PST"
-    },
-    {
-      "id": "sd-frontpage-1794641784000-asmodeepaleoboardgame24p",
-      "title": "Asmodee Paleo Board Game (2-4 Players) $31.50",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 31.5,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 19,
-      "substanceScore": 75,
-      "retailer": "Amazon",
-      "sourceChannel": "Slickdeals Frontpage",
-      "sourceUrl": "https://slickdeals.net/f/20306709-asmodee-paleo-cooperative-strategy-board-game-2-4-players-ages-10-31-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T07:36:24.000Z",
-      "detectedTimestamp": 1794641784000,
-      "directBuyUrl": "https://slickdeals.net/f/20306709-asmodee-paleo-cooperative-strategy-board-game-2-4-players-ages-10-31-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "specsSummary": "Amazon [ amazon.com ] has Asmodee Paleo Cooperative Strategy Board Game on sale for $31.49 . Shipping is free w/ Prime or on orders $35+. Walmart [ walmart.com ] also has Asmodee Paleo Board Game (2-4 Players) on sale fo...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Asmodee%20Paleo%20Board%20Game%202-4%20Players"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Frontpage",
-          "uri": "https://slickdeals.net/f/20306709-asmodee-paleo-cooperative-strategy-board-game-2-4-players-ages-10-31-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "kids",
-      "hotScore": 88,
-      "seenAtPT": "Nov 13, 2026, 11:36:24 PM PST"
-    },
-    {
-      "id": "reddit-deals-1794500102000-monitorasrockphantomgami",
-      "title": "[Monitor] ASRock Phantom Gaming QD-OLED 27\" QHD 2K 1440p 360Hz 0.03ms - $349 ($296 OFF)",
-      "skuOrAsin": "Monitor",
       "category": "tvs-monitors",
-      "glitchType": "Big Markdown",
+      "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
-      "originalPrice": 645,
-      "glitchPrice": 349,
-      "discountPercent": 46,
-      "priceBasis": "dollars-off",
-      "isVerifiedSinglePrice": false,
+      "originalPrice": 0,
+      "glitchPrice": 749,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "substanceScore": 191,
-      "retailer": "Newegg",
-      "sourceChannel": "r/buildapcsales",
-      "sourceUrl": "https://www.reddit.com/r/buildapcsales/comments/1xugxj8/monitor_asrock_phantom_gaming_qdoled_27_qhd_2k/",
-      "timeDetected": "2026-11-12T16:15:02.000Z",
-      "detectedTimestamp": 1794500102000,
-      "directBuyUrl": "https://www.newegg.com/asrock-phantom-gaming-pgo27qfv-27-qhd-hdmi-30khz-510khz-48hz-360hz-dp-30khz-510khz-48hz-360hz-oled-black/p/N82E16824946006",
-      "specsSummary": "",
+      "upvoteScore": 10,
+      "substanceScore": 79,
+      "retailer": "Dell",
+      "sourceChannel": "Slickdeals Popular",
+      "sourceUrl": "https://slickdeals.net/f/20308407-dell-ultra-sharp-32-6k-monitor-749?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T09:31:47.000Z",
+      "detectedTimestamp": 1794648707000,
+      "directBuyUrl": "https://slickdeals.net/f/20308407-dell-ultra-sharp-32-6k-monitor-749?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "specsSummary": "Includes: 1 x Thunderbolt 4 / USB-C cable - 5 ft 1 x Mini DisplayPort cable - miniDisplayPort to miniDisplayPort - 3.3 ft 1 x USB 3.2 Gen 2 cable - USB Type A to C - 3.3 ft Features: Model: U3224KB Native Resolution 6K 6...",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=ASRock%20Phantom%20Gaming%20QD-OLED%2027%22%20QHD%202K%201440p%20360Hz%200.03ms%20-%20OFF"
+          "uri": "https://www.google.com/search?tbm=shop&q=Dell%20Ultra%20Sharp%2032%E2%80%9D%206K%20Monitor"
         }
       ],
       "groundingSources": [
         {
-          "title": "r/buildapcsales",
-          "uri": "https://www.reddit.com/r/buildapcsales/comments/1xugxj8/monitor_asrock_phantom_gaming_qdoled_27_qhd_2k/"
+          "title": "Slickdeals Popular",
+          "uri": "https://slickdeals.net/f/20308407-dell-ultra-sharp-32-6k-monitor-749?utm_source=rss&utm_content=ht&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 87,
-      "seenAtPT": "Nov 12, 2026, 8:15:02 AM PST"
+      "hotScore": 93,
+      "seenAtPT": "Nov 14, 2026, 1:31:47 AM PST"
     },
     {
-      "id": "reddit-deals-1794585722000-prebuiltpowerspecg460gam",
-      "title": "[Prebuilt] PowerSpec G460 Gaming Desktop Intel Ultra 7 265KF 3.3GHz, NVIDIA 5070 12GB, 32GB DDR5-6000 RAM, 1TB SSD - $1,799.99 ($900 off) In Store Only",
-      "skuOrAsin": "Prebuilt",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
+      "id": "sd-popular-1794612940000-19999fsbestbuyhisense55c",
+      "title": "$199.99 FS BEST BUY Hisense - 55\" Class QD5 Hi-QLED Series 4K UHD Smart Roku TV (2026)",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
-      "originalPrice": 2699.99,
-      "glitchPrice": 1799.99,
-      "discountPercent": 33,
-      "priceBasis": "dollars-off",
-      "isVerifiedSinglePrice": false,
+      "originalPrice": 0,
+      "glitchPrice": 199.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "substanceScore": 308,
-      "retailer": "Micro Center",
-      "sourceChannel": "r/buildapcsales",
-      "sourceUrl": "https://www.reddit.com/r/buildapcsales/comments/1xvbor3/prebuilt_powerspec_g460_gaming_desktop_intel/",
-      "timeDetected": "2026-11-13T16:02:02.000Z",
-      "detectedTimestamp": 1794585722000,
-      "directBuyUrl": "https://www.microcenter.com/product/714653/powerspec-g460-gaming-pc",
-      "specsSummary": "",
+      "upvoteScore": 6,
+      "substanceScore": 50,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals Popular",
+      "sourceUrl": "https://slickdeals.net/f/20306562-199-99-fs-best-buy-hisense-55-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "timeDetected": "2026-11-13T23:35:40.000Z",
+      "detectedTimestamp": 1794612940000,
+      "directBuyUrl": "https://slickdeals.net/f/20306562-199-99-fs-best-buy-hisense-55-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/h...424FK?ircl https://www.bestbuy.com/product/h...424FK?ircl",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=PowerSpec%20G460%20Gaming%20Desktop%20Intel%20Ultra%207%20265KF%203.3GHz%2C%20NVIDIA%205070%2012GB%2C%2032GB%20DDR5-6000"
+          "uri": "https://www.google.com/search?tbm=shop&q=FS%20BEST%20BUY%20Hisense%20-%2055%22%20Class%20QD5%20Hi-QLED%20Series%204K%20UHD%20Smart%20Roku%20TV%202026"
         }
       ],
       "groundingSources": [
         {
-          "title": "r/buildapcsales",
-          "uri": "https://www.reddit.com/r/buildapcsales/comments/1xvbor3/prebuilt_powerspec_g460_gaming_desktop_intel/"
+          "title": "Slickdeals Popular",
+          "uri": "https://slickdeals.net/f/20306562-199-99-fs-best-buy-hisense-55-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 86,
-      "seenAtPT": "Nov 13, 2026, 8:02:02 AM PST"
+      "hotCategory": "tvs-monitors",
+      "hotScore": 79,
+      "seenAtPT": "Nov 13, 2026, 3:35:40 PM PST"
+    },
+    {
+      "id": "sd-popular-1794630285000-insignia40classf40series",
+      "title": "Insignia 40\" Class F40 Series LED Full HD (1080p) Smart Fire TV - Open Box Excellent $68.99",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 68.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Open-Box",
+      "upvoteScore": 10,
+      "substanceScore": 66,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals Popular",
+      "sourceUrl": "https://slickdeals.net/f/20307585-insignia-40-class-f40-series-led-full-hd-1080p-smart-fire-tv-open-box-excellent-68-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T04:24:45.000Z",
+      "detectedTimestamp": 1794630285000,
+      "directBuyUrl": "https://slickdeals.net/f/20307585-insignia-40-class-f40-series-led-full-hd-1080p-smart-fire-tv-open-box-excellent-68-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "specsSummary": "Insignia 40\" Class F40 Series LED Full HD (1080p) Smart Fire TV - Open Box Excellent https://www.bestbuy.com/product/i...=excellent Insignia 40\" Class F40 Series LED Full HD (1080p) Smart Fire TV - Open Box Excellent htt...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Insignia%2040%22%20Class%20F40%20Series%20LED%20Full%20HD%201080p%20Smart%20Fire%20TV%20-%20Open%20Box%20Excellent"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals Popular",
+          "uri": "https://slickdeals.net/f/20307585-insignia-40-class-f40-series-led-full-hd-1080p-smart-fire-tv-open-box-excellent-68-99?utm_source=rss&utm_content=ht&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 78,
+      "seenAtPT": "Nov 13, 2026, 8:24:45 PM PST"
     },
     {
       "id": "sd-price-mistake-1794606103000-ymmvrestoredappleiphone1",
@@ -575,8 +296,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 52,
-      "substanceScore": 83,
+      "upvoteScore": 56,
+      "substanceScore": 71,
       "retailer": "Walmart",
       "sourceChannel": "Slickdeals \"price mistake\"",
       "sourceUrl": "https://slickdeals.net/f/20305956-ymmv-restored-apple-iphone-15-carrier-unlocked-128gb-black-159-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -599,50 +320,8 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "phones",
-      "hotScore": 82,
+      "hotScore": 76,
       "seenAtPT": "Nov 13, 2026, 1:41:43 PM PST"
-    },
-    {
-      "id": "sd-popular-1794604415000-energytakeclassic51chann",
-      "title": "Energy Take Classic 5.1 Channel Home Theater Speaker System $149 + Free S&H",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 149,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 5,
-      "substanceScore": 35,
-      "retailer": "Adorama",
-      "sourceChannel": "Slickdeals Popular",
-      "sourceUrl": "https://slickdeals.net/f/20305830-energy-take-classic-5-1-channel-home-theater-speaker-system-149-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "timeDetected": "2026-11-13T21:13:35.000Z",
-      "detectedTimestamp": 1794604415000,
-      "directBuyUrl": "https://slickdeals.net/f/20305830-energy-take-classic-5-1-channel-home-theater-speaker-system-149-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "couponCode": "JHCE9926",
-      "stackInstructions": "Source mentions code JHCE9926. Confirm it applies at checkout.",
-      "specsSummary": "Adorama [ adorama.com ] has Energy Take Classic 5.1 Channel Home Theater System on sale for $149 after coupon code JHCE9926 shipping is free Adorama [adorama.com] has *Energy Take Classic 5.1 Channel Home Theater System*...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Energy%20Take%20Classic%205.1%20Channel%20Home%20Theater%20Speaker%20System%20%2B"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Popular",
-          "uri": "https://slickdeals.net/f/20305830-energy-take-classic-5-1-channel-home-theater-speaker-system-149-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "audio",
-      "hotScore": 82,
-      "seenAtPT": "Nov 13, 2026, 1:13:35 PM PST"
     },
     {
       "id": "sd-tv-1794602515000-vizio58classquantumserie",
@@ -657,8 +336,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 35,
-      "substanceScore": 89,
+      "upvoteScore": 40,
+      "substanceScore": 77,
       "retailer": "Sam's Club",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20305713-vizio-58-class-quantum-series-4k-qled-smart-tv-5-year-warranty-178?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -681,331 +360,96 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 77,
+      "hotScore": 75,
       "seenAtPT": "Nov 13, 2026, 12:41:55 PM PST"
     },
     {
-      "id": "reddit-deals-1794530021000-walmartlenovov14g5laptop",
-      "title": "[Walmart] Lenovo V14 G5 Laptop: 14\" (1920 x 1080) FHD Display, Intel Core i7-13620H, 16GB RAM, 1TB SSD, Windows 11 Home. Now: $629 After $370.99 Off",
-      "skuOrAsin": "Walmart",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 999.99,
-      "glitchPrice": 629,
-      "discountPercent": 37,
-      "priceBasis": "dollars-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 192,
-      "retailer": "Walmart",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xutmdo/walmart_lenovo_v14_g5_laptop_14_1920_x_1080_fhd/",
-      "timeDetected": "2026-11-13T00:33:41.000Z",
-      "detectedTimestamp": 1794530021000,
-      "directBuyUrl": "https://activedeals.net/deals/6af65ab552953b70457c7ef3",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Lenovo%20V14%20G5%20Laptop%3A%2014%22%201920%20x%201080%20FHD%20Display%2C%20Intel%20Core%20i7-13620H%2C%2016GB%20RAM%2C%201TB%20SSD"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xutmdo/walmart_lenovo_v14_g5_laptop_14_1920_x_1080_fhd/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 77,
-      "seenAtPT": "Nov 12, 2026, 4:33:41 PM PST"
-    },
-    {
-      "id": "9to5toys-1794572510000-raredealhitsapplepencilp",
-      "title": "Rare deal hits Apple Pencil Pro today (Nearly 35% off), iPhone Duo-ready model still at $69",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 106.15,
-      "glitchPrice": 69,
-      "discountPercent": 35,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 87,
-      "retailer": "Amazon",
-      "sourceChannel": "9to5Toys",
-      "sourceUrl": "https://9to5toys.com/2026/11/13/rare-deal-apple-pencil/",
-      "timeDetected": "2026-11-13T12:21:50.000Z",
-      "detectedTimestamp": 1794572510000,
-      "directBuyUrl": "https://9to5toys.com/2026/11/13/rare-deal-apple-pencil/",
-      "specsSummary": "The Amazon early Black Friday sale is really flying now, but we are, however, popping over to Woot this morning to scope out a rare chance at savings on Apple Pencil Pro at nearly 35% off the list price. It’s really all ...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Rare%20deal%20hits%20Apple%20Pencil%20Pro%20today%20Nearly%2035%25%20off%20%2C%20iPhone%20Duo-ready%20model%20still%20at"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "9to5Toys",
-          "uri": "https://9to5toys.com/2026/11/13/rare-deal-apple-pencil/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "phones",
-      "hotScore": 76,
-      "seenAtPT": "Nov 13, 2026, 4:21:50 AM PST"
-    },
-    {
-      "id": "sd-popular-1794635844000-sarosps54199freeshatamaz",
-      "title": "Saros (PS5) $41.99 + Free S&H at Amazon",
-      "skuOrAsin": "ASIN B0G5RRPGFF",
+      "id": "sd-popular-1794652784000-1599lego104pcsblueyplayg",
+      "title": "$15.99: LEGO 104 Pcs Bluey Playground Fun with Bluey and Chloe Sensory Building Blocks (11201) at Amazon",
+      "skuOrAsin": "ASIN B0DRW5PCBR",
       "category": "other-tech",
       "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
       "originalPrice": 0,
-      "glitchPrice": 41.99,
+      "glitchPrice": 15.99,
       "discountPercent": 0,
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
       "upvoteScore": 5,
-      "substanceScore": 57,
+      "substanceScore": 52,
       "retailer": "Amazon",
       "sourceChannel": "Slickdeals Popular",
-      "sourceUrl": "https://slickdeals.net/f/20307849-saros-ps5-41-99-free-s-h-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T05:57:24.000Z",
-      "detectedTimestamp": 1794635844000,
-      "directBuyUrl": "https://slickdeals.net/f/20307849-saros-ps5-41-99-free-s-h-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "specsSummary": "Amazon.com has SAROS PS5 for $41.99. Shipping is free. https://www.amazon.com/dp/B0G5RRPGFF Amazon.com has SAROS PS5 for $41.99. Shipping is free. https://www.amazon.com/dp/B0G5RRPGFF",
+      "sourceUrl": "https://slickdeals.net/f/20308521-15-99-lego-104-pcs-bluey-playground-fun-with-bluey-and-chloe-sensory-building-blocks-11201-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T10:39:44.000Z",
+      "detectedTimestamp": 1794652784000,
+      "directBuyUrl": "https://slickdeals.net/f/20308521-15-99-lego-104-pcs-bluey-playground-fun-with-bluey-and-chloe-sensory-building-blocks-11201-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+      "specsSummary": "Amazon.com has LEGO Bluey Playground Fun with Bluey and Chloe Sensory Building Blocks - Preschool Pretend Play & Learning Toys for Kids - 4 Year Old Girl & Boy Birthday Gifts - 11201 for $15.99. Shipping is free with Pri...",
       "checkPriceLinks": [
         {
           "label": "camelcamelcamel price history",
-          "uri": "https://camelcamelcamel.com/product/B0G5RRPGFF"
+          "uri": "https://camelcamelcamel.com/product/B0DRW5PCBR"
         },
         {
           "label": "Keepa price history",
-          "uri": "https://keepa.com/#!product/1-B0G5RRPGFF"
+          "uri": "https://keepa.com/#!product/1-B0DRW5PCBR"
         },
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Saros%20PS5%20%2B"
+          "uri": "https://www.google.com/search?tbm=shop&q=%3A%20LEGO%20104%20Pcs%20Bluey%20Playground%20Fun%20with%20Bluey%20and%20Chloe%20Sensory%20Building%20Blocks%2011201"
         }
       ],
       "groundingSources": [
         {
           "title": "Slickdeals Popular",
-          "uri": "https://slickdeals.net/f/20307849-saros-ps5-41-99-free-s-h-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2"
+          "uri": "https://slickdeals.net/f/20308521-15-99-lego-104-pcs-bluey-playground-fun-with-bluey-and-chloe-sensory-building-blocks-11201-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
-      "hotCategory": "consoles",
-      "hotScore": 73,
-      "seenAtPT": "Nov 13, 2026, 9:57:24 PM PST"
-    },
-    {
-      "id": "reddit-deals-1794427226000-gpumicrocenterinstoreaus",
-      "title": "[GPU] Microcenter In-Store Austin, TX - PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $749.99 ($430 off)",
-      "skuOrAsin": "GPU",
-      "category": "pc-parts",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 1179.99,
-      "glitchPrice": 749.99,
-      "discountPercent": 36,
-      "priceBasis": "dollars-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 205,
-      "retailer": "Micro Center",
-      "sourceChannel": "r/buildapcsales",
-      "sourceUrl": "https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/",
-      "timeDetected": "2026-11-11T20:00:26.000Z",
-      "detectedTimestamp": 1794427226000,
-      "directBuyUrl": "https://www.microcenter.com/product/689902/amd-radeon-rx-9070-xt-hellhound-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card?iitt=Rf8_RMhWhyULaeighM_-OF_dxIzl4DnJ&utm_source=B2338_Austin_VIP_GO&utm_campaign=B2338&utm_medium=email&MccGuid=30415F44-B7D3-40A9-A8C1-879AA3E88E27",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Microcenter%20In-Store%20Austin%2C%20TX%20-%20PowerColor%20AMD%20Radeon%20RX%209070%20XT%20Hellhound%20Overclocked%20T"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/buildapcsales",
-          "uri": "https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "gpus-ssds",
-      "hotScore": 72,
-      "seenAtPT": "Nov 11, 2026, 12:00:26 PM PST"
-    },
-    {
-      "id": "reddit-deals-1794426826000-prebuiltmicrocenterinsto",
-      "title": "[Prebuilt] Microcenter In-Store Austin, TX - PowerSpec G538 Gaming PC AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1,099.99 ($600 off)",
-      "skuOrAsin": "Prebuilt",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 1699.99,
-      "glitchPrice": 1099.99,
-      "discountPercent": 35,
-      "priceBasis": "dollars-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 245,
-      "retailer": "Micro Center",
-      "sourceChannel": "r/buildapcsales",
-      "sourceUrl": "https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/",
-      "timeDetected": "2026-11-11T19:53:46.000Z",
-      "detectedTimestamp": 1794426826000,
-      "directBuyUrl": "https://www.microcenter.com/product/714195/g538-gaming-pc?iitt=Rf8_RMhWhyULaeighM_-OF_dxIzl4DnJ&utm_source=B2338_Austin_VIP_GO&utm_campaign=B2338&utm_medium=email&MccGuid=30415F44-B7D3-40A9-A8C1-879AA3E88E27&storeid=215",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Microcenter%20In-Store%20Austin%2C%20TX%20-%20PowerSpec%20G538%20Gaming%20PC%20AMD%20Ryzen%205%207500X3D%204.0GHz%20Proc"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/buildapcsales",
-          "uri": "https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
+      "hotCategory": "kids",
       "hotScore": 71,
-      "seenAtPT": "Nov 11, 2026, 11:53:46 AM PST"
+      "seenAtPT": "Nov 14, 2026, 2:39:44 AM PST"
     },
     {
-      "id": "reddit-deals-1794488825000-lenovolegion7agen11lapto",
-      "title": "[Lenovo] Legion 7a Gen 11 Laptop: 15.3\" QHD+ (2560 x 1600) 500 nits 165Hz OLED display , AMD Ryzen AI Max+ 388 w/ Radeon 8060S graphics, 32 GB RAM, 1TB SSD w/ 34% off using codes LENOVODEAL & EXTRAFIVE , for $1,751 🔻see OP's pinned comment🔻",
-      "skuOrAsin": "Lenovo",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
+      "id": "sd-monitor-1794643090000-lgultragear34curvedwqhd2",
+      "title": "LG - UltraGear 34\" Curved WQHD 240Hz FreeSync Premium Gaming Monitor with DisplayHDR400 (HDMI, DP, USB-C, USB-A) - Black $379.99 Bestbuy.com",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
-      "originalPrice": 2653.03,
-      "glitchPrice": 1751,
-      "discountPercent": 34,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
+      "originalPrice": 0,
+      "glitchPrice": 379.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "substanceScore": 293,
-      "retailer": "Lenovo",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xucat1/lenovo_legion_7a_gen_11_laptop_153_qhd_2560_x/",
-      "timeDetected": "2026-11-12T13:07:05.000Z",
-      "detectedTimestamp": 1794488825000,
-      "directBuyUrl": "https://lenovo.vzew.net/KBNWPy",
-      "specsSummary": "",
+      "upvoteScore": 25,
+      "substanceScore": 90,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals monitor search",
+      "sourceUrl": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T07:58:10.000Z",
+      "detectedTimestamp": 1794643090000,
+      "directBuyUrl": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZPLP https://www.bestbuy.com/product/l...JJ8VPZZPLP",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Legion%207a%20Gen%2011%20Laptop%3A%2015.3%22%20QHD%2B%202560%20x%201600%20500%20nits%20165Hz%20OLED%20display%20%2C%20AMD%20Ryzen%20AI"
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20UltraGear%2034%22%20Curved%20WQHD%20240Hz%20FreeSync%20Premium%20Gaming%20Monitor%20with%20DisplayHDR400%20HD"
         }
       ],
       "groundingSources": [
         {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xucat1/lenovo_legion_7a_gen_11_laptop_153_qhd_2560_x/"
+          "title": "Slickdeals monitor search",
+          "uri": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 69,
-      "seenAtPT": "Nov 12, 2026, 5:07:05 AM PST"
-    },
-    {
-      "id": "reddit-deals-1794485108000-neweggopenboxmsivector16",
-      "title": "[Newegg, Open Box] MSI Vector 16 Gaming Laptop: 16\" QHD+ IPS-Level 240Hz, Intel Ultra 9 275HX, RTX 5080, 16GB RAM, 1TB SSD - for $1,702 after 34% off",
-      "skuOrAsin": "Newegg, Open Box",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 2578.79,
-      "glitchPrice": 1702,
-      "discountPercent": 34,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Open-Box",
-      "substanceScore": 293,
-      "retailer": "Newegg",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xub226/newegg_open_box_msi_vector_16_gaming_laptop_16/",
-      "timeDetected": "2026-11-12T12:05:08.000Z",
-      "detectedTimestamp": 1794485108000,
-      "directBuyUrl": "https://www.gamertargets.com/2026/11/msi-vector-16-hx-ai-16-qhd-ips-240hz.html",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=MSI%20Vector%2016%20Gaming%20Laptop%3A%2016%22%20QHD%2B%20IPS-Level%20240Hz%2C%20Intel%20Ultra%209%20275HX%2C%20RTX%205080%2C%2016GB"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xub226/newegg_open_box_msi_vector_16_gaming_laptop_16/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 69,
-      "seenAtPT": "Nov 12, 2026, 4:05:08 AM PST"
-    },
-    {
-      "id": "reddit-deals-1794425170000-lenovolenovolegion5agen1",
-      "title": "[Lenovo] Lenovo Legion 5a Gen 11: 15.3\" QHD+ 165Hz OLED display, Ryzen 7 250 CPU, RTX 5070 Graphics card, 16GB DDR5 RAM, 512GB SSD with 32% off w/ code LENOVODEAL, for $1560.23",
-      "skuOrAsin": "Lenovo",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 2294.46,
-      "glitchPrice": 1560.23,
-      "discountPercent": 32,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 273,
-      "retailer": "Lenovo",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xtr2zs/lenovo_lenovo_legion_5a_gen_11_153_qhd_165hz_oled/",
-      "timeDetected": "2026-11-11T19:26:10.000Z",
-      "detectedTimestamp": 1794425170000,
-      "directBuyUrl": "https://lenovo.vzew.net/gREqev",
-      "couponCode": "LENOVODEAL",
-      "stackInstructions": "Source mentions code LENOVODEAL. Confirm it applies at checkout.",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Lenovo%20Legion%205a%20Gen%2011%3A%2015.3%22%20QHD%2B%20165Hz%20OLED%20display%2C%20Ryzen%207%20250%20CPU%2C%20RTX%205070%20Graphics"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xtr2zs/lenovo_lenovo_legion_5a_gen_11_153_qhd_165hz_oled/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 66,
-      "seenAtPT": "Nov 11, 2026, 11:26:10 AM PST"
+      "hotCategory": "tvs-monitors",
+      "hotScore": 71,
+      "seenAtPT": "Nov 13, 2026, 11:58:10 PM PST"
     },
     {
       "id": "sd-tv-1794585762000-samsclubmembers50vizioqu",
@@ -1020,8 +464,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 27,
-      "substanceScore": 69,
+      "upvoteScore": 60,
+      "substanceScore": 86,
       "retailer": "Sam's Club",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20304195-sam-s-club-members-50-vizio-quantum-series-4k-qled-smart-tv-vqd50x-10-128-free-s-h-on-orders-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1044,126 +488,87 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 64,
+      "hotScore": 70,
       "seenAtPT": "Nov 13, 2026, 8:02:42 AM PST"
     },
     {
-      "id": "reddit-deals-1794390549000-microcenterinstoreacerpr",
-      "title": "[Microcenter, In Store] Acer Predator AI Gaming Laptop: 16\" WQXGA IPS, 240Hz, Intel Ultra 9 290HX Plus, RTX 5080, 16GB RAM, 1TB SSD - for $2,099.99 after 30% off",
-      "skuOrAsin": "Microcenter, In Store",
-      "category": "laptops-pcs",
+      "id": "9to5toys-1794572510000-raredealhitsapplepencilp",
+      "title": "Rare deal hits Apple Pencil Pro today (Nearly 35% off), iPhone Duo-ready model still at $69",
+      "skuOrAsin": "",
+      "category": "other-tech",
       "glitchType": "Markdown",
       "isPossiblePriceError": false,
-      "originalPrice": 2999.99,
-      "glitchPrice": 2099.99,
-      "discountPercent": 30,
+      "originalPrice": 106.15,
+      "glitchPrice": 69,
+      "discountPercent": 35,
       "priceBasis": "percent-off",
       "isVerifiedSinglePrice": false,
       "condition": "Unverified condition",
-      "substanceScore": 285,
-      "retailer": "Micro Center",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xtdrp1/microcenter_in_store_acer_predator_ai_gaming/",
-      "timeDetected": "2026-11-11T09:49:09.000Z",
-      "detectedTimestamp": 1794390549000,
-      "directBuyUrl": "https://www.microcenter.com/product/710337/acer-predator-helios-neo-16-ai-16-gaming-laptop-computer-abyssal-black",
-      "specsSummary": "",
+      "substanceScore": 79,
+      "retailer": "Amazon",
+      "sourceChannel": "9to5Toys",
+      "sourceUrl": "https://9to5toys.com/2026/11/13/rare-deal-apple-pencil/",
+      "timeDetected": "2026-11-13T12:21:50.000Z",
+      "detectedTimestamp": 1794572510000,
+      "directBuyUrl": "https://9to5toys.com/2026/11/13/rare-deal-apple-pencil/",
+      "specsSummary": "The Amazon early Black Friday sale is really flying now, but we are, however, popping over to Woot this morning to scope out a rare chance at savings on Apple Pencil Pro at nearly 35% off the list price. It’s really all ...",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Acer%20Predator%20AI%20Gaming%20Laptop%3A%2016%22%20WQXGA%20IPS%2C%20240Hz%2C%20Intel%20Ultra%209%20290HX%20Plus%2C%20RTX%205080%2C%20"
+          "uri": "https://www.google.com/search?tbm=shop&q=Rare%20deal%20hits%20Apple%20Pencil%20Pro%20today%20Nearly%2035%25%20off%20%2C%20iPhone%20Duo-ready%20model%20still%20at"
         }
       ],
       "groundingSources": [
         {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xtdrp1/microcenter_in_store_acer_predator_ai_gaming/"
+          "title": "9to5Toys",
+          "uri": "https://9to5toys.com/2026/11/13/rare-deal-apple-pencil/"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "phones",
+      "hotScore": 69,
+      "seenAtPT": "Nov 13, 2026, 4:21:50 AM PST"
+    },
+    {
+      "id": "sd-laptop-1794642925000-lggrammax1725ktouchscree",
+      "title": "LG - gram Max 17\" 2.5K Touch-Screen Laptop - 2026 Intel Core Ultra 7 Processor 355 - 16GB RAM - 512GB SSD - Copilot + PC - Matte Bronze $1049.99 Bestbuy.com",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 1049.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 17,
+      "substanceScore": 82,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals laptop search",
+      "sourceUrl": "https://slickdeals.net/f/20308176-lg-gram-max-17-2-5k-touch-screen-laptop-2026-intel-core-ultra-7-processor-355-16gb-ram-512gb-ssd-copilot-pc-matte-bronze-1049-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T07:55:25.000Z",
+      "detectedTimestamp": 1794642925000,
+      "directBuyUrl": "https://slickdeals.net/f/20308176-lg-gram-max-17-2-5k-touch-screen-laptop-2026-intel-core-ultra-7-processor-355-16gb-ram-512gb-ssd-copilot-pc-matte-bronze-1049-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZ49K https://www.bestbuy.com/product/l...JJ8VPZZ49K",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20gram%20Max%2017%22%202.5K%20Touch-Screen%20Laptop%20-%202026%20Intel%20Core%20Ultra%207%20Processor%20355%20-%2016GB%20"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals laptop search",
+          "uri": "https://slickdeals.net/f/20308176-lg-gram-max-17-2-5k-touch-screen-laptop-2026-intel-core-ultra-7-processor-355-16gb-ram-512gb-ssd-copilot-pc-matte-bronze-1049-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "laptops-pcs",
       "hotScore": 63,
-      "seenAtPT": "Nov 11, 2026, 1:49:09 AM PST"
-    },
-    {
-      "id": "dealnews-electronics-1794599827000-unlockedsamsunggalaxys26",
-      "title": "Unlocked Samsung Galaxy S26 FE Exynos 2500 128GB Android Smartphone for $600 + free shipping",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 699,
-      "glitchPrice": 600,
-      "discountPercent": 14,
-      "priceBasis": "labeled-was",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 80,
-      "retailer": "Best Buy",
-      "sourceChannel": "DealNews Electronics",
-      "sourceUrl": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-FE-Exynos-2500-128-GB-Android-Smartphone-for-600-free-shipping/22390286.html?iref=rss-c142",
-      "timeDetected": "2026-11-13T19:57:07.000Z",
-      "detectedTimestamp": 1794599827000,
-      "directBuyUrl": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-FE-Exynos-2500-128-GB-Android-Smartphone-for-600-free-shipping/22390286.html?iref=rss-c142",
-      "specsSummary": "Best Buy has the unlocked Samsung Galaxy S26 FE at $599, which is $100 off the $699 regular price. A Microsoft XBOX Game Pass Ultimate 1-Month Membership is included with purchase. My Best Buy members get free shipping o...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Unlocked%20Samsung%20Galaxy%20S26%20FE%20Exynos%202500%20128GB%20Android%20Smartphone%20for%20%2B"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "DealNews Electronics",
-          "uri": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-FE-Exynos-2500-128-GB-Android-Smartphone-for-600-free-shipping/22390286.html?iref=rss-c142"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 62,
-      "seenAtPT": "Nov 13, 2026, 11:57:07 AM PST"
-    },
-    {
-      "id": "sd-popular-1794592710000-crownwarstheblackprincep",
-      "title": "Crown Wars: The Black Prince - PlayStation 5 [Physical] - $32.99",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 32.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 5,
-      "substanceScore": 27,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals Popular",
-      "sourceUrl": "https://slickdeals.net/f/20304945-crown-wars-the-black-prince-playstation-5-physical-32-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "timeDetected": "2026-11-13T17:58:30.000Z",
-      "detectedTimestamp": 1794592710000,
-      "directBuyUrl": "https://slickdeals.net/f/20304945-crown-wars-the-black-prince-playstation-5-physical-32-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-      "specsSummary": "Best Buy has Crown Wars: The Black Prince - PlayStation 5 for $32.99 + Free Shipping for My Best Buy members (Free) Knights and brigands run rampant throughout the land, sowing destruction. But an even greater evil is lu...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Crown%20Wars%3A%20The%20Black%20Prince%20-%20PlayStation%205%20%5BPhysical%5D%20-"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals Popular",
-          "uri": "https://slickdeals.net/f/20304945-crown-wars-the-black-prince-playstation-5-physical-32-99?utm_source=rss&utm_content=ht&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "consoles",
-      "hotScore": 61,
-      "seenAtPT": "Nov 13, 2026, 9:58:30 AM PST"
+      "seenAtPT": "Nov 13, 2026, 11:55:25 PM PST"
     },
     {
       "id": "sd-monitor-1794461741000-27asustufgaming2560x1440",
@@ -1178,8 +583,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 63,
-      "substanceScore": 88,
+      "upvoteScore": 76,
+      "substanceScore": 101,
       "retailer": "Walmart",
       "sourceChannel": "Slickdeals monitor search",
       "sourceUrl": "https://slickdeals.net/f/20295027-27-asus-tuf-gaming-2560x1440-qhd-210hz-fast-ips-gaming-monitor-vg27aq5az-129-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1218,8 +623,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 64,
-      "substanceScore": 89,
+      "upvoteScore": 73,
+      "substanceScore": 98,
       "retailer": "Walmart",
       "sourceChannel": "Slickdeals GPU search",
       "sourceUrl": "https://slickdeals.net/f/20294847-799-walmart-msi-cyborg-15-6-144hz-gaming-laptop-intel-core-i5-13420h-nvidia-geforce-rtx-5050-16gb-ram-512gb-ssd-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1246,124 +651,123 @@
       "seenAtPT": "Nov 11, 2026, 9:06:16 PM PST"
     },
     {
-      "id": "sd-laptop-1794642925000-lggrammax1725ktouchscree",
-      "title": "LG - gram Max 17\" 2.5K Touch-Screen Laptop - 2026 Intel Core Ultra 7 Processor 355 - 16GB RAM - 512GB SSD - Copilot + PC - Matte Bronze $1049.99 Bestbuy.com",
+      "id": "sd-laptop-1794667679000-membersonlyhpomnibookx14",
+      "title": "Members Only: HP OmniBook X: 14\" 3K 120Hz OLED Touch, RTX Spark N1X 20-core, 64GB LPDDR5x-9400, 2TB SSD $2999.99",
       "skuOrAsin": "",
-      "category": "laptops-pcs",
+      "category": "tvs-monitors",
       "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
       "originalPrice": 0,
-      "glitchPrice": 1049.99,
+      "glitchPrice": 2999.99,
       "discountPercent": 0,
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
       "upvoteScore": 3,
       "substanceScore": 85,
-      "retailer": "Best Buy",
+      "retailer": "Micro Center",
       "sourceChannel": "Slickdeals laptop search",
-      "sourceUrl": "https://slickdeals.net/f/20308176-lg-gram-max-17-2-5k-touch-screen-laptop-2026-intel-core-ultra-7-processor-355-16gb-ram-512gb-ssd-copilot-pc-matte-bronze-1049-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T07:55:25.000Z",
-      "detectedTimestamp": 1794642925000,
-      "directBuyUrl": "https://slickdeals.net/f/20308176-lg-gram-max-17-2-5k-touch-screen-laptop-2026-intel-core-ultra-7-processor-355-16gb-ram-512gb-ssd-copilot-pc-matte-bronze-1049-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZ49K https://www.bestbuy.com/product/l...JJ8VPZZ49K",
+      "sourceUrl": "https://slickdeals.net/f/20309148-members-only-hp-omnibook-x-14-3k-120hz-oled-touch-rtx-spark-n1x-20-core-64gb-lpddr5x-9400-2tb-ssd-2999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T14:47:59.000Z",
+      "detectedTimestamp": 1794667679000,
+      "directBuyUrl": "https://slickdeals.net/f/20309148-members-only-hp-omnibook-x-14-3k-120hz-oled-touch-rtx-spark-n1x-20-core-64gb-lpddr5x-9400-2tb-ssd-2999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Lowest prices so far and cheaper than the previous thumbed up deal . Available In-Store and for Members Only: [list][*] HP OmniBook X: [ microcenter.com ] 14\" 3K 120Hz OLED Touch, RTX Spark N1X 20-core, 64GB LPDDR5x-9400...",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20gram%20Max%2017%22%202.5K%20Touch-Screen%20Laptop%20-%202026%20Intel%20Core%20Ultra%207%20Processor%20355%20-%2016GB%20"
+          "uri": "https://www.google.com/search?tbm=shop&q=Members%20Only%3A%20HP%20OmniBook%20X%3A%2014%22%203K%20120Hz%20OLED%20Touch%2C%20RTX%20Spark%20N1X%2020-core%2C%2064GB%20LPDDR5x-"
         }
       ],
       "groundingSources": [
         {
           "title": "Slickdeals laptop search",
-          "uri": "https://slickdeals.net/f/20308176-lg-gram-max-17-2-5k-touch-screen-laptop-2026-intel-core-ultra-7-processor-355-16gb-ram-512gb-ssd-copilot-pc-matte-bronze-1049-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 56,
-      "seenAtPT": "Nov 13, 2026, 11:55:25 PM PST"
-    },
-    {
-      "id": "sd-monitor-1794643090000-lgultragear34curvedwqhd2",
-      "title": "LG - UltraGear 34\" Curved WQHD 240Hz FreeSync Premium Gaming Monitor with DisplayHDR400 (HDMI, DP, USB-C, USB-A) - Black $379.99 Bestbuy.com",
-      "skuOrAsin": "",
-      "category": "tvs-monitors",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 379.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 2,
-      "substanceScore": 84,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals monitor search",
-      "sourceUrl": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T07:58:10.000Z",
-      "detectedTimestamp": 1794643090000,
-      "directBuyUrl": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZPLP https://www.bestbuy.com/product/l...JJ8VPZZPLP",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20UltraGear%2034%22%20Curved%20WQHD%20240Hz%20FreeSync%20Premium%20Gaming%20Monitor%20with%20DisplayHDR400%20HD"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals monitor search",
-          "uri": "https://slickdeals.net/f/20308191-lg-ultragear-34-curved-wqhd-240hz-freesync-premium-gaming-monitor-with-displayhdr400-hdmi-dp-usb-c-usb-a-black-379-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
+          "uri": "https://slickdeals.net/f/20309148-members-only-hp-omnibook-x-14-3k-120hz-oled-touch-rtx-spark-n1x-20-core-64gb-lpddr5x-9400-2tb-ssd-2999-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 55,
-      "seenAtPT": "Nov 13, 2026, 11:58:10 PM PST"
+      "hotScore": 56,
+      "seenAtPT": "Nov 14, 2026, 6:47:59 AM PST"
     },
     {
-      "id": "sd-tv-1794642815000-lg77classb6oledai4ksmart",
-      "title": "LG - 77\" Class B6 OLED AI 4K Smart webOS TV with Perfect Black, Vivid Color and Magic Remote (2026) $1799.99 Bestbuy.com",
+      "id": "sd-tv-1794670933000-8499965tclqm7lseries4kuh",
+      "title": "$849.99* | 65\" TCL QM7L Series 4K UHD HDR SQD-Mini LED TV + 10% Back w/ Prime Visa Card at Amazon",
       "skuOrAsin": "",
       "category": "tvs-monitors",
       "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
       "originalPrice": 0,
-      "glitchPrice": 1799.99,
+      "glitchPrice": 849.99,
       "discountPercent": 0,
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 2,
-      "substanceScore": 84,
-      "retailer": "Best Buy",
+      "upvoteScore": 1,
+      "substanceScore": 86,
+      "retailer": "Amazon",
       "sourceChannel": "Slickdeals TV search",
-      "sourceUrl": "https://slickdeals.net/f/20308170-lg-77-class-b6-oled-ai-4k-smart-webos-tv-with-perfect-black-vivid-color-and-magic-remote-2026-1799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T07:53:35.000Z",
-      "detectedTimestamp": 1794642815000,
-      "directBuyUrl": "https://slickdeals.net/f/20308170-lg-77-class-b6-oled-ai-4k-smart-webos-tv-with-perfect-black-vivid-color-and-magic-remote-2026-1799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZ7Z9 https://www.bestbuy.com/product/l...JJ8VPZZ7Z9",
+      "sourceUrl": "https://slickdeals.net/f/20309463-849-99-65-tcl-qm7l-series-4k-uhd-hdr-sqd-mini-led-tv-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T15:42:13.000Z",
+      "detectedTimestamp": 1794670933000,
+      "directBuyUrl": "https://slickdeals.net/f/20309463-849-99-65-tcl-qm7l-series-4k-uhd-hdr-sqd-mini-led-tv-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Amazon [ amazon.com ] has 65\" TCL QM7L Series 4K UHD HDR SQD-Mini LED TV for $849.99 . Shipping is free . Cashback 10% back with Prime Card Bonus [ amazon.com ] (click to check) ( $764.99 after cashback) * Previous Front...",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%2077%22%20Class%20B6%20OLED%20AI%204K%20Smart%20webOS%20TV%20with%20Perfect%20Black%2C%20Vivid%20Color%20and%20Magic%20Remo"
+          "uri": "https://www.google.com/search?tbm=shop&q=*%2065%22%20TCL%20QM7L%20Series%204K%20UHD%20HDR%20SQD-Mini%20LED%20TV%20%2B%2010%25%20Back%20w%2F%20Visa%20Card"
         }
       ],
       "groundingSources": [
         {
           "title": "Slickdeals TV search",
-          "uri": "https://slickdeals.net/f/20308170-lg-77-class-b6-oled-ai-4k-smart-webos-tv-with-perfect-black-vivid-color-and-magic-remote-2026-1799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
+          "uri": "https://slickdeals.net/f/20309463-849-99-65-tcl-qm7l-series-4k-uhd-hdr-sqd-mini-led-tv-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
       "hotScore": 55,
-      "seenAtPT": "Nov 13, 2026, 11:53:35 PM PST"
+      "seenAtPT": "Nov 14, 2026, 7:42:13 AM PST"
+    },
+    {
+      "id": "dealnews-electronics-1794599827000-unlockedsamsunggalaxys26",
+      "title": "Unlocked Samsung Galaxy S26 FE Exynos 2500 128GB Android Smartphone for $600 + free shipping",
+      "skuOrAsin": "",
+      "category": "other-tech",
+      "glitchType": "Markdown",
+      "isPossiblePriceError": false,
+      "originalPrice": 699,
+      "glitchPrice": 600,
+      "discountPercent": 14,
+      "priceBasis": "labeled-was",
+      "isVerifiedSinglePrice": false,
+      "condition": "Unverified condition",
+      "substanceScore": 63,
+      "retailer": "Best Buy",
+      "sourceChannel": "DealNews Electronics",
+      "sourceUrl": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-FE-Exynos-2500-128-GB-Android-Smartphone-for-600-free-shipping/22390286.html?iref=rss-c142",
+      "timeDetected": "2026-11-13T19:57:07.000Z",
+      "detectedTimestamp": 1794599827000,
+      "directBuyUrl": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-FE-Exynos-2500-128-GB-Android-Smartphone-for-600-free-shipping/22390286.html?iref=rss-c142",
+      "specsSummary": "Best Buy has the unlocked Samsung Galaxy S26 FE at $599, which is $100 off the $699 regular price. A Microsoft XBOX Game Pass Ultimate 1-Month Membership is included with purchase. My Best Buy members get free shipping o...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Unlocked%20Samsung%20Galaxy%20S26%20FE%20Exynos%202500%20128GB%20Android%20Smartphone%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Electronics",
+          "uri": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-FE-Exynos-2500-128-GB-Android-Smartphone-for-600-free-shipping/22390286.html?iref=rss-c142"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 55,
+      "seenAtPT": "Nov 13, 2026, 11:57:07 AM PST"
     },
     {
       "id": "sd-gpu-1794417007000-lenovolegiontower5deskto",
@@ -1406,6 +810,164 @@
       "seenAtPT": "Nov 11, 2026, 9:10:07 AM PST"
     },
     {
+      "id": "sd-laptop-1794657754000-acerpredatorheliosneo16a",
+      "title": "Acer Predator Helios Neo 16 AI: 16\" QHD+ 240Hz IPS, Intel Ultra 9 290HX Plus, RTX 5080, 32GB DDR5, 1TB SSD $2499.99",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 2499.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 4,
+      "substanceScore": 80,
+      "retailer": "Micro Center",
+      "sourceChannel": "Slickdeals laptop search",
+      "sourceUrl": "https://slickdeals.net/f/20308650-acer-predator-helios-neo-16-ai-16-qhd-240hz-ips-intel-ultra-9-290hx-plus-rtx-5080-32gb-ddr5-1tb-ssd-2499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T12:02:34.000Z",
+      "detectedTimestamp": 1794657754000,
+      "directBuyUrl": "https://slickdeals.net/f/20308650-acer-predator-helios-neo-16-ai-16-qhd-240hz-ips-intel-ultra-9-290hx-plus-rtx-5080-32gb-ddr5-1tb-ssd-2499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Available In-Store Only; In stock at all stores when posting:[list][*] (NH.U46AA.001): [ microcenter.com ] 16\" QHD+ 240Hz IPS, Intel Ultra 9 290HX Plus, RTX 5080, 32GB DDR5, 1TB SSD - $2499.99 [*] (NH.U46AA.002): [ micro...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Acer%20Predator%20Helios%20Neo%2016%20AI%3A%2016%22%20QHD%2B%20240Hz%20IPS%2C%20Intel%20Ultra%209%20290HX%20Plus%2C%20RTX%205080%2C%2032"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals laptop search",
+          "uri": "https://slickdeals.net/f/20308650-acer-predator-helios-neo-16-ai-16-qhd-240hz-ips-intel-ultra-9-290hx-plus-rtx-5080-32gb-ddr5-1tb-ssd-2499-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "gpus-ssds",
+      "hotScore": 54,
+      "seenAtPT": "Nov 14, 2026, 4:02:34 AM PST"
+    },
+    {
+      "id": "sd-laptop-1794658097000-applemacbookairearly2026",
+      "title": "Apple MacBook Air (Early 2026): 13.6\", M5, 24GB RAM, 1TB SSD, Starlight $1439.99",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 1439.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 3,
+      "substanceScore": 79,
+      "retailer": "Micro Center",
+      "sourceChannel": "Slickdeals laptop search",
+      "sourceUrl": "https://slickdeals.net/f/20308674-apple-macbook-air-early-2026-13-6-m5-24gb-ram-1tb-ssd-starlight-1439-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T12:08:17.000Z",
+      "detectedTimestamp": 1794658097000,
+      "directBuyUrl": "https://slickdeals.net/f/20308674-apple-macbook-air-early-2026-13-6-m5-24gb-ram-1tb-ssd-starlight-1439-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Available In-Store Only; In stock at all stores when posting. Lowest price so far. Apple MacBook Air 13\" MDHD4LL/A (Early 2026) 13.6\" Laptop Computer - Starlight; Apple M5 10-Core CPU; 24GB Unified - Micro Center https:/...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Apple%20MacBook%20Air%20Early%202026%20%3A%2013.6%22%2C%20M5%2C%2024GB%20RAM%2C%201TB%20SSD%2C%20Starlight"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals laptop search",
+          "uri": "https://slickdeals.net/f/20308674-apple-macbook-air-early-2026-13-6-m5-24gb-ram-1tb-ssd-starlight-1439-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 53,
+      "seenAtPT": "Nov 14, 2026, 4:08:17 AM PST"
+    },
+    {
+      "id": "dealnews-electronics-1794665547000-viziovqm50c10504khdrmini",
+      "title": "Vizio VQM50C-10 50\" 4K (HDR / Mini LED QLED) UHD Smart TV for $198 + free shipping",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 198,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 81,
+      "retailer": "Walmart",
+      "sourceChannel": "DealNews Electronics",
+      "sourceUrl": "https://www.dealnews.com/Vizio-VQM50-C-10-50-4-K-HDR-Mini-LED-QLED-UHD-Smart-TV-for-198-free-shipping/22394010.html?iref=rss-c142",
+      "timeDetected": "2026-11-14T14:12:27.000Z",
+      "detectedTimestamp": 1794665547000,
+      "directBuyUrl": "https://www.dealnews.com/Vizio-VQM50-C-10-50-4-K-HDR-Mini-LED-QLED-UHD-Smart-TV-for-198-free-shipping/22394010.html?iref=rss-c142",
+      "specsSummary": "This Vizio 50\" Mini LED 4K TV is $50 off at Walmart, as part of its Black Friday Sale. It's $30 cheaper than Sam's Club price. It pairs a Mini LED backlight with local dimming and Quantum Dot color. The listing shows a 4...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Vizio%20VQM50C-10%2050%22%204K%20HDR%20%2F%20Mini%20LED%20QLED%20UHD%20Smart%20TV%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Electronics",
+          "uri": "https://www.dealnews.com/Vizio-VQM50-C-10-50-4-K-HDR-Mini-LED-QLED-UHD-Smart-TV-for-198-free-shipping/22394010.html?iref=rss-c142"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 52,
+      "seenAtPT": "Nov 14, 2026, 6:12:27 AM PST"
+    },
+    {
+      "id": "dealnews-computers-1794663567000-applemacminiwm62026for77",
+      "title": "Apple Mac mini w/ M6 (2026) for $779 + free shipping",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 779,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 80,
+      "retailer": "Amazon",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/Apple-Mac-mini-w-M6-2026-for-779-free-shipping/22307542.html?iref=rss-c39",
+      "timeDetected": "2026-11-14T13:39:27.000Z",
+      "detectedTimestamp": 1794663567000,
+      "directBuyUrl": "https://www.dealnews.com/Apple-Mac-mini-w-M6-2026-for-779-free-shipping/22307542.html?iref=rss-c39",
+      "specsSummary": "This Mac mini with the new M6 chip is $120 off and the best price we've seen for it. Buy Now at Amazon Features Apple M6 chip with next-generation CPU and GPU 16GB of unified memory 5\" x 5\" x 1.97\" compact desktop design...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Apple%20Mac%20mini%20w%2F%20M6%202026%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/Apple-Mac-mini-w-M6-2026-for-779-free-shipping/22307542.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 52,
+      "seenAtPT": "Nov 14, 2026, 5:39:27 AM PST"
+    },
+    {
       "id": "sd-tv-1794636153000-lg75classnu85seriesledna",
       "title": "LG 75” Class NU85 Series LED Nano 4K UHD Smart webOS TV (2026) $419.9",
       "skuOrAsin": "",
@@ -1418,8 +980,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 3,
-      "substanceScore": 80,
+      "upvoteScore": 8,
+      "substanceScore": 69,
       "retailer": "Best Buy",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20307876-lg-75-class-nu85-series-led-nano-4k-uhd-smart-webos-tv-2026-419-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1442,7 +1004,7 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 54,
+      "hotScore": 52,
       "seenAtPT": "Nov 13, 2026, 10:02:33 PM PST"
     },
     {
@@ -1458,8 +1020,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 16,
-      "substanceScore": 61,
+      "upvoteScore": 20,
+      "substanceScore": 48,
       "retailer": "Costco",
       "sourceChannel": "Slickdeals monitor search",
       "sourceUrl": "https://slickdeals.net/f/20304609-costco-members-27-msi-qd-oled-1440p-240hz-0-03ms-gaming-monitor-mag-274qpct-qd-oled-x24-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1482,128 +1044,8 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 54,
+      "hotScore": 51,
       "seenAtPT": "Nov 13, 2026, 9:01:11 AM PST"
-    },
-    {
-      "id": "sd-laptop-1794644461000-lggrambook142ktouchscree",
-      "title": "LG - gram Book 14\" 2K Touchscreen Laptop - Intel Core 5 Series 3 2026 - 8GB Memory - 256GB SSD - Silver $529.99 Bestbuy.com",
-      "skuOrAsin": "",
-      "category": "laptops-pcs",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 529.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 0,
-      "substanceScore": 83,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals laptop search",
-      "sourceUrl": "https://slickdeals.net/f/20308296-lg-gram-book-14-2k-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-529-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T08:21:01.000Z",
-      "detectedTimestamp": 1794644461000,
-      "directBuyUrl": "https://slickdeals.net/f/20308296-lg-gram-book-14-2k-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-529-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZ48TP https://www.bestbuy.com/product/l...JJ8VPZ48TP",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20gram%20Book%2014%22%202K%20Touchscreen%20Laptop%20-%20Intel%20Core%205%20Series%203%202026%20-%208GB%20Memory%20-%20256GB"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals laptop search",
-          "uri": "https://slickdeals.net/f/20308296-lg-gram-book-14-2k-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-529-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 53,
-      "seenAtPT": "Nov 14, 2026, 12:21:01 AM PST"
-    },
-    {
-      "id": "sd-laptop-1794644249000-lggrambook142klaptopinte",
-      "title": "LG - gram Book 14\" 2K Laptop - Intel Core 5 Series 3 2026 - 8GB Memory - 256GB SSD - Silver $499.99 bestbuy.com",
-      "skuOrAsin": "",
-      "category": "laptops-pcs",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 499.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 0,
-      "substanceScore": 83,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals laptop search",
-      "sourceUrl": "https://slickdeals.net/f/20308293-lg-gram-book-14-2k-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-499-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T08:17:29.000Z",
-      "detectedTimestamp": 1794644249000,
-      "directBuyUrl": "https://slickdeals.net/f/20308293-lg-gram-book-14-2k-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-499-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZ48T2 https://www.bestbuy.com/product/l...JJ8VPZ48T2",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20gram%20Book%2014%22%202K%20Laptop%20-%20Intel%20Core%205%20Series%203%202026%20-%208GB%20Memory%20-%20256GB%20SSD%20-%20Silve"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals laptop search",
-          "uri": "https://slickdeals.net/f/20308293-lg-gram-book-14-2k-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-499-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 53,
-      "seenAtPT": "Nov 14, 2026, 12:17:29 AM PST"
-    },
-    {
-      "id": "sd-tv-1794644104000-lg86classmrgb95microrgbe",
-      "title": "LG - 86\" Class MRGB95 Micro RGB evo AI 4K Smart webOS TV with Triple 100% Color Coverage Certified (2026) $3799.99 bestbuy.com",
-      "skuOrAsin": "",
-      "category": "tvs-monitors",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 3799.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": -2,
-      "substanceScore": 83,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals TV search",
-      "sourceUrl": "https://slickdeals.net/f/20308287-lg-86-class-mrgb95-micro-rgb-evo-ai-4k-smart-webos-tv-with-triple-100-color-coverage-certified-2026-3799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T08:15:04.000Z",
-      "detectedTimestamp": 1794644104000,
-      "directBuyUrl": "https://slickdeals.net/f/20308287-lg-86-class-mrgb95-micro-rgb-evo-ai-4k-smart-webos-tv-with-triple-100-color-coverage-certified-2026-3799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZXGL https://www.bestbuy.com/product/l...JJ8VPZZXGL",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%2086%22%20Class%20MRGB95%20Micro%20RGB%20evo%20AI%204K%20Smart%20webOS%20TV%20with%20Triple%20100%25%20Color%20Coverage%20C"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals TV search",
-          "uri": "https://slickdeals.net/f/20308287-lg-86-class-mrgb95-micro-rgb-evo-ai-4k-smart-webos-tv-with-triple-100-color-coverage-certified-2026-3799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "tvs-monitors",
-      "hotScore": 53,
-      "seenAtPT": "Nov 14, 2026, 12:15:04 AM PST"
     },
     {
       "id": "sd-tv-1794643926000-lg55classlx7bgallerytvwi",
@@ -1618,8 +1060,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": -1,
-      "substanceScore": 83,
+      "upvoteScore": 3,
+      "substanceScore": 69,
       "retailer": "Best Buy",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20308269-lg-55-class-lx7b-gallery-tv-with-frame-mini-led-4k-smart-webos-tv-2026-699-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1642,8 +1084,47 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 53,
+      "hotScore": 49,
       "seenAtPT": "Nov 14, 2026, 12:12:06 AM PST"
+    },
+    {
+      "id": "dealnews-electronics-1794648521000-unlockedmotorolamotogpla",
+      "title": "Unlocked Motorola Moto G Play 6.7\" Android Smartphone (2026) for $150 + free shipping w/ Prime",
+      "skuOrAsin": "",
+      "category": "other-tech",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 150,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 44,
+      "retailer": "Woot",
+      "sourceChannel": "DealNews Electronics",
+      "sourceUrl": "https://www.dealnews.com/Unlocked-Motorola-Moto-G-Play-6-7-Android-Smartphone-2026-for-150-free-shipping-w-Prime/22393681.html?iref=rss-c142",
+      "timeDetected": "2026-11-14T09:28:41.000Z",
+      "detectedTimestamp": 1794648521000,
+      "directBuyUrl": "https://www.dealnews.com/Unlocked-Motorola-Moto-G-Play-6-7-Android-Smartphone-2026-for-150-free-shipping-w-Prime/22393681.html?iref=rss-c142",
+      "specsSummary": "The new unlocked Motorola Moto G Play is down to $150 right now at Woot. That's $30 under last month's mention and $29 cheaper than what you'd pay for the same model elsewhere. The phone is unlocked, so it works with all...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Unlocked%20Motorola%20Moto%20G%20Play%206.7%22%20Android%20Smartphone%202026%20for%20%2B%20w%2F"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Electronics",
+          "uri": "https://www.dealnews.com/Unlocked-Motorola-Moto-G-Play-6-7-Android-Smartphone-2026-for-150-free-shipping-w-Prime/22393681.html?iref=rss-c142"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "phones",
+      "hotScore": 48,
+      "seenAtPT": "Nov 14, 2026, 1:28:41 AM PST"
     },
     {
       "id": "sd-tv-1794637619000-lg75classmrgb95microrgbe",
@@ -1658,8 +1139,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 2,
-      "substanceScore": 80,
+      "upvoteScore": 3,
+      "substanceScore": 65,
       "retailer": "Best Buy",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20307948-lg-75-class-mrgb95-micro-rgb-evo-ai-4k-smart-webos-tv-with-triple-100-color-coverage-certified-2026-2799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1682,8 +1163,208 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 53,
+      "hotScore": 48,
       "seenAtPT": "Nov 13, 2026, 10:26:59 PM PST"
+    },
+    {
+      "id": "sd-tv-1794584867000-lg75classnu700bseriesled",
+      "title": "LG - 75” Class NU700B Series LED Nano AI 4K UHD Smart webOS TV (2026) @ Best Buy $399.99",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 399.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 18,
+      "substanceScore": 43,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals TV search",
+      "sourceUrl": "https://slickdeals.net/f/20304051-lg-75-class-nu700b-series-led-nano-ai-4k-uhd-smart-webos-tv-2026-best-buy-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-13T15:47:47.000Z",
+      "detectedTimestamp": 1794584867000,
+      "directBuyUrl": "https://slickdeals.net/f/20304051-lg-75-class-nu700b-series-led-nano-ai-4k-uhd-smart-webos-tv-2026-best-buy-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Available for pickup and delivery https://www.bestbuy.com/product/l...JJ8VPZKFYQ Available for pickup and delivery https://www.bestbuy.com/product/l...JJ8VPZKFYQ",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%2075%E2%80%9D%20Class%20NU700B%20Series%20LED%20Nano%20AI%204K%20UHD%20Smart%20webOS%20TV%202026%20%40%20Best%20Buy"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals TV search",
+          "uri": "https://slickdeals.net/f/20304051-lg-75-class-nu700b-series-led-nano-ai-4k-uhd-smart-webos-tv-2026-best-buy-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 48,
+      "seenAtPT": "Nov 13, 2026, 7:47:47 AM PST"
+    },
+    {
+      "id": "sd-laptop-1794644461000-lggrambook142ktouchscree",
+      "title": "LG - gram Book 14\" 2K Touchscreen Laptop - Intel Core 5 Series 3 2026 - 8GB Memory - 256GB SSD - Silver $529.99 Bestbuy.com",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 529.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": -1,
+      "substanceScore": 66,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals laptop search",
+      "sourceUrl": "https://slickdeals.net/f/20308296-lg-gram-book-14-2k-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-529-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T08:21:01.000Z",
+      "detectedTimestamp": 1794644461000,
+      "directBuyUrl": "https://slickdeals.net/f/20308296-lg-gram-book-14-2k-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-529-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZ48TP https://www.bestbuy.com/product/l...JJ8VPZ48TP",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20gram%20Book%2014%22%202K%20Touchscreen%20Laptop%20-%20Intel%20Core%205%20Series%203%202026%20-%208GB%20Memory%20-%20256GB"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals laptop search",
+          "uri": "https://slickdeals.net/f/20308296-lg-gram-book-14-2k-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-529-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 47,
+      "seenAtPT": "Nov 14, 2026, 12:21:01 AM PST"
+    },
+    {
+      "id": "sd-laptop-1794644249000-lggrambook142klaptopinte",
+      "title": "LG - gram Book 14\" 2K Laptop - Intel Core 5 Series 3 2026 - 8GB Memory - 256GB SSD - Silver $499.99 bestbuy.com",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 499.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": -1,
+      "substanceScore": 66,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals laptop search",
+      "sourceUrl": "https://slickdeals.net/f/20308293-lg-gram-book-14-2k-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-499-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T08:17:29.000Z",
+      "detectedTimestamp": 1794644249000,
+      "directBuyUrl": "https://slickdeals.net/f/20308293-lg-gram-book-14-2k-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-499-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZ48T2 https://www.bestbuy.com/product/l...JJ8VPZ48T2",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%20gram%20Book%2014%22%202K%20Laptop%20-%20Intel%20Core%205%20Series%203%202026%20-%208GB%20Memory%20-%20256GB%20SSD%20-%20Silve"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals laptop search",
+          "uri": "https://slickdeals.net/f/20308293-lg-gram-book-14-2k-laptop-intel-core-5-series-3-2026-8gb-memory-256gb-ssd-silver-499-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 46,
+      "seenAtPT": "Nov 14, 2026, 12:17:29 AM PST"
+    },
+    {
+      "id": "sd-tv-1794644104000-lg86classmrgb95microrgbe",
+      "title": "LG - 86\" Class MRGB95 Micro RGB evo AI 4K Smart webOS TV with Triple 100% Color Coverage Certified (2026) $3799.99 bestbuy.com",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 3799.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": -1,
+      "substanceScore": 66,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals TV search",
+      "sourceUrl": "https://slickdeals.net/f/20308287-lg-86-class-mrgb95-micro-rgb-evo-ai-4k-smart-webos-tv-with-triple-100-color-coverage-certified-2026-3799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T08:15:04.000Z",
+      "detectedTimestamp": 1794644104000,
+      "directBuyUrl": "https://slickdeals.net/f/20308287-lg-86-class-mrgb95-micro-rgb-evo-ai-4k-smart-webos-tv-with-triple-100-color-coverage-certified-2026-3799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZXGL https://www.bestbuy.com/product/l...JJ8VPZZXGL",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%2086%22%20Class%20MRGB95%20Micro%20RGB%20evo%20AI%204K%20Smart%20webOS%20TV%20with%20Triple%20100%25%20Color%20Coverage%20C"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals TV search",
+          "uri": "https://slickdeals.net/f/20308287-lg-86-class-mrgb95-micro-rgb-evo-ai-4k-smart-webos-tv-with-triple-100-color-coverage-certified-2026-3799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 46,
+      "seenAtPT": "Nov 14, 2026, 12:15:04 AM PST"
+    },
+    {
+      "id": "sd-tv-1794642815000-lg77classb6oledai4ksmart",
+      "title": "LG - 77\" Class B6 OLED AI 4K Smart webOS TV with Perfect Black, Vivid Color and Magic Remote (2026) $1799.99 Bestbuy.com",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 1799.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": -2,
+      "substanceScore": 65,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals TV search",
+      "sourceUrl": "https://slickdeals.net/f/20308170-lg-77-class-b6-oled-ai-4k-smart-webos-tv-with-perfect-black-vivid-color-and-magic-remote-2026-1799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T07:53:35.000Z",
+      "detectedTimestamp": 1794642815000,
+      "directBuyUrl": "https://slickdeals.net/f/20308170-lg-77-class-b6-oled-ai-4k-smart-webos-tv-with-perfect-black-vivid-color-and-magic-remote-2026-1799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZZ7Z9 https://www.bestbuy.com/product/l...JJ8VPZZ7Z9",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%2077%22%20Class%20B6%20OLED%20AI%204K%20Smart%20webOS%20TV%20with%20Perfect%20Black%2C%20Vivid%20Color%20and%20Magic%20Remo"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals TV search",
+          "uri": "https://slickdeals.net/f/20308170-lg-77-class-b6-oled-ai-4k-smart-webos-tv-with-perfect-black-vivid-color-and-magic-remote-2026-1799-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 46,
+      "seenAtPT": "Nov 13, 2026, 11:53:35 PM PST"
     },
     {
       "id": "sd-tv-1794636376000-lg6555classlx7bgallerytv",
@@ -1699,7 +1380,7 @@
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
       "upvoteScore": 2,
-      "substanceScore": 79,
+      "substanceScore": 63,
       "retailer": "Best Buy",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20307891-lg-65-55-class-lx7b-gallery-tv-with-frame-mini-led-4k-smart-webos-tv-2026-899-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1722,88 +1403,8 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 53,
+      "hotScore": 46,
       "seenAtPT": "Nov 13, 2026, 10:06:16 PM PST"
-    },
-    {
-      "id": "sd-tv-1794589355000-samsung65classs85holedse",
-      "title": "Samsung 65\" Class - S85H OLED Series - 4K Vision AI Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage* $899.99",
-      "skuOrAsin": "",
-      "category": "tvs-monitors",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 899.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 14,
-      "substanceScore": 59,
-      "retailer": "Costco",
-      "sourceChannel": "Slickdeals TV search",
-      "sourceUrl": "https://slickdeals.net/f/20304624-samsung-65-class-s85h-oled-series-4k-vision-ai-smart-tv-allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage-899-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-13T17:02:35.000Z",
-      "detectedTimestamp": 1794589355000,
-      "directBuyUrl": "https://slickdeals.net/f/20304624-samsung-65-class-s85h-oled-series-4k-vision-ai-smart-tv-allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage-899-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "Samsung 65\" Class - S85H OLED Series - 4K Vision AI Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage* https://www.costco.com/p/-/samsun...420100 1932 Samsung 65\" Class - S85H OLED ...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Samsung%2065%22%20Class%20-%20S85H%20OLED%20Series%20-%204K%20Vision%20AI%20Smart%20TV%20-%20Allstate%203-Year%20Protection%20"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals TV search",
-          "uri": "https://slickdeals.net/f/20304624-samsung-65-class-s85h-oled-series-4k-vision-ai-smart-tv-allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage-899-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "tvs-monitors",
-      "hotScore": 52,
-      "seenAtPT": "Nov 13, 2026, 9:02:35 AM PST"
-    },
-    {
-      "id": "sd-tv-1794636085000-lg83classg6oledevoai4ksm",
-      "title": "LG 83\" Class G6 OLED evo AI 4K Smart webOS TV with Reflection-Free Premium and Flush Fit Gallery Design (2026) $4749.99",
-      "skuOrAsin": "",
-      "category": "tvs-monitors",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 4749.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": -1,
-      "substanceScore": 77,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals TV search",
-      "sourceUrl": "https://slickdeals.net/f/20307870-lg-83-class-g6-oled-evo-ai-4k-smart-webos-tv-with-reflection-free-premium-and-flush-fit-gallery-design-2026-4749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-14T06:01:25.000Z",
-      "detectedTimestamp": 1794636085000,
-      "directBuyUrl": "https://slickdeals.net/f/20307870-lg-83-class-g6-oled-evo-ai-4k-smart-webos-tv-with-reflection-free-premium-and-flush-fit-gallery-design-2026-4749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZKVVS https://www.bestbuy.com/product/l...JJ8VPZKVVS https://www.bestbuy.com/product/l...JJ8VPZKVVS https://www.bestbuy.com/product/l...JJ8VPZKVVS",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=LG%2083%22%20Class%20G6%20OLED%20evo%20AI%204K%20Smart%20webOS%20TV%20with%20Reflection-Free%20Premium%20and%20Flush%20Fit%20G"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals TV search",
-          "uri": "https://slickdeals.net/f/20307870-lg-83-class-g6-oled-evo-ai-4k-smart-webos-tv-with-reflection-free-premium-and-flush-fit-gallery-design-2026-4749-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "tvs-monitors",
-      "hotScore": 51,
-      "seenAtPT": "Nov 13, 2026, 10:01:25 PM PST"
     },
     {
       "id": "sd-monitor-1794635617000-54999samsung27odysseyg8g",
@@ -1818,8 +1419,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": -1,
-      "substanceScore": 77,
+      "upvoteScore": 2,
+      "substanceScore": 62,
       "retailer": "Amazon",
       "sourceChannel": "Slickdeals monitor search",
       "sourceUrl": "https://slickdeals.net/f/20307819-549-99-samsung-27-odyssey-g8-g80hf-gaming-monitor-5k-resolution-fast-ips-180hz-dual-mode-qhd-360hz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1850,7 +1451,7 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 51,
+      "hotScore": 46,
       "seenAtPT": "Nov 13, 2026, 9:53:37 PM PST"
     },
     {
@@ -1866,8 +1467,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 2,
-      "substanceScore": 74,
+      "upvoteScore": 4,
+      "substanceScore": 59,
       "retailer": "BJ's",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20307510-roku-50-qled-4k-smart-tv-with-4-year-coverage-bjs-com-free-shipping-or-pickup-119-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1890,369 +1491,8 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 51,
+      "hotScore": 46,
       "seenAtPT": "Nov 13, 2026, 7:57:47 PM PST"
-    },
-    {
-      "id": "reddit-deals-1794529346000-amazongigabyteaerox16gam",
-      "title": "[Amazon] GIGABYTE AERO X16 Gaming Laptop - 16\" 165Hz, (2560x1600) WQXGA Display, AMD Ryzen AI 7 350, NVIDIA GeForce RTX 5070, 32GB DDR5 RAM, 1TB SSD, Windows 11 Home, Lunar White. Now: $1,669.99 After 20% Off",
-      "skuOrAsin": "Amazon",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 2087.49,
-      "glitchPrice": 1669.99,
-      "discountPercent": 20,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 169,
-      "retailer": "Amazon",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xutdjk/amazon_gigabyte_aero_x16_gaming_laptop_16_165hz/",
-      "timeDetected": "2026-11-13T00:22:26.000Z",
-      "detectedTimestamp": 1794529346000,
-      "directBuyUrl": "https://progamerstech.com/product/gigabyte-aero-x16-amd-ryzen-ai-7-350-geforce-rtx-5070-16-laptop-copilot-pc-165hz-2560x1600-wqxga-1tb-ssd-32gb-ddr5-ram-windows-11-home-lunar-white/",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=GIGABYTE%20AERO%20X16%20Gaming%20Laptop%20-%2016%22%20165Hz%2C%202560x1600%20WQXGA%20Display%2C%20AMD%20Ryzen%20AI%207%20350%2C%20"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xutdjk/amazon_gigabyte_aero_x16_gaming_laptop_16_165hz/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 51,
-      "seenAtPT": "Nov 12, 2026, 4:22:26 PM PST"
-    },
-    {
-      "id": "reddit-deals-1794528942000-amazonasusvivobooks16lap",
-      "title": "[Amazon] ASUS Vivobook S16 Laptop (2026), 16” 16:10 WUXGA Touch Display, Copilot+ PC, AMD Ryzen™ AI 7 445 Processor, AMD Radeon™ Graphics, 16GB RAM, 1TB SSD, Wi-Fi 6, Win11 Home, Cool Silver, Now: $1,044.99 After 20% Off",
-      "skuOrAsin": "Amazon",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 1306.24,
-      "glitchPrice": 1044.99,
-      "discountPercent": 20,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 130,
-      "retailer": "Amazon",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xut87m/amazon_asus_vivobook_s16_laptop_2026_16_1610/",
-      "timeDetected": "2026-11-13T00:15:42.000Z",
-      "detectedTimestamp": 1794528942000,
-      "directBuyUrl": "https://progamerstech.com/product/asus-vivobook-s16-laptop-2026-16-1610-wuxga-touch-display-copilot-pc-amd-ryzen-ai-7-445-processor-amd-radeon-graphics-16-gb-ram-1tb-ssd-wi-fi-6-win11-home-cool/",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=ASUS%20Vivobook%20S16%20Laptop%202026%20%2C%2016%E2%80%9D%2016%3A10%20WUXGA%20Touch%20Display%2C%20Copilot%2B%20PC%2C%20AMD%20Ryzen%E2%84%A2%20AI%20"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xut87m/amazon_asus_vivobook_s16_laptop_2026_16_1610/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 51,
-      "seenAtPT": "Nov 12, 2026, 4:15:42 PM PST"
-    },
-    {
-      "id": "reddit-deals-1794390600000-amazonasusvivobook16flip",
-      "title": "[Amazon] ASUS Vivobook 16 Flip Laptop: 16” WUXGA OLED Touchscreen, Intel Ultra 7 355, Intel Graphics, 16GB RAM, 512GB SSD - for $1,179.99 after 21% off",
-      "skuOrAsin": "Amazon",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 1493.66,
-      "glitchPrice": 1179.99,
-      "discountPercent": 21,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 145,
-      "retailer": "Amazon",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xtds59/amazon_asus_vivobook_16_flip_laptop_16_wuxga_oled/",
-      "timeDetected": "2026-11-11T09:50:00.000Z",
-      "detectedTimestamp": 1794390600000,
-      "directBuyUrl": "https://www.megatechdrop.com/2026/11/asus-vivobook-16-flip-16-wuxga-oled.html",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=ASUS%20Vivobook%2016%20Flip%20Laptop%3A%2016%E2%80%9D%20WUXGA%20OLED%20Touchscreen%2C%20Intel%20Ultra%207%20355%2C%20Intel%20Graphic"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xtds59/amazon_asus_vivobook_16_flip_laptop_16_wuxga_oled/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 50,
-      "seenAtPT": "Nov 11, 2026, 1:50:00 AM PST"
-    },
-    {
-      "id": "reddit-deals-1794390570000-amazonasusvivobooks16lap",
-      "title": "[Amazon] ASUS Vivobook S16 Laptop: 16\" WUXGA IPS-level Touchscreen, Ryzen AI 7 445, Radeon Graphics, 16GB RAM, 1TB SSD - for $1,044.99 after 20% off",
-      "skuOrAsin": "Amazon",
-      "category": "laptops-pcs",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 1306.24,
-      "glitchPrice": 1044.99,
-      "discountPercent": 20,
-      "priceBasis": "percent-off",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 130,
-      "retailer": "Amazon",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xtdrvk/amazon_asus_vivobook_s16_laptop_16_wuxga_ipslevel/",
-      "timeDetected": "2026-11-11T09:49:30.000Z",
-      "detectedTimestamp": 1794390570000,
-      "directBuyUrl": "https://www.megatechdrop.com/2026/08/asus-vivobook-s16-16-wuxg-ips.html",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=ASUS%20Vivobook%20S16%20Laptop%3A%2016%22%20WUXGA%20IPS-level%20Touchscreen%2C%20Ryzen%20AI%207%20445%2C%20Radeon%20Graphics"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xtdrvk/amazon_asus_vivobook_s16_laptop_16_wuxga_ipslevel/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "laptops-pcs",
-      "hotScore": 48,
-      "seenAtPT": "Nov 11, 2026, 1:49:30 AM PST"
-    },
-    {
-      "id": "reddit-deals-1794388567000-appleairpodspro319920off",
-      "title": "Apple airpods pro 3, 199$ (20%off down from 249$)",
-      "skuOrAsin": "ASIN B0FQFB8FMG",
-      "category": "other-tech",
-      "glitchType": "Markdown",
-      "isPossiblePriceError": false,
-      "originalPrice": 249,
-      "glitchPrice": 199,
-      "discountPercent": 20,
-      "priceBasis": "from-to",
-      "isVerifiedSinglePrice": false,
-      "condition": "Unverified condition",
-      "substanceScore": 53,
-      "retailer": "Amazon",
-      "sourceChannel": "r/deals",
-      "sourceUrl": "https://www.reddit.com/r/deals/comments/1xtda47/apple_airpods_pro_3_199_20off_down_from_249/",
-      "timeDetected": "2026-11-11T09:16:07.000Z",
-      "detectedTimestamp": 1794388567000,
-      "directBuyUrl": "https://www.amazon.com/gp/aw/d/B0FQFB8FMG?pd_rd_plhdr=t&hsa_cr_id=0&qid=1794341419&sr=1-1-fec03104-6f11-4242-8f79-15fae2896f66&i=aps&aref=DDbtXUVz2w&_encoding=UTF8&pd_rd_w=mks4W&content-id=amzn1.sym.22e060df-ce87-467b-805a-61b8bd37fbe9%3Aamzn1.sym.22e060df-ce87-467b-805a-61b8bd37fbe9&pf_rd_p=22e060df-ce87-467b-805a-61b8bd37fbe9&pf_rd_r=7FMKR6615BQJDS6B9DAD&pd_rd_wg=eLAwY&pd_rd_r=4cad898e-b8d8-46c6-890a-f651ff75fed6&linkCode=ll2&tag=mystilepo05-20&linkId=9acb0f797f298343dcc32039c18128a2&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
-      "specsSummary": "Affiliate marketing link :))",
-      "checkPriceLinks": [
-        {
-          "label": "camelcamelcamel price history",
-          "uri": "https://camelcamelcamel.com/product/B0FQFB8FMG"
-        },
-        {
-          "label": "Keepa price history",
-          "uri": "https://keepa.com/#!product/1-B0FQFB8FMG"
-        },
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Apple%20airpods%20pro%203%2C%20199%24%2020%25off%20down%20from%20249%24"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/deals",
-          "uri": "https://www.reddit.com/r/deals/comments/1xtda47/apple_airpods_pro_3_199_20off_down_from_249/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "audio",
-      "hotScore": 48,
-      "seenAtPT": "Nov 11, 2026, 1:16:07 AM PST"
-    },
-    {
-      "id": "dealnews-electronics-1794621558000-unlockedappleiphone17pro",
-      "title": "Unlocked Apple iPhone 17 Pro 256GB Smartphone for $1,070 + free shipping",
-      "skuOrAsin": "",
-      "category": "other-tech",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 1070,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "substanceScore": 42,
-      "retailer": "Best Buy",
-      "sourceChannel": "DealNews Electronics",
-      "sourceUrl": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone/558048.html?iref=rss-c142",
-      "timeDetected": "2026-11-14T01:59:18.000Z",
-      "detectedTimestamp": 1794621558000,
-      "directBuyUrl": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone/558048.html?iref=rss-c142",
-      "specsSummary": "Best Buy's Holiday Deal takes $30 off the iPhone 17 Pro 256GB, bringing it to $1,069.99. The phone is unlocked and works with major carriers, and Best Buy lists 24-month financing at $45 per month. Six free gifts are inc...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Unlocked%20Apple%20iPhone%2017%20Pro%20256GB%20Smartphone%20for%20%2B"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "DealNews Electronics",
-          "uri": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone/558048.html?iref=rss-c142"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "phones",
-      "hotScore": 47,
-      "seenAtPT": "Nov 13, 2026, 5:59:18 PM PST"
-    },
-    {
-      "id": "reddit-deals-1794620763000-walmartasustufgaminga161",
-      "title": "[Walmart] ASUS TUF Gaming A16; 16” FHD+ 165 Hz display, AMD Ryzen 7 8745HX Processor, NVIDI GeForce RTX 5060 GPU, 16GB RAM, 512GB SSD W/ $700 OFF, FOR $1099",
-      "skuOrAsin": "Walmart",
-      "category": "laptops-pcs",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 1099,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "substanceScore": 66,
-      "retailer": "Walmart",
-      "sourceChannel": "r/LaptopDeals",
-      "sourceUrl": "https://www.reddit.com/r/LaptopDeals/comments/1xvq2ts/walmart_asus_tuf_gaming_a16_16_fhd_165_hz_display/",
-      "timeDetected": "2026-11-14T01:46:03.000Z",
-      "detectedTimestamp": 1794620763000,
-      "directBuyUrl": "https://goto.walmart.com/c/1883484/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHigh-Performance-Laptop-Computer-for-Everyday-Use%2F20135016910",
-      "specsSummary": "",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=ASUS%20TUF%20Gaming%20A16%3B%2016%E2%80%9D%20FHD%2B%20165%20Hz%20display%2C%20AMD%20Ryzen%207%208745HX%20Processor%2C%20NVIDI%20GeForce%20"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "r/LaptopDeals",
-          "uri": "https://www.reddit.com/r/LaptopDeals/comments/1xvq2ts/walmart_asus_tuf_gaming_a16_16_fhd_165_hz_display/"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "gpus-ssds",
-      "hotScore": 47,
-      "seenAtPT": "Nov 13, 2026, 5:46:03 PM PST"
-    },
-    {
-      "id": "sd-tv-1794612940000-19999fsbestbuyhisense55c",
-      "title": "$199.99 FS BEST BUY Hisense - 55\" Class QD5 Hi-QLED Series 4K UHD Smart Roku TV (2026)",
-      "skuOrAsin": "",
-      "category": "tvs-monitors",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 199.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 3,
-      "substanceScore": 64,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals TV search",
-      "sourceUrl": "https://slickdeals.net/f/20306562-199-99-fs-best-buy-hisense-55-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-13T23:35:40.000Z",
-      "detectedTimestamp": 1794612940000,
-      "directBuyUrl": "https://slickdeals.net/f/20306562-199-99-fs-best-buy-hisense-55-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "https://www.bestbuy.com/product/h...424FK?ircl https://www.bestbuy.com/product/h...424FK?ircl",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=FS%20BEST%20BUY%20Hisense%20-%2055%22%20Class%20QD5%20Hi-QLED%20Series%204K%20UHD%20Smart%20Roku%20TV%202026"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals TV search",
-          "uri": "https://slickdeals.net/f/20306562-199-99-fs-best-buy-hisense-55-class-qd5-hi-qled-series-4k-uhd-smart-roku-tv-2026?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "tvs-monitors",
-      "hotScore": 47,
-      "seenAtPT": "Nov 13, 2026, 3:35:40 PM PST"
-    },
-    {
-      "id": "sd-monitor-1794612718000-acernitrokgb271u27wqhdip",
-      "title": "Acer - Nitro KGB271U 27\" WQHD IPS Up to 200Hz 0.5ms FreeSync Premium Gaming Monitor with HDR10 (DisplayPort, HDMI) - Black $149.99",
-      "skuOrAsin": "",
-      "category": "laptops-pcs",
-      "glitchType": "Deal (single price)",
-      "isPossiblePriceError": false,
-      "originalPrice": 0,
-      "glitchPrice": 149.99,
-      "discountPercent": 0,
-      "priceBasis": "none",
-      "isVerifiedSinglePrice": true,
-      "condition": "Unverified condition",
-      "upvoteScore": 3,
-      "substanceScore": 64,
-      "retailer": "Best Buy",
-      "sourceChannel": "Slickdeals monitor search",
-      "sourceUrl": "https://slickdeals.net/f/20306541-acer-nitro-kgb271u-27-wqhd-ips-up-to-200hz-0-5ms-freesync-premium-gaming-monitor-with-hdr10-displayport-hdmi-black-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "timeDetected": "2026-11-13T23:31:58.000Z",
-      "detectedTimestamp": 1794612718000,
-      "directBuyUrl": "https://slickdeals.net/f/20306541-acer-nitro-kgb271u-27-wqhd-ips-up-to-200hz-0-5ms-freesync-premium-gaming-monitor-with-hdr10-displayport-hdmi-black-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-      "specsSummary": "Best Buy has Acer - Nitro KGB271U 27\" WQHD IPS Up to 200Hz 0.5ms FreeSync Premium Gaming Monitor with HDR10 (DisplayPort, HDMI) - Black for $149.99 Features 27\" screen with 2560 x 1440 WQHD resolution IPS panel with up t...",
-      "checkPriceLinks": [
-        {
-          "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=Acer%20-%20Nitro%20KGB271U%2027%22%20WQHD%20IPS%20Up%20to%20200Hz%200.5ms%20FreeSync%20Premium%20Gaming%20Monitor%20with%20H"
-        }
-      ],
-      "groundingSources": [
-        {
-          "title": "Slickdeals monitor search",
-          "uri": "https://slickdeals.net/f/20306541-acer-nitro-kgb271u-27-wqhd-ips-up-to-200hz-0-5ms-freesync-premium-gaming-monitor-with-hdr10-displayport-hdmi-black-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
-        }
-      ],
-      "isLiveGrounded": true,
-      "matchedRules": [],
-      "hotCategory": "tvs-monitors",
-      "hotScore": 47,
-      "seenAtPT": "Nov 13, 2026, 3:31:58 PM PST"
     },
     {
       "id": "sd-tv-1794583996000-tcl55classq6lrseries4kuh",
@@ -2267,8 +1507,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 11,
-      "substanceScore": 52,
+      "upvoteScore": 16,
+      "substanceScore": 41,
       "retailer": "Best Buy",
       "sourceChannel": "Slickdeals TV search",
       "sourceUrl": "https://slickdeals.net/f/20303925-tcl-55-class-q6lr-series-4k-uhd-hdr-qled-smart-tv-with-roku-tv-2026-279-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -2291,47 +1531,88 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "tvs-monitors",
-      "hotScore": 47,
+      "hotScore": 46,
       "seenAtPT": "Nov 13, 2026, 7:33:16 AM PST"
     },
     {
-      "id": "reddit-deals-1794619884000-gpupnynvidiageforcertx50",
-      "title": "[GPU] PNY NVIDIA GeForce RTX 5070 Ti OC - $1229.99 @ Staples",
-      "skuOrAsin": "GPU",
-      "category": "pc-parts",
+      "id": "sd-tv-1794589355000-samsung65classs85holedse",
+      "title": "Samsung 65\" Class - S85H OLED Series - 4K Vision AI Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage* $899.99",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
       "glitchType": "Deal (single price)",
       "isPossiblePriceError": false,
       "originalPrice": 0,
-      "glitchPrice": 1229.99,
+      "glitchPrice": 899.99,
       "discountPercent": 0,
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "substanceScore": 66,
-      "retailer": "Staples",
-      "sourceChannel": "r/buildapcsales",
-      "sourceUrl": "https://www.reddit.com/r/buildapcsales/comments/1xvpsik/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_122999/",
-      "timeDetected": "2026-11-14T01:31:24.000Z",
-      "detectedTimestamp": 1794619884000,
-      "directBuyUrl": "https://www.staples.com/pny-geforce-rtx-5070-nvidia-pci-express-5-0-16mb-gddr7-gaming-graphics-card-2295mhz-core-25gbps-mhz-vcg5070t16tfxpb1-o/product_24688886",
-      "specsSummary": "",
+      "upvoteScore": 14,
+      "substanceScore": 42,
+      "retailer": "Costco",
+      "sourceChannel": "Slickdeals TV search",
+      "sourceUrl": "https://slickdeals.net/f/20304624-samsung-65-class-s85h-oled-series-4k-vision-ai-smart-tv-allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage-899-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-13T17:02:35.000Z",
+      "detectedTimestamp": 1794589355000,
+      "directBuyUrl": "https://slickdeals.net/f/20304624-samsung-65-class-s85h-oled-series-4k-vision-ai-smart-tv-allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage-899-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Samsung 65\" Class - S85H OLED Series - 4K Vision AI Smart TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years of Total Coverage* https://www.costco.com/p/-/samsun...420100 1932 Samsung 65\" Class - S85H OLED ...",
       "checkPriceLinks": [
         {
           "label": "Google Shopping prices",
-          "uri": "https://www.google.com/search?tbm=shop&q=PNY%20NVIDIA%20GeForce%20RTX%205070%20Ti%20OC%20-%20%40%20Staples"
+          "uri": "https://www.google.com/search?tbm=shop&q=Samsung%2065%22%20Class%20-%20S85H%20OLED%20Series%20-%204K%20Vision%20AI%20Smart%20TV%20-%20Allstate%203-Year%20Protection%20"
         }
       ],
       "groundingSources": [
         {
-          "title": "r/buildapcsales",
-          "uri": "https://www.reddit.com/r/buildapcsales/comments/1xvpsik/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_122999/"
+          "title": "Slickdeals TV search",
+          "uri": "https://slickdeals.net/f/20304624-samsung-65-class-s85h-oled-series-4k-vision-ai-smart-tv-allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage-899-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
         }
       ],
       "isLiveGrounded": true,
       "matchedRules": [],
-      "hotCategory": "gpus-ssds",
-      "hotScore": 46,
-      "seenAtPT": "Nov 13, 2026, 5:31:24 PM PST"
+      "hotCategory": "tvs-monitors",
+      "hotScore": 45,
+      "seenAtPT": "Nov 13, 2026, 9:02:35 AM PST"
+    },
+    {
+      "id": "sd-tv-1794636085000-lg83classg6oledevoai4ksm",
+      "title": "LG 83\" Class G6 OLED evo AI 4K Smart webOS TV with Reflection-Free Premium and Flush Fit Gallery Design (2026) $4749.99",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 4749.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": -4,
+      "substanceScore": 61,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals TV search",
+      "sourceUrl": "https://slickdeals.net/f/20307870-lg-83-class-g6-oled-evo-ai-4k-smart-webos-tv-with-reflection-free-premium-and-flush-fit-gallery-design-2026-4749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-14T06:01:25.000Z",
+      "detectedTimestamp": 1794636085000,
+      "directBuyUrl": "https://slickdeals.net/f/20307870-lg-83-class-g6-oled-evo-ai-4k-smart-webos-tv-with-reflection-free-premium-and-flush-fit-gallery-design-2026-4749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.bestbuy.com/product/l...JJ8VPZKVVS https://www.bestbuy.com/product/l...JJ8VPZKVVS https://www.bestbuy.com/product/l...JJ8VPZKVVS https://www.bestbuy.com/product/l...JJ8VPZKVVS",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%2083%22%20Class%20G6%20OLED%20evo%20AI%204K%20Smart%20webOS%20TV%20with%20Reflection-Free%20Premium%20and%20Flush%20Fit%20G"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals TV search",
+          "uri": "https://slickdeals.net/f/20307870-lg-83-class-g6-oled-evo-ai-4k-smart-webos-tv-with-reflection-free-premium-and-flush-fit-gallery-design-2026-4749-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 44,
+      "seenAtPT": "Nov 13, 2026, 10:01:25 PM PST"
     },
     {
       "id": "sd-laptop-1794619059000-hpomnibook3173fhdtouchsc",
@@ -2346,8 +1627,8 @@
       "priceBasis": "none",
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
-      "upvoteScore": 0,
-      "substanceScore": 65,
+      "upvoteScore": 2,
+      "substanceScore": 51,
       "retailer": "Costco",
       "sourceChannel": "Slickdeals laptop search",
       "sourceUrl": "https://slickdeals.net/f/20306895-hp-omnibook-3-17-3-fhd-touchscreen-copilot-pc-laptop-intel-core-ultra-5-322-16gb-ram-512gb-ssd-windows-11-home-699-99-14-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -2370,8 +1651,87 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "laptops-pcs",
-      "hotScore": 46,
+      "hotScore": 41,
       "seenAtPT": "Nov 13, 2026, 5:17:39 PM PST"
+    },
+    {
+      "id": "sd-monitor-1794612718000-acernitrokgb271u27wqhdip",
+      "title": "Acer - Nitro KGB271U 27\" WQHD IPS Up to 200Hz 0.5ms FreeSync Premium Gaming Monitor with HDR10 (DisplayPort, HDMI) - Black $149.99",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 149.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 3,
+      "substanceScore": 47,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals monitor search",
+      "sourceUrl": "https://slickdeals.net/f/20306541-acer-nitro-kgb271u-27-wqhd-ips-up-to-200hz-0-5ms-freesync-premium-gaming-monitor-with-hdr10-displayport-hdmi-black-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-13T23:31:58.000Z",
+      "detectedTimestamp": 1794612718000,
+      "directBuyUrl": "https://slickdeals.net/f/20306541-acer-nitro-kgb271u-27-wqhd-ips-up-to-200hz-0-5ms-freesync-premium-gaming-monitor-with-hdr10-displayport-hdmi-black-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Best Buy has Acer - Nitro KGB271U 27\" WQHD IPS Up to 200Hz 0.5ms FreeSync Premium Gaming Monitor with HDR10 (DisplayPort, HDMI) - Black for $149.99 Features 27\" screen with 2560 x 1440 WQHD resolution IPS panel with up t...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Acer%20-%20Nitro%20KGB271U%2027%22%20WQHD%20IPS%20Up%20to%20200Hz%200.5ms%20FreeSync%20Premium%20Gaming%20Monitor%20with%20H"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals monitor search",
+          "uri": "https://slickdeals.net/f/20306541-acer-nitro-kgb271u-27-wqhd-ips-up-to-200hz-0-5ms-freesync-premium-gaming-monitor-with-hdr10-displayport-hdmi-black-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 41,
+      "seenAtPT": "Nov 13, 2026, 3:31:58 PM PST"
+    },
+    {
+      "id": "dealnews-electronics-1794621558000-unlockedappleiphone17pro",
+      "title": "Unlocked Apple iPhone 17 Pro 256GB Smartphone for $1,070 + free shipping",
+      "skuOrAsin": "",
+      "category": "other-tech",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 1070,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 25,
+      "retailer": "Best Buy",
+      "sourceChannel": "DealNews Electronics",
+      "sourceUrl": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone/558048.html?iref=rss-c142",
+      "timeDetected": "2026-11-14T01:59:18.000Z",
+      "detectedTimestamp": 1794621558000,
+      "directBuyUrl": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone/558048.html?iref=rss-c142",
+      "specsSummary": "Best Buy's Holiday Deal takes $30 off the iPhone 17 Pro 256GB, bringing it to $1,069.99. The phone is unlocked and works with major carriers, and Best Buy lists 24-month financing at $45 per month. Six free gifts are inc...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Unlocked%20Apple%20iPhone%2017%20Pro%20256GB%20Smartphone%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Electronics",
+          "uri": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-17-Pro-256-GB-Smartphone/558048.html?iref=rss-c142"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "phones",
+      "hotScore": 40,
+      "seenAtPT": "Nov 13, 2026, 5:59:18 PM PST"
     },
     {
       "id": "sd-laptop-1794611200000-900bjswholesalemembersac",
@@ -2387,7 +1747,7 @@
       "isVerifiedSinglePrice": true,
       "condition": "Unverified condition",
       "upvoteScore": 1,
-      "substanceScore": 61,
+      "substanceScore": 44,
       "retailer": "BJ's",
       "sourceChannel": "Slickdeals laptop search",
       "sourceUrl": "https://slickdeals.net/f/20306394-900-bjs-wholesale-members-acer-nitro-v-15-6-fhd-165hz-gaming-laptop-intel-core-5-16gb-memory-512gb-ssd-nvidia-rtx-4050-graphics?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -2410,8 +1770,686 @@
       "isLiveGrounded": true,
       "matchedRules": [],
       "hotCategory": "laptops-pcs",
-      "hotScore": 45,
+      "hotScore": 38,
       "seenAtPT": "Nov 13, 2026, 3:06:40 PM PST"
+    },
+    {
+      "id": "sd-monitor-1794471669000-1874945yamahahs426wstudi",
+      "title": "$187.49* | 4.5\" Yamaha HS4 26W Studio Monitor Speakers (Pair, White or Black) at Amazon",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 187.49,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 20,
+      "substanceScore": 45,
+      "retailer": "Amazon",
+      "sourceChannel": "Slickdeals monitor search",
+      "sourceUrl": "https://slickdeals.net/f/20295576-187-49-4-5-yamaha-hs4-26w-studio-monitor-speakers-pair-white-or-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-12T08:21:09.000Z",
+      "detectedTimestamp": 1794471669000,
+      "directBuyUrl": "https://slickdeals.net/f/20295576-187-49-4-5-yamaha-hs4-26w-studio-monitor-speakers-pair-white-or-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Amazon [ amazon.com ] has 4.5\" Yamaha HS4 26W Studio Monitor Speakers (Pair, White or Black) for $187.49 . Shipping is free .[list][*] 3\" Black [ amazon.com ] - $172.49 White [ amazon.com ] - $172.49 [*] 4\" [list][*] Bla...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=*%204.5%22%20Yamaha%20HS4%2026W%20Studio%20Monitor%20Speakers%20Pair%2C%20White%20or%20Black"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals monitor search",
+          "uri": "https://slickdeals.net/f/20295576-187-49-4-5-yamaha-hs4-26w-studio-monitor-speakers-pair-white-or-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 38,
+      "seenAtPT": "Nov 12, 2026, 12:21:09 AM PST"
+    },
+    {
+      "id": "dealnews-computers-1794606566000-acernitrokgb271u27wqhd20",
+      "title": "Acer Nitro KGB271U 27\" WQHD 200Hz FreeSync HDR10 IPS LED Monitor for $150 + free shipping",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 150,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 40,
+      "retailer": "Best Buy",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/products/Acer/Acer-Nitro-KGB271-U-27-WQHD-HDR10-IPS-LED-Monitor/557955.html?iref=rss-c39",
+      "timeDetected": "2026-11-13T21:49:26.000Z",
+      "detectedTimestamp": 1794606566000,
+      "directBuyUrl": "https://www.dealnews.com/products/Acer/Acer-Nitro-KGB271-U-27-WQHD-HDR10-IPS-LED-Monitor/557955.html?iref=rss-c39",
+      "specsSummary": "Best Buy has the Acer Nitro KGB271U 27\" gaming monitor at $50 off. The 1440p resolution and 200Hz refresh rate come at a price that matches the Samsung Odyssey G5 27\" 1440p monitor at $150 on the same page. My Best Buy m...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Acer%20Nitro%20KGB271U%2027%22%20WQHD%20200Hz%20FreeSync%20HDR10%20IPS%20LED%20Monitor%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/products/Acer/Acer-Nitro-KGB271-U-27-WQHD-HDR10-IPS-LED-Monitor/557955.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 36,
+      "seenAtPT": "Nov 13, 2026, 1:49:26 PM PST"
+    },
+    {
+      "id": "sd-monitor-1794596606000-samsungodysseyg6g60f27qh",
+      "title": "Samsung Odyssey G6 G60F 27\" QHD IPS 350Hz Gaming Monitor (Open Box, Incomplete) $209.96 (Micro Center, In-Store Only)",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 209.96,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Open-Box",
+      "upvoteScore": 2,
+      "substanceScore": 35,
+      "retailer": "Micro Center",
+      "sourceChannel": "Slickdeals monitor search",
+      "sourceUrl": "https://slickdeals.net/f/20305278-samsung-odyssey-g6-g60f-27-qhd-ips-350hz-gaming-monitor-open-box-incomplete-209-96-micro-center-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-13T19:03:26.000Z",
+      "detectedTimestamp": 1794596606000,
+      "directBuyUrl": "https://slickdeals.net/f/20305278-samsung-odyssey-g6-g60f-27-qhd-ips-350hz-gaming-monitor-open-box-incomplete-209-96-micro-center-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "https://www.microcenter .com/produ...ng-monitor YMMV - single open-box unit (ID 23426) at Micro Center Santa Clara; sold as-is, first come first served. IMPORTANT: Micro Center lists this unit as \"INCOMPLETE: AS IS.\" Tha...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Samsung%20Odyssey%20G6%20G60F%2027%22%20QHD%20IPS%20350Hz%20Gaming%20Monitor%20Open%20Box%2C%20Incomplete%20Micro%20Center"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals monitor search",
+          "uri": "https://slickdeals.net/f/20305278-samsung-odyssey-g6-g60f-27-qhd-ips-350hz-gaming-monitor-open-box-incomplete-209-96-micro-center-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 35,
+      "seenAtPT": "Nov 13, 2026, 11:03:26 AM PST"
+    },
+    {
+      "id": "sd-gpu-1794591160000-msigeforcertx5070tishado",
+      "title": "MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card $1059 or less + Free Shipping",
+      "skuOrAsin": "",
+      "category": "pc-parts",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 1059,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 1,
+      "substanceScore": 30,
+      "retailer": "Amazon",
+      "sourceChannel": "Slickdeals GPU search",
+      "sourceUrl": "https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-13T17:32:40.000Z",
+      "detectedTimestamp": 1794591160000,
+      "directBuyUrl": "https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Amazon [ amazon.com ] has MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card on sale for $1058.83 . Shipping is free . Note: Select \"Prime for Young Adults\" may see an offer on page to earn an additional 5% ca...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=MSI%20GeForce%20RTX%205070%20Ti%20Shadow%203X%20OC%2016GB%20GDDR7%20Graphics%20Card%20or%20less%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals GPU search",
+          "uri": "https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "gpus-ssds",
+      "hotScore": 33,
+      "seenAtPT": "Nov 13, 2026, 9:32:40 AM PST"
+    },
+    {
+      "id": "sd-monitor-1794522414000-samsung27odyssey3dg90xfs",
+      "title": "Samsung 27\" Odyssey 3D (G90XF) Series 4K Gaming Monitor | 165Hz, 1ms Response Time, AMD FreeSync Premium, Glasses-Free, Ergonomic Stand (LS27FG900XNXZA) $999.99",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 999.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 15,
+      "substanceScore": 40,
+      "retailer": "Amazon",
+      "sourceChannel": "Slickdeals monitor search",
+      "sourceUrl": "https://slickdeals.net/f/20299851-samsung-27-odyssey-3d-g90xf-series-4k-gaming-monitor-165hz-1ms-response-time-amd-freesync-premium-glasses-free-ergonomic-stand-ls27fg900xnxza-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-12T22:26:54.000Z",
+      "detectedTimestamp": 1794522414000,
+      "directBuyUrl": "https://slickdeals.net/f/20299851-samsung-27-odyssey-3d-g90xf-series-4k-gaming-monitor-165hz-1ms-response-time-amd-freesync-premium-glasses-free-ergonomic-stand-ls27fg900xnxza-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Samsung 27\" Odyssey 3D (G90XF) Series 4K Gaming Monitor | 165Hz, 1ms Response Time, AMD FreeSync Premium, Glasses-Free, Ergonomic Stand (LS27FG900XNXZA) [ amazon.com ] $999.99 Samsung 27\" Odyssey 3D (G90XF) Series 4K Gam...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Samsung%2027%22%20Odyssey%203D%20G90XF%20Series%204K%20Gaming%20Monitor%20165Hz%2C%201ms%20Response%20Time%2C%20AMD%20FreeSy"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals monitor search",
+          "uri": "https://slickdeals.net/f/20299851-samsung-27-odyssey-3d-g90xf-series-4k-gaming-monitor-165hz-1ms-response-time-amd-freesync-premium-glasses-free-ergonomic-stand-ls27fg900xnxza-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 33,
+      "seenAtPT": "Nov 12, 2026, 2:26:54 PM PST"
+    },
+    {
+      "id": "dealnews-electronics-1794585117000-unlockedsamsunggalaxys26",
+      "title": "Unlocked Samsung Galaxy S26 FE 256GB 5G Smartphone for $700 + free shipping",
+      "skuOrAsin": "",
+      "category": "other-tech",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 700,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 0,
+      "retailer": "Amazon",
+      "sourceChannel": "DealNews Electronics",
+      "sourceUrl": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-S26-FE-256-GB-5-G-Smartphone/557882.html?iref=rss-c142",
+      "timeDetected": "2026-11-13T15:51:57.000Z",
+      "detectedTimestamp": 1794585117000,
+      "directBuyUrl": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-S26-FE-256-GB-5-G-Smartphone/557882.html?iref=rss-c142",
+      "specsSummary": "At Amazon, the Samsung Galaxy S26 FE is $100 off, bringing the unlocked 256GB model to $700. The Dynamic AMOLED 2X display runs at 120Hz, and the phone supports wireless charging along with 45W wired fast charging. Shipp...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Unlocked%20Samsung%20Galaxy%20S26%20FE%20256GB%205G%20Smartphone%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Electronics",
+          "uri": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-S26-FE-256-GB-5-G-Smartphone/557882.html?iref=rss-c142"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "phones",
+      "hotScore": 30,
+      "seenAtPT": "Nov 13, 2026, 7:51:57 AM PST"
+    },
+    {
+      "id": "sd-tv-1794583853000-lg85class74bseriesqnedai",
+      "title": "LG - 85\" Class 74B Series QNED AI Mini LED 4K Smart webOS TV (2026) $749.99",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 749.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 0,
+      "substanceScore": 25,
+      "retailer": "Best Buy",
+      "sourceChannel": "Slickdeals TV search",
+      "sourceUrl": "https://slickdeals.net/f/20303901-lg-85-class-74b-series-qned-ai-mini-led-4k-smart-webos-tv-2026-749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-13T15:30:53.000Z",
+      "detectedTimestamp": 1794583853000,
+      "directBuyUrl": "https://slickdeals.net/f/20303901-lg-85-class-74b-series-qned-ai-mini-led-4k-smart-webos-tv-2026-749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Available for pickup and free delivery https://www.bestbuy.com/product/l...JJ8VPZZ2TS Available for pickup and free delivery https://www.bestbuy.com/product/l...JJ8VPZZ2TS",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=LG%20-%2085%22%20Class%2074B%20Series%20QNED%20AI%20Mini%20LED%204K%20Smart%20webOS%20TV%202026"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals TV search",
+          "uri": "https://slickdeals.net/f/20303901-lg-85-class-74b-series-qned-ai-mini-led-4k-smart-webos-tv-2026-749-99?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 30,
+      "seenAtPT": "Nov 13, 2026, 7:30:53 AM PST"
+    },
+    {
+      "id": "dealnews-computers-1794577446000-wdblacksn850p2tbinternal",
+      "title": "WD Black SN850P 2TB Internal SSD w/ Heatsink for PS5 for $300 + free shipping",
+      "skuOrAsin": "",
+      "category": "pc-parts",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 300,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 25,
+      "retailer": "Best Buy",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/WD-Black-SN850-P-2-TB-Internal-SSD-w-Heatsink-for-PS5-for-300-free-shipping/22389914.html?iref=rss-c39",
+      "timeDetected": "2026-11-13T13:44:06.000Z",
+      "detectedTimestamp": 1794577446000,
+      "directBuyUrl": "https://www.dealnews.com/WD-Black-SN850-P-2-TB-Internal-SSD-w-Heatsink-for-PS5-for-300-free-shipping/22389914.html?iref=rss-c39",
+      "specsSummary": "As one of Best Buy's Black Friday doorbusters, you can get this WD Black SN850P 2TB SSD for just $300. That's $100 less than what you'd pay elsewhere at stores like Gamestop. Shipping is free, too. It includes a heatsink...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=WD%20Black%20SN850P%202TB%20Internal%20SSD%20w%2F%20Heatsink%20for%20PS5%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/WD-Black-SN850-P-2-TB-Internal-SSD-w-Heatsink-for-PS5-for-300-free-shipping/22389914.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "consoles",
+      "hotScore": 28,
+      "seenAtPT": "Nov 13, 2026, 5:44:06 AM PST"
+    },
+    {
+      "id": "dealnews-computers-1794576240000-lenovoyoga7i162ktouchscr",
+      "title": "Lenovo Yoga 7i 16\" 2K Touchscreen 2-in-1 Laptop for $650 + free shipping",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 650,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 25,
+      "retailer": "Amazon",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/products/Lenovo/Lenovo-Yoga-7-i-2-in-1-16-inch-2-K-Touchscreen-Laptop/515955.html?iref=rss-c39",
+      "timeDetected": "2026-11-13T13:24:00.000Z",
+      "detectedTimestamp": 1794576240000,
+      "directBuyUrl": "https://www.dealnews.com/products/Lenovo/Lenovo-Yoga-7-i-2-in-1-16-inch-2-K-Touchscreen-Laptop/515955.html?iref=rss-c39",
+      "specsSummary": "As one of Best Buy's Black Friday doorbusters, this Lenovo Yoga 7i laptop has dropped by another $100 overnight. It's the best deal we've seen for this build and $220 cheaper than Amazon's price. Shipping is free and the...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Lenovo%20Yoga%207i%2016%22%202K%20Touchscreen%202-in-1%20Laptop%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/products/Lenovo/Lenovo-Yoga-7-i-2-in-1-16-inch-2-K-Touchscreen-Laptop/515955.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 28,
+      "seenAtPT": "Nov 13, 2026, 5:24:00 AM PST"
+    },
+    {
+      "id": "dealnews-electronics-1794608584000-dewalt20vmaxjobsitebluet",
+      "title": "DeWalt 20V MAX Jobsite Bluetooth Speaker for $99 + free shipping",
+      "skuOrAsin": "",
+      "category": "other-tech",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 16,
+      "retailer": "Lowe's",
+      "sourceChannel": "DealNews Electronics",
+      "sourceUrl": "https://www.dealnews.com/products/De-Walt/De-Walt-20-V-MAX-Jobsite-Bluetooth-Speaker/354209.html?iref=rss-c142",
+      "timeDetected": "2026-11-13T22:23:04.000Z",
+      "detectedTimestamp": 1794608584000,
+      "directBuyUrl": "https://www.dealnews.com/products/De-Walt/De-Walt-20-V-MAX-Jobsite-Bluetooth-Speaker/354209.html?iref=rss-c142",
+      "specsSummary": "At Lowe's, this DeWalt jobsite speaker is $50 off. It runs on either 12V or 20V MAX DeWalt batteries, so it can share packs with other DeWalt cordless tools. MyLowe's Rewards members get free shipping on this order (it's...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=DeWalt%2020V%20MAX%20Jobsite%20Bluetooth%20Speaker%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Electronics",
+          "uri": "https://www.dealnews.com/products/De-Walt/De-Walt-20-V-MAX-Jobsite-Bluetooth-Speaker/354209.html?iref=rss-c142"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "phones",
+      "hotScore": 27,
+      "seenAtPT": "Nov 13, 2026, 2:23:04 PM PST"
+    },
+    {
+      "id": "dealnews-computers-1794566342000-refurbapplemacbookproi51",
+      "title": "Refurb Apple MacBook Pro i5 13\" Laptop w/ 256GB SSD (2020) for $375 + free shipping",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 375,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Refurbished",
+      "substanceScore": 25,
+      "retailer": "Amazon",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Pro-i5-13-Laptop-w-256-GB-SSD-2020/131821.html?iref=rss-c39",
+      "timeDetected": "2026-11-13T10:39:02.000Z",
+      "detectedTimestamp": 1794566342000,
+      "directBuyUrl": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Pro-i5-13-Laptop-w-256-GB-SSD-2020/131821.html?iref=rss-c39",
+      "specsSummary": "UntilGone offers this refurbished 2020 Apple MacBook Pro for $394.99. Promo code \"AMPR\" drops that to $374.99 That's $44 less than you'd pay for a refurb at Amazon. A 90-day warranty is included, and optional 2-year and ...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Refurb%20Apple%20MacBook%20Pro%20i5%2013%22%20Laptop%20w%2F%20256GB%20SSD%202020%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Pro-i5-13-Laptop-w-256-GB-SSD-2020/131821.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 25,
+      "seenAtPT": "Nov 13, 2026, 2:39:02 AM PST"
+    },
+    {
+      "id": "dealnews-computers-1794564627000-acerchromebookplus51414t",
+      "title": "Acer Chromebook Plus 514 14\" Touchscreen Laptop w/ 512GB SSD for $319 + free shipping",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 319,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 25,
+      "retailer": "Amazon",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/Acer-Chromebook-Plus-514-14-Touchscreen-Laptop-w-512-GB-SSD-for-319-free-shipping/22389603.html?iref=rss-c39",
+      "timeDetected": "2026-11-13T10:10:27.000Z",
+      "detectedTimestamp": 1794564627000,
+      "directBuyUrl": "https://www.dealnews.com/Acer-Chromebook-Plus-514-14-Touchscreen-Laptop-w-512-GB-SSD-for-319-free-shipping/22389603.html?iref=rss-c39",
+      "specsSummary": "This Acer Chromebook Plus 514 is down to $319 at Walmart during its Black Friday sale. That's the best deal we've seen for a new model and $181 under what Amazon is charging for the same laptop. Shipping is free on this ...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Acer%20Chromebook%20Plus%20514%2014%22%20Touchscreen%20Laptop%20w%2F%20512GB%20SSD%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/Acer-Chromebook-Plus-514-14-Touchscreen-Laptop-w-512-GB-SSD-for-319-free-shipping/22389603.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 24,
+      "seenAtPT": "Nov 13, 2026, 2:10:27 AM PST"
+    },
+    {
+      "id": "dealnews-computers-1794562578000-samsungodysseyg8g80sh274",
+      "title": "Samsung Odyssey G8 G80SH 27\" 4K HDR 240Hz QD-OLED Gaming Monitor for $750 + free shipping",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 750,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 25,
+      "retailer": "Amazon",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-G8-G80-SH-27-4-K-HDR-240-Hz-QD-OLED-Gaming-Monitor/557799.html?iref=rss-c39",
+      "timeDetected": "2026-11-13T09:36:18.000Z",
+      "detectedTimestamp": 1794562578000,
+      "directBuyUrl": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-G8-G80-SH-27-4-K-HDR-240-Hz-QD-OLED-Gaming-Monitor/557799.html?iref=rss-c39",
+      "specsSummary": "As an Early Black Friday deal at Samsung, clip the $50 coupon on the product page to drop this Odyssey G8 gaming monitor to $750. That's $50 less than you'd pay at Amazon. The 27\" 4K screen runs at 240Hz with a 0.03ms re...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Samsung%20Odyssey%20G8%20G80SH%2027%22%204K%20HDR%20240Hz%20QD-OLED%20Gaming%20Monitor%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-G8-G80-SH-27-4-K-HDR-240-Hz-QD-OLED-Gaming-Monitor/557799.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 24,
+      "seenAtPT": "Nov 13, 2026, 1:36:18 AM PST"
+    },
+    {
+      "id": "sd-monitor-1794473511000-10999yamahahphmt8monitor",
+      "title": "$109.99 | YAMAHA HPH-MT8 Monitor Headphones, Black at Amazon",
+      "skuOrAsin": "ASIN B01N4P1PKT",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 109.99,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 6,
+      "substanceScore": 31,
+      "retailer": "Amazon",
+      "sourceChannel": "Slickdeals monitor search",
+      "sourceUrl": "https://slickdeals.net/f/20295732-109-99-yamaha-hph-mt8-monitor-headphones-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-12T08:51:51.000Z",
+      "detectedTimestamp": 1794473511000,
+      "directBuyUrl": "https://slickdeals.net/f/20295732-109-99-yamaha-hph-mt8-monitor-headphones-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Amazon [ amazon.com ] has YAMAHA HPH-MT8 Monitor Headphones, Black for $109.99 . Shipping is free . amazon.com/dp/B01N4P1PKT [ amazon.com ] Please report the deal if expired (click report -> expired) My other deals Amazo...",
+      "checkPriceLinks": [
+        {
+          "label": "camelcamelcamel price history",
+          "uri": "https://camelcamelcamel.com/product/B01N4P1PKT"
+        },
+        {
+          "label": "Keepa price history",
+          "uri": "https://keepa.com/#!product/1-B01N4P1PKT"
+        },
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=YAMAHA%20HPH-MT8%20Monitor%20Headphones%2C%20Black"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals monitor search",
+          "uri": "https://slickdeals.net/f/20295732-109-99-yamaha-hph-mt8-monitor-headphones-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "tvs-monitors",
+      "hotScore": 24,
+      "seenAtPT": "Nov 12, 2026, 12:51:51 AM PST"
+    },
+    {
+      "id": "9to5toys-1794595820000-nothingsfantasticear3aan",
+      "title": "Nothing’s fantastic Ear (3a) ANC buds hit early Black Friday all-time low at $69",
+      "skuOrAsin": "",
+      "category": "other-tech",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 69,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 8,
+      "retailer": "Amazon",
+      "sourceChannel": "9to5Toys",
+      "sourceUrl": "https://9to5toys.com/2026/11/13/nothing-ear-3a-anc-buds-black-friday-all-time-low/",
+      "timeDetected": "2026-11-13T18:50:20.000Z",
+      "detectedTimestamp": 1794595820000,
+      "directBuyUrl": "https://9to5toys.com/2026/11/13/nothing-ear-3a-anc-buds-black-friday-all-time-low/",
+      "specsSummary": "As part of its now live early Black Friday sale , Amazon has unleashed a plethora of banger deals across the latest Nothing product lineup. Alongside a particularly notable discount on Headphone (a) at 45% off , as well ...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Nothing%E2%80%99s%20fantastic%20Ear%203a%20ANC%20buds%20hit%20early%20Black%20Friday%20all-time%20low%20at"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "9to5Toys",
+          "uri": "https://9to5toys.com/2026/11/13/nothing-ear-3a-anc-buds-black-friday-all-time-low/"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "audio",
+      "hotScore": 23,
+      "seenAtPT": "Nov 13, 2026, 10:50:20 AM PST"
+    },
+    {
+      "id": "sd-gpu-1794419022000-lenovolegion5agen11153qh",
+      "title": "Lenovo Legion 5a Gen 11: 15.3\" QHD+ 165Hz OLED, Ryzen 7 250, RTX 5070, 16GB DDR5, 512GB SSD $1560.23",
+      "skuOrAsin": "",
+      "category": "laptops-pcs",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 1560.23,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "upvoteScore": 5,
+      "substanceScore": 30,
+      "retailer": "Lenovo",
+      "sourceChannel": "Slickdeals GPU search",
+      "sourceUrl": "https://slickdeals.net/f/20291988-lenovo-legion-5a-gen-11-15-3-qhd-165hz-oled-ryzen-7-250-rtx-5070-16gb-ddr5-512gb-ssd-1560-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "timeDetected": "2026-11-11T17:43:42.000Z",
+      "detectedTimestamp": 1794419022000,
+      "directBuyUrl": "https://slickdeals.net/f/20291988-lenovo-legion-5a-gen-11-15-3-qhd-165hz-oled-ryzen-7-250-rtx-5070-16gb-ddr5-512gb-ssd-1560-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
+      "specsSummary": "Link 1 [ lenovo.com ] - $1560.23 : eCoupon at checkout: LENOVODEAL Link 2 [ lenovo.com ] - $1564.52: [list][*]eCoupons at checkout:[list][*] LENOVODEAL [*] EXTRAFIVE Link 1 [lenovo.com] - *$1560.23*: * eCoupon at checkou...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Lenovo%20Legion%205a%20Gen%2011%3A%2015.3%22%20QHD%2B%20165Hz%20OLED%2C%20Ryzen%207%20250%2C%20RTX%205070%2C%2016GB%20DDR5%2C%20512GB%20SS"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "Slickdeals GPU search",
+          "uri": "https://slickdeals.net/f/20291988-lenovo-legion-5a-gen-11-15-3-qhd-165hz-oled-ryzen-7-250-rtx-5070-16gb-ddr5-512gb-ssd-1560-23?utm_source=rss&utm_content=def&utm_medium=RSS2"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "laptops-pcs",
+      "hotScore": 23,
+      "seenAtPT": "Nov 11, 2026, 9:43:42 AM PST"
+    },
+    {
+      "id": "dealnews-computers-1794565002000-miniwifiportableledproje",
+      "title": "Mini WiFi Portable LED Projector for $64 + free shipping",
+      "skuOrAsin": "",
+      "category": "tvs-monitors",
+      "glitchType": "Deal (single price)",
+      "isPossiblePriceError": false,
+      "originalPrice": 0,
+      "glitchPrice": 64,
+      "discountPercent": 0,
+      "priceBasis": "none",
+      "isVerifiedSinglePrice": true,
+      "condition": "Unverified condition",
+      "substanceScore": 25,
+      "retailer": "Amazon",
+      "sourceChannel": "DealNews Computers",
+      "sourceUrl": "https://www.dealnews.com/Mini-Wi-Fi-Portable-LED-Projector-for-64-free-shipping/22389619.html?iref=rss-c39",
+      "timeDetected": "2026-11-13T10:16:42.000Z",
+      "detectedTimestamp": 1794565002000,
+      "directBuyUrl": "https://www.dealnews.com/Mini-Wi-Fi-Portable-LED-Projector-for-64-free-shipping/22389619.html?iref=rss-c39",
+      "specsSummary": "At Amazon, clip the on-page coupon to get this Mini WiFi Portable LED Projector for $64. It's the best price Amazon has charged for this model. It supports 1080p input and mirrors a phone screen over WiFi or with a data ...",
+      "checkPriceLinks": [
+        {
+          "label": "Google Shopping prices",
+          "uri": "https://www.google.com/search?tbm=shop&q=Mini%20WiFi%20Portable%20LED%20Projector%20for%20%2B"
+        }
+      ],
+      "groundingSources": [
+        {
+          "title": "DealNews Computers",
+          "uri": "https://www.dealnews.com/Mini-Wi-Fi-Portable-LED-Projector-for-64-free-shipping/22389619.html?iref=rss-c39"
+        }
+      ],
+      "isLiveGrounded": true,
+      "matchedRules": [],
+      "hotCategory": "phones",
+      "hotScore": 14,
+      "seenAtPT": "Nov 13, 2026, 2:16:42 AM PST"
     }
   ],
   "groundingUrls": [
@@ -2452,10 +2490,6 @@
       "uri": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=rtx%20graphics%20card&searcharea=deals&searchin=first&rss=1"
     },
     {
-      "title": "Reddit r/buildapcsales, r/LaptopDeals, r/deals, r/PriceMistakes, r/glitchdeals",
-      "uri": "https://www.reddit.com/r/buildapcsales+LaptopDeals+deals+PriceMistakes+glitchdeals/new/"
-    },
-    {
       "title": "Woot (computers + electronics)",
       "uri": "https://www.woot.com/category/computers"
     },
@@ -2482,11 +2516,11 @@
       "label": "Slickdeals Frontpage",
       "url": "https://slickdeals.net/",
       "itemsFetched": 25,
-      "dealsKept": 6,
-      "checkedAt": "2026-11-14T09:11:50.272Z",
+      "dealsKept": 1,
+      "checkedAt": "2026-11-14T15:48:45.933Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-popular",
@@ -2494,10 +2528,10 @@
       "url": "https://slickdeals.net/deals/",
       "itemsFetched": 25,
       "dealsKept": 4,
-      "checkedAt": "2026-11-14T09:11:50.305Z",
+      "checkedAt": "2026-11-14T15:48:45.975Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-price-mistake",
@@ -2505,10 +2539,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=price%20mistake&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 1,
-      "checkedAt": "2026-11-14T09:11:50.306Z",
+      "checkedAt": "2026-11-14T15:48:45.976Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-price-error",
@@ -2516,10 +2550,10 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=price%20error&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-14T09:11:50.306Z",
+      "checkedAt": "2026-11-14T15:48:45.977Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-glitch",
@@ -2527,43 +2561,43 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=glitch&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 0,
-      "checkedAt": "2026-11-14T09:11:50.307Z",
+      "checkedAt": "2026-11-14T15:48:45.978Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-tv",
       "label": "Slickdeals TV search",
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=tv&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
-      "dealsKept": 17,
-      "checkedAt": "2026-11-14T09:11:50.308Z",
+      "dealsKept": 15,
+      "checkedAt": "2026-11-14T15:48:45.979Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-laptop",
       "label": "Slickdeals laptop search",
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=laptop&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
-      "dealsKept": 8,
-      "checkedAt": "2026-11-14T09:11:50.308Z",
+      "dealsKept": 9,
+      "checkedAt": "2026-11-14T15:48:45.979Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-monitor",
       "label": "Slickdeals monitor search",
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=monitor&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
-      "dealsKept": 15,
-      "checkedAt": "2026-11-14T09:11:50.309Z",
+      "dealsKept": 14,
+      "checkedAt": "2026-11-14T15:48:45.980Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "sd-gpu",
@@ -2571,21 +2605,22 @@
       "url": "https://slickdeals.net/newsearch.php?src=SearchBarV2&q=rtx%20graphics%20card&searcharea=deals&searchin=first&rss=1",
       "itemsFetched": 25,
       "dealsKept": 4,
-      "checkedAt": "2026-11-14T09:11:50.310Z",
+      "checkedAt": "2026-11-14T15:48:45.981Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "reddit-deals",
       "label": "Reddit r/buildapcsales, r/LaptopDeals, r/deals, r/PriceMistakes, r/glitchdeals",
       "url": "https://www.reddit.com/r/buildapcsales+LaptopDeals+deals+PriceMistakes+glitchdeals/new/",
-      "itemsFetched": 100,
-      "dealsKept": 39,
-      "checkedAt": "2026-11-14T09:11:50.316Z",
-      "state": "ok",
-      "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "itemsFetched": 0,
+      "dealsKept": 0,
+      "checkedAt": "2026-11-14T15:48:45.986Z",
+      "state": "blocked",
+      "httpStatus": 403,
+      "message": "HTTP 403 - site blocked this server",
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "reddit-monitors",
@@ -2593,11 +2628,11 @@
       "url": "https://www.reddit.com/r/Monitors/new/",
       "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-14T09:11:54.335Z",
+      "checkedAt": "2026-11-14T15:48:49.522Z",
       "state": "rate-limited",
       "httpStatus": 429,
       "message": "HTTP 429 - rate limited by the site",
-      "checkedAtPT": "Nov 14, 2026, 1:11:54 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:49 AM PST"
     },
     {
       "id": "woot",
@@ -2605,10 +2640,10 @@
       "url": "https://www.woot.com/category/computers",
       "itemsFetched": 6,
       "dealsKept": 0,
-      "checkedAt": "2026-11-14T09:11:50.312Z",
+      "checkedAt": "2026-11-14T15:48:45.982Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "meh",
@@ -2616,21 +2651,21 @@
       "url": "https://meh.com/",
       "itemsFetched": 1,
       "dealsKept": 0,
-      "checkedAt": "2026-11-14T09:11:50.313Z",
+      "checkedAt": "2026-11-14T15:48:45.983Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "dealnews-electronics",
       "label": "DealNews Electronics",
       "url": "https://www.dealnews.com/c142/Electronics/?rss=1",
-      "itemsFetched": 45,
-      "dealsKept": 8,
-      "checkedAt": "2026-11-14T09:11:50.313Z",
+      "itemsFetched": 41,
+      "dealsKept": 6,
+      "checkedAt": "2026-11-14T15:48:45.983Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "dealnews-computers",
@@ -2638,10 +2673,10 @@
       "url": "https://www.dealnews.com/c39/Computers/?rss=1",
       "itemsFetched": 25,
       "dealsKept": 8,
-      "checkedAt": "2026-11-14T09:11:50.315Z",
+      "checkedAt": "2026-11-14T15:48:45.985Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "9to5toys",
@@ -2649,10 +2684,10 @@
       "url": "https://9to5toys.com/feed/",
       "itemsFetched": 50,
       "dealsKept": 5,
-      "checkedAt": "2026-11-14T09:11:50.315Z",
+      "checkedAt": "2026-11-14T15:48:45.985Z",
       "state": "ok",
       "httpStatus": 200,
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "techbargains",
@@ -2660,11 +2695,11 @@
       "url": "https://www.techbargains.com/",
       "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-14T09:11:50.315Z",
+      "checkedAt": "2026-11-14T15:48:45.985Z",
       "state": "blocked",
       "httpStatus": 403,
       "message": "HTTP 403 - site blocked this server",
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     },
     {
       "id": "bensbargains",
@@ -2672,11 +2707,11 @@
       "url": "https://bensbargains.com/",
       "itemsFetched": 0,
       "dealsKept": 0,
-      "checkedAt": "2026-11-14T09:11:50.316Z",
+      "checkedAt": "2026-11-14T15:48:45.986Z",
       "state": "blocked",
       "httpStatus": 403,
       "message": "HTTP 403 - site blocked this server",
-      "checkedAtPT": "Nov 14, 2026, 1:11:50 AM PST"
+      "checkedAtPT": "Nov 14, 2026, 7:48:45 AM PST"
     }
   ],
   "xPosts": [],
@@ -2720,60 +2755,60 @@
       "uri": "https://x.com/dealzbro_"
     }
   ],
-  "rejectedCount": 206,
+  "rejectedCount": 177,
   "rejectionReasonCounts": [
     {
       "reason": "not tech",
-      "count": 79
-    },
-    {
-      "reason": "does not match any watch rule",
-      "count": 57
+      "count": 74
     },
     {
       "reason": "multi-item roundup / sale event",
-      "count": 36
+      "count": 38
+    },
+    {
+      "reason": "does not match any watch rule",
+      "count": 34
     },
     {
       "reason": "accessory under $100",
-      "count": 18
+      "count": 16
     },
     {
       "reason": "no item price found",
-      "count": 6
+      "count": 5
     },
     {
       "reason": "subscription / license",
       "count": 3
     },
     {
-      "reason": "news / discussion post",
-      "count": 3
+      "reason": "movie / game / media",
+      "count": 2
     },
     {
       "reason": "coupon/discount only, no item price",
       "count": 2
     },
     {
-      "reason": "movie / game / media",
-      "count": 1
+      "reason": "news / discussion post",
+      "count": 2
     },
     {
       "reason": "multiple prices without a clear was/now marker ($79.99, $89.99)",
       "count": 1
     }
   ],
-  "scanSummary": "0 watch-rule matches and 60 hot deals kept from 452 fetched posts across 15/18 working sources; 206 filtered out. 0 flagged as possible price errors.",
-  "scannedAt": "2026-11-14T09:11:50.271Z",
-  "scannedAtPT": "Nov 14, 2026, 1:11:50 AM PST",
+  "scanSummary": "1 watch-rule matches and 60 hot deals kept from 348 fetched posts across 14/18 working sources; 177 filtered out. 0 flagged as possible price errors.",
+  "scannedAt": "2026-11-14T15:48:45.933Z",
+  "scannedAtPT": "Nov 14, 2026, 7:48:45 AM PST",
   "queryExecuted": "Free RSS/JSON deal feeds (zero AI, no paid APIs)",
-  "newMatchCount": 0,
+  "newMatchCount": 1,
   "baselineComplete": true,
   "discordConfigured": false,
-  "discordDelivery": "none",
+  "discordDelivery": "no-webhook",
   "sourceHealth": {
-    "ok": 15,
-    "rate-limited": 1,
-    "blocked": 2
+    "ok": 14,
+    "blocked": 3,
+    "rate-limited": 1
   }
 }

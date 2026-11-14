@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-laptop-1794665277000-849fswmtbyviplivewireles",
+    "fingerprint": "walmart|8.49|849fswmtbyviplivewirelessmouseg12slimledrechargeablesilentwirelessmouseforlaptop",
+    "title": "$8.49 FS WMT+ by VIP LIVE Wireless Mouse, G12 Slim LED Rechargeable Silent Wireless Mouse for Laptop, 2.4G Portable USB Optical",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 8.49,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $8.49 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20308953-8-49-fs-wmt-by-vip-live-wireless-mouse-g12-slim-led-rechargeable-silent-wireless-mouse-for-laptop-2-4g-portable-usb-optical?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20308953-8-49-fs-wmt-by-vip-live-wireless-mouse-g12-slim-led-rechargeable-silent-wireless-mouse-for-laptop-2-4g-portable-usb-optical?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-14T15:48:49.718Z",
+    "triggeredAtPT": "Nov 14, 2026, 7:48:49 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1794619101000-cronosthenewdawnswitch22",
     "fingerprint": "walmart|22.00|cronosthenewdawnswitch222",
     "title": "Cronos: The New Dawn (Switch 2) $22",
