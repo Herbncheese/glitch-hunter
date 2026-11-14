@@ -10,7 +10,7 @@
     "scan": "tsx scripts/scan.ts",
     "lint": "tsc --noEmit",
     "typecheck": "tsc --noEmit",
-    "test": "tsx --test src/rules/watchRules.test.ts src/scanner/scanLogic.test.ts src/scanner/safety.test.ts"
+    "test": "tsx --test src/rules/watchRules.test.ts src/scanner/scanLogic.test.ts src/scanner/hotDeals.test.ts src/scanner/safety.test.ts"
   },
   "dependencies": {
     "lucide-react": "^0.546.0",

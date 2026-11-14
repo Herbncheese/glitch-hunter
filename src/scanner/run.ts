@@ -3,6 +3,7 @@ import type { DiscordDelivery, DiscordStatus, RejectionsFile } from '../types/al
 import type { ScanResponse, SourceStatus } from '../types/deals.ts';
 import { buildDiscordMessage, postDiscord, webhookEnvState } from './discord.ts';
 import { runFeedScan } from './engine.ts';
+import { dealsForDiscord } from './hotDeals.ts';
 import { discordWebhookEnv, safeDiscordError } from './secrets.ts';
 import { isBaselineState, loadHistory, loadSeen, mergeHistory, planAlerts, resolveDataDir, writeJson } from './state.ts';
 import { formatPT } from './time.ts';
@@ -68,7 +69,8 @@ export async function runScanAndPersist(): Promise<ScanRunSummary> {
     discordDelivery = 'sent';
   }
 
-  let planned = planAlerts(seen, scan.deals, statusForFresh, discordError);
+  const alertDeals = dealsForDiscord(scan.deals);
+  let planned = planAlerts(seen, alertDeals, statusForFresh, discordError);
   if (!baseline && planned.fresh.length === 0) {
     discordDelivery = 'none';
   } else if (!baseline && planned.fresh.length > 0 && statusForFresh === 'sent') {
@@ -77,7 +79,7 @@ export async function runScanAndPersist(): Promise<ScanRunSummary> {
     } catch (err) {
       discordDelivery = 'error';
       discordError = safeDiscordError(err, discordWebhookEnv());
-      planned = planAlerts(seen, scan.deals, 'error', discordError);
+      planned = planAlerts(seen, alertDeals, 'error', discordError);
     }
   }
   const nextHistory = mergeHistory(history, planned.alerts);
@@ -95,6 +97,7 @@ export async function runScanAndPersist(): Promise<ScanRunSummary> {
 
   const latest: ScanResponse = {
     deals: scan.deals,
+    hotDeals: scan.hotDeals,
     groundingUrls: sourceStatus.filter((s) => s.state === 'ok' || s.state === 'cached').map((s) => ({ title: s.label, uri: s.url })),
     sourceStatus,
     xPosts: [],
@@ -125,7 +128,8 @@ export async function runScanAndPersist(): Promise<ScanRunSummary> {
   console.log(`GlitchHunter scan ${scan.scannedAtPT}`);
   console.log(`  data: ${dataDir}`);
   console.log(`  baseline: ${baseline ? 'yes (recorded matches, Discord not notified)' : 'no'}`);
-  console.log(`  matches: ${scan.deals.length}`);
+  console.log(`  watch matches: ${scan.deals.length}`);
+  console.log(`  hot deals: ${scan.hotDeals.length}`);
   console.log(`  new: ${planned.fresh.length}`);
   console.log(`  discord: ${discordDelivery}${discordError ? ` (${discordError})` : ''}`);
   console.log(`  webhook configured: ${latest.discordConfigured ? 'yes' : 'no'}`);

@@ -105,8 +105,8 @@ export const DealCard: React.FC<DealCardProps> = ({ deal, isSaved, onToggleSave 
               </>
             )}
             <span aria-hidden="true">·</span>
-            <span className="font-mono tabular-nums text-slate-400" title={postedAt.toLocaleString()}>
-              posted {timeAgo(deal.detectedTimestamp)}
+            <span className="font-mono tabular-nums text-slate-400" title={deal.seenAtPT || postedAt.toLocaleString()}>
+              {deal.seenAtPT ? `seen ${deal.seenAtPT}` : `posted ${timeAgo(deal.detectedTimestamp)}`}
             </span>
             {deal.skuOrAsin && (
               <>
@@ -139,6 +139,11 @@ export const DealCard: React.FC<DealCardProps> = ({ deal, isSaved, onToggleSave 
           >
             {deal.condition || 'Unverified condition'}
           </span>
+          {deal.hotCategory && (
+            <span className="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-200 border border-emerald-500/30">
+              Hot
+            </span>
+          )}
           {(deal.matchedRules || []).map((rule) => (
             <span key={rule.ruleId + rule.reason} className="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-violet-500/15 text-violet-300 border border-violet-500/30" title={rule.reason}>
               {rule.label}

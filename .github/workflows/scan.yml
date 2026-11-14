@@ -2,8 +2,12 @@ name: Scan feeds
 
 on:
   schedule:
-    # Every 5 minutes. GitHub may delay a scheduled run slightly under load.
-    - cron: '*/5 * * * *'
+    # Every 5 minutes, offset by one minute so this cron string differs from the
+    # original */5 entry. GitHub only registers a schedule from the default branch,
+    # and a change to the cron (merged by a person, not github-actions[bot]) is
+    # what re-enables it. The scanner must not push commits to main: a bot commit
+    # becomes the default-branch tip and scheduled runs stop queuing.
+    - cron: '1-59/5 * * * *'
   workflow_dispatch:
 
 permissions:
