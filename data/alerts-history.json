@@ -1,5 +1,145 @@
 [
   {
+    "id": "sd-popular-1794731272000-1999anothercrabstreasure",
+    "fingerprint": "amazon|19.99|1999anothercrabstreasurenintendoswitchatamazon",
+    "title": "$19.99 | Another Crab's Treasure (Nintendo Switch) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 19.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $19.99 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20312976-19-99-another-crab-s-treasure-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20312976-19-99-another-crab-s-treasure-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-15T11:33:42.707Z",
+    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1794730932000-1999teenagemutantninjatu",
+    "fingerprint": "amazon|19.99|1999teenagemutantninjaturtlesarcadewrathofthemutantsninjaeditionnintendoswitch2a",
+    "title": "$19.99 | Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants Ninja Edition (Nintendo Switch 2) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 19.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $19.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20312931-19-99-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20312931-19-99-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-15T11:33:42.706Z",
+    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-laptop-1794731919000-749staplespickupstaplest",
+    "fingerprint": "staples|7.49|749staplespickupstaplestechwirelessmouseopticalambidextroususbreceiverforpcandla",
+    "title": "$7.49 STAPLES PICK UP Staples TECH Wireless Mouse, Optical, Ambidextrous, USB Receiver for PC and Laptop, Pink",
+    "retailer": "Staples",
+    "store": "Staples",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 7.49,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $7.49 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20313048-7-49-staples-pick-up-staples-tech-wireless-mouse-optical-ambidextrous-usb-receiver-for-pc-and-laptop-pink?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20313048-7-49-staples-pick-up-staples-tech-wireless-mouse-optical-ambidextrous-usb-receiver-for-pc-and-laptop-pink?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-15T11:33:42.706Z",
+    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1794733027000-7499amazonfiretvsoundbar",
+    "fingerprint": "amazon|74.99|7499amazonfiretvsoundbar20speakerwithdtsvirtualxanddolbyaudiobluetoothconnectivi",
+    "title": "$74.99 | Amazon Fire TV Soundbar, 2.0 speaker with DTS Virtual:X and Dolby Audio, Bluetooth connectivity at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 74.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $74.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20313114-74-99-amazon-fire-tv-soundbar-2-0-speaker-with-dts-virtual-x-and-dolby-audio-bluetooth-connectivity-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20313114-74-99-amazon-fire-tv-soundbar-2-0-speaker-with-dts-virtual-x-and-dolby-audio-bluetooth-connectivity-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-15T11:33:42.706Z",
+    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1794726878000-1999brotherptouchptn20pe",
+    "fingerprint": "amazon|19.99|1999brotherptouchptn20personaldesktoplabelmakeratamazon",
+    "title": "$19.99* | Brother P-Touch PT-N20 Personal Desktop Label Maker at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 19.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Desktop (not an accessory) at $19.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20312601-19-99-brother-p-touch-pt-n20-personal-desktop-label-maker-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20312601-19-99-brother-p-touch-pt-n20-personal-desktop-label-maker-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-15T11:33:42.706Z",
+    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1794713144000-finalfantasyviirebirthni",
     "fingerprint": "amazon|35.00|finalfantasyviirebirthnintendoswitch2gamekeycard35",
     "title": "Final Fantasy VII: Rebirth (Nintendo Switch 2, Game-Key Card) $35",
