@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1794713144000-finalfantasyviirebirthni",
+    "fingerprint": "amazon|35.00|finalfantasyviirebirthnintendoswitch2gamekeycard35",
+    "title": "Final Fantasy VII: Rebirth (Nintendo Switch 2, Game-Key Card) $35",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 35,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $35.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20309448-34-99-final-fantasy-vii-rebirth-nintendo-switch-2-game-key-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20309448-34-99-final-fantasy-vii-rebirth-nintendo-switch-2-game-key-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-15T03:47:46.961Z",
+    "triggeredAtPT": "Nov 14, 2026, 7:47:46 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-laptop-1794672263000-kingspecne1tbm2nvmegen3x",
     "fingerprint": "walmart|125.99|kingspecne1tbm2nvmegen3x4ssd2280upto2400mbs3dnandflashinternalsolidstatedrivecom",
     "title": "KingSpec NE 1TB M.2 NVMe Gen3x4 SSD 2280 - Up to 2400MB/s, 3D NAND Flash Internal Solid State Drive Compatible with Desktop and Laptop $125.99",
