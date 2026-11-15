@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1794776936000-warriorcatsclansofthefor",
+    "fingerprint": "bestbuy|30.00|warriorcatsclansoftheforestferaleditionswitchswitch2ps5orxsx30",
+    "title": "Warrior Cats: Clans of the Forest Feral Edition (Switch, Switch 2, PS5 or XSX) $30",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $30.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-switch-switch-2-ps5-or-xsx-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-switch-switch-2-ps5-or-xsx-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-15T22:32:19.448Z",
+    "triggeredAtPT": "Nov 15, 2026, 2:32:19 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1794730915000-2999blueysquestforthegol",
     "fingerprint": "amazon|29.99|2999blueysquestforthegoldpennintendoswitch2atamazon",
     "title": "$29.99* | Bluey's Quest for The Gold Pen (Nintendo Switch 2) at Amazon",
