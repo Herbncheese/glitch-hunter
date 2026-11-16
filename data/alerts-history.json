@@ -1,5 +1,89 @@
 [
   {
+    "id": "sd-tv-1794824619000-rickandmortyseasons19201",
+    "fingerprint": "apple|59.99|rickandmortyseasons1920132026digitalhdtvshow5999viaappletv",
+    "title": "Rick and Morty: Seasons 1-9 (2013-2026) (Digital HD TV Show) $59.99 via AppleTV",
+    "retailer": "Apple",
+    "store": "Apple",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 59.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $59.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20318394-rick-and-morty-seasons-1-9-2013-2026-digital-hd-tv-show-59-99-via-appletv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20318394-rick-and-morty-seasons-1-9-2013-2026-digital-hd-tv-show-59-99-via-appletv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-16T20:02:14.074Z",
+    "triggeredAtPT": "Nov 16, 2026, 12:02:14 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1794832903000-hisense32qd4serieshiqled",
+    "fingerprint": "amazon|99.99|hisense32qd4serieshiqledhdsmartairokutv32qd4hsr20269999",
+    "title": "Hisense 32\" QD4 Series Hi-QLED HD Smart AI Roku TV (32QD4HSR, 2026) $99.99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20318949-hisense-32-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20318949-hisense-32-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-16T20:02:14.074Z",
+    "triggeredAtPT": "Nov 16, 2026, 12:02:14 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1794843331000-9999hisense32inchqd4seri",
+    "fingerprint": "amazon|99.99|9999hisense32inchqd4serieshiqledhdsmartairokutv32qd4hsr2026newatamazon",
+    "title": "$99.99: Hisense 32\" inch QD4 Series Hi-QLED HD Smart AI Roku TV (32QD4HSR, 2026 NEW) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20320191-99-99-hisense-32-inch-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-new-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20320191-99-99-hisense-32-inch-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-new-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-16T20:02:14.074Z",
+    "triggeredAtPT": "Nov 16, 2026, 12:02:14 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1794807523000-hellokittyislandadventur",
     "fingerprint": "amazon|20.00|hellokittyislandadventurenintendoswitch20",
     "title": "Hello Kitty Island Adventure (Nintendo Switch) $20",
