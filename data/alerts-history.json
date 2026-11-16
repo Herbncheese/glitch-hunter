@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-popular-1794792389000-fortnitedarkfireicebundl",
+    "fingerprint": "bestbuy|15.99|fortnitedarkfireicebundlenintendoswitch21599freeshipping",
+    "title": "FORTNITE - Darkfire & Ice Bundle - Nintendo Switch 2 $15.99 + Free Shipping",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 15.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $15.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20316381-fortnite-darkfire-ice-bundle-nintendo-switch-2-15-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20316381-fortnite-darkfire-ice-bundle-nintendo-switch-2-15-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-16T02:22:28.157Z",
+    "triggeredAtPT": "Nov 15, 2026, 6:22:28 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1794776936000-warriorcatsclansofthefor",
     "fingerprint": "bestbuy|30.00|warriorcatsclansoftheforestferaleditionswitchswitch2ps5orxsx30",
     "title": "Warrior Cats: Clans of the Forest Feral Edition (Switch, Switch 2, PS5 or XSX) $30",
