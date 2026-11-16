@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1794807523000-hellokittyislandadventur",
+    "fingerprint": "amazon|20.00|hellokittyislandadventurenintendoswitch20",
+    "title": "Hello Kitty Island Adventure (Nintendo Switch) $20",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 20,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $20.00 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20312577-hello-kitty-island-adventure-nintendo-switch-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20312577-hello-kitty-island-adventure-nintendo-switch-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-16T09:57:23.507Z",
+    "triggeredAtPT": "Nov 16, 2026, 1:57:23 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1794792389000-fortnitedarkfireicebundl",
     "fingerprint": "bestbuy|15.99|fortnitedarkfireicebundlenintendoswitch21599freeshipping",
     "title": "FORTNITE - Darkfire & Ice Bundle - Nintendo Switch 2 $15.99 + Free Shipping",
