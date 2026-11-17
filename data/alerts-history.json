@@ -1,5 +1,61 @@
 [
   {
+    "id": "sd-tv-1794913473000-startrekenterprisethecom",
+    "fingerprint": "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvathomefandan",
+    "title": "Star Trek: Enterprise: The Complete Series (2001) (Digital HD TV Show) $19.99 via AppleTV/At Home.Fandango",
+    "retailer": "Apple",
+    "store": "Apple",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 19.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $19.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-at-home-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-at-home-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-17T11:17:08.997Z",
+    "triggeredAtPT": "Nov 17, 2026, 3:17:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1794903117000-thexfilesthecompleteseri",
+    "fingerprint": "apple|25.00|thexfilesthecompleteseries1993digitalhdtvshow25",
+    "title": "The X-Files: The Complete Series (1993) (Digital HD TV Show) $25",
+    "retailer": "Apple",
+    "store": "Apple",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 25,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $25.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20318874-the-x-files-the-complete-series-hd-apple-tv-digital-24-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20318874-the-x-files-the-complete-series-hd-apple-tv-digital-24-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-17T11:17:08.997Z",
+    "triggeredAtPT": "Nov 17, 2026, 3:17:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1794824619000-rickandmortyseasons19201",
     "fingerprint": "apple|59.99|rickandmortyseasons1920132026digitalhdtvshow5999viaappletv",
     "title": "Rick and Morty: Seasons 1-9 (2013-2026) (Digital HD TV Show) $59.99 via AppleTV",

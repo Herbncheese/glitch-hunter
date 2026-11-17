@@ -80,6 +80,14 @@
     "apple|59.99|rickandmortyseasons1920132026digitalhdtvshow5999viaappletv": {
       "firstSeenAt": "2026-11-16T20:02:14.074Z",
       "dealId": "sd-tv-1794824619000-rickandmortyseasons19201"
+    },
+    "apple|25.00|thexfilesthecompleteseries1993digitalhdtvshow25": {
+      "firstSeenAt": "2026-11-17T11:17:08.997Z",
+      "dealId": "sd-frontpage-1794903117000-thexfilesthecompleteseri"
+    },
+    "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvathomefandan": {
+      "firstSeenAt": "2026-11-17T11:17:08.997Z",
+      "dealId": "sd-tv-1794913473000-startrekenterprisethecom"
     }
   }
 }
