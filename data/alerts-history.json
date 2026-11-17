@@ -1,5 +1,89 @@
 [
   {
+    "id": "sd-popular-1794929501000-hitmanworldofassassinati",
+    "fingerprint": "bestbuy|29.99|hitmanworldofassassinationsignatureeditionnintendoswitch22999bestbuytarget",
+    "title": "HITMAN World of Assassination: Signature Edition (Nintendo Switch 2) - $29.99 @ Best Buy & Target",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 29.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $29.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20327424-hitman-world-of-assassination-signature-edition-nintendo-switch-2-29-99-best-buy-target?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20327424-hitman-world-of-assassination-signature-edition-nintendo-switch-2-29-99-best-buy-target?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-17T19:54:32.438Z",
+    "triggeredAtPT": "Nov 17, 2026, 11:54:32 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1794913473000-startrekenterprisethecom",
+    "fingerprint": "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvfandango",
+    "title": "Star Trek: Enterprise: The Complete Series (2001) (Digital HD TV Show) $19.99 via AppleTV/Fandango",
+    "retailer": "Apple",
+    "store": "Apple",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 19.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $19.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-17T19:54:32.438Z",
+    "triggeredAtPT": "Nov 17, 2026, 11:54:32 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "woot-1794931213150-alienwareprowirelessgami",
+    "fingerprint": "woot|79.99|alienwareprowirelessgamingmouse",
+    "title": "Alienware Pro Wireless Gaming Mouse",
+    "retailer": "Woot",
+    "store": "Woot",
+    "sourceChannel": "Woot",
+    "price": 79.99,
+    "was": 129.99,
+    "discountPercent": 38,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $79.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://computers.woot.com/offers/alienware-pro-wireless-gaming-mouse",
+    "sourceUrl": "https://computers.woot.com/offers/alienware-pro-wireless-gaming-mouse",
+    "triggeredAt": "2026-11-17T19:54:32.438Z",
+    "triggeredAtPT": "Nov 17, 2026, 11:54:32 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1794913473000-startrekenterprisethecom",
     "fingerprint": "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvathomefandan",
     "title": "Star Trek: Enterprise: The Complete Series (2001) (Digital HD TV Show) $19.99 via AppleTV/At Home.Fandango",

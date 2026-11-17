@@ -88,6 +88,18 @@
     "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvathomefandan": {
       "firstSeenAt": "2026-11-17T11:17:08.997Z",
       "dealId": "sd-tv-1794913473000-startrekenterprisethecom"
+    },
+    "woot|79.99|alienwareprowirelessgamingmouse": {
+      "firstSeenAt": "2026-11-17T19:54:32.437Z",
+      "dealId": "woot-1794931213150-alienwareprowirelessgami"
+    },
+    "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvfandango": {
+      "firstSeenAt": "2026-11-17T19:54:32.437Z",
+      "dealId": "sd-tv-1794913473000-startrekenterprisethecom"
+    },
+    "bestbuy|29.99|hitmanworldofassassinationsignatureeditionnintendoswitch22999bestbuytarget": {
+      "firstSeenAt": "2026-11-17T19:54:32.438Z",
+      "dealId": "sd-popular-1794929501000-hitmanworldofassassinati"
     }
   }
 }
