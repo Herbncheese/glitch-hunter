@@ -1,5 +1,61 @@
 [
   {
+    "id": "sd-tv-1794960432000-68onn32inclass720phdsmar",
+    "fingerprint": "walmart|68.00|68onn32inclass720phdsmarttvpoweredbyvizio32s2v1",
+    "title": "$68 onn 32 in Class 720p HD Smart TV Powered by VIZIO, 32S2V1",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 68,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $68.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20330274-68-onn-32-in-class-720p-hd-smart-tv-powered-by-vizio-32s2v1?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20330274-68-onn-32-in-class-720p-hd-smart-tv-powered-by-vizio-32s2v1?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-18T01:58:47.152Z",
+    "triggeredAtPT": "Nov 17, 2026, 5:58:47 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1794966743000-highonlife2nintendoswitc",
+    "fingerprint": "amazon|30.00|highonlife2nintendoswitch2gamekeycard30",
+    "title": "High on Life 2 (Nintendo Switch 2, Game-Key Card) $30",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $30.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20326380-29-99-high-on-life-2-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20326380-29-99-high-on-life-2-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-18T01:58:47.152Z",
+    "triggeredAtPT": "Nov 17, 2026, 5:58:47 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1794929501000-hitmanworldofassassinati",
     "fingerprint": "bestbuy|29.99|hitmanworldofassassinationsignatureeditionnintendoswitch22999bestbuytarget",
     "title": "HITMAN World of Assassination: Signature Edition (Nintendo Switch 2) - $29.99 @ Best Buy & Target",
