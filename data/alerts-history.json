@@ -1,5 +1,89 @@
 [
   {
+    "id": "sd-tv-1795032567000-sylvox156smarttvforkitch",
+    "fingerprint": "amazon|99.00|sylvox156smarttvforkitchen1080pfhd12vdcacpoweredrotatedfoldedsavespacegoogleos99",
+    "title": "SYLVOX 15.6\" Smart TV for Kitchen, 1080P FHD, 12V DC AC Powered, Rotated & Folded Save Space, Google OS $99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20335704-sylvox-15-6-smart-tv-for-kitchen-1080p-fhd-12v-dc-ac-powered-rotated-folded-save-space-google-os-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20335704-sylvox-15-6-smart-tv-for-kitchen-1080p-fhd-12v-dc-ac-powered-rotated-folded-save-space-google-os-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T00:42:51.005Z",
+    "triggeredAtPT": "Nov 18, 2026, 4:42:51 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795032893000-sylvox156undercabinetsma",
+    "fingerprint": "amazon|99.00|sylvox156undercabinetsmarttv360rotation90flipdownscreen99",
+    "title": "SYLVOX 15.6\" Under Cabinet Smart TV – 360° Rotation, 90° Flip-Down Screen $99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20335725-sylvox-15-6-under-cabinet-smart-tv-360-rotation-90-flip-down-screen-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20335725-sylvox-15-6-under-cabinet-smart-tv-360-rotation-90-flip-down-screen-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T00:42:51.005Z",
+    "triggeredAtPT": "Nov 18, 2026, 4:42:51 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795046114000-persona3reloadlaunchedit",
+    "fingerprint": "amazon|24.90|persona3reloadlauncheditiongamekeycardnintendoswitch22490",
+    "title": "Persona 3 Reload: Launch Edition Game-Key Card (Nintendo Switch 2) $24.90",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 24.9,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $24.90 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20332182-persona-3-reload-launch-edition-nintendo-switch-2-24-88-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20332182-persona-3-reload-launch-edition-nintendo-switch-2-24-88-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T00:42:51.005Z",
+    "triggeredAtPT": "Nov 18, 2026, 4:42:51 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "9to5toys-1795008430000-todayonlypnysswitch2comp",
     "fingerprint": "amazon|30.00|todayonlypnysswitch2compatible890mbsexpressmicrosdcardstartsatjust30alltimelow",
     "title": "Today only: PNY’s Switch 2-compatible 890MB/s Express microSD card starts at just $30 (All-time low)",
