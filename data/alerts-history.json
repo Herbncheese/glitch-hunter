@@ -1,5 +1,229 @@
 [
   {
+    "id": "9to5toys-1795105637000-sandisks256gbswitch2comp",
+    "fingerprint": "amazon|50.00|sandisks256gbswitch2compatibleexpressmicrosdcardjusthitanew50alltimelowforblackf",
+    "title": "SanDisk’s 256GB Switch 2-compatible Express microSD card just hit a new $50 all-time low for Black Friday",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "9to5Toys",
+    "price": 50,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $50.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://9to5toys.com/2026/11/19/sandisk-256gb-switch-2-compatible-express-microsd-card-new-all-time-low-2/",
+    "sourceUrl": "https://9to5toys.com/2026/11/19/sandisk-256gb-switch-2-compatible-express-microsd-card-new-all-time-low-2/",
+    "triggeredAt": "2026-11-19T17:09:08.037Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795104709000-assassinscreedshadowssta",
+    "fingerprint": "amazon|20.80|assassinscreedshadowsstandardeditionnintendoswitch2208",
+    "title": "Assassin’s Creed Shadows - Standard Edition, Nintendo Switch 2 $20.8",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 20.8,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $20.80 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20346498-assassin-s-creed-shadows-standard-edition-nintendo-switch-2-20-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20346498-assassin-s-creed-shadows-standard-edition-nintendo-switch-2-20-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T17:09:08.037Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795078902000-40insigniaf40series1080p",
+    "fingerprint": "amazon|84.98|40insigniaf40series1080pledsmartfiretv8498freeshipping",
+    "title": "40\" Insignia F40 Series 1080p LED Smart Fire TV $84.98 + Free Shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 84.98,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $84.98 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20340993-40-insignia-f40-series-1080p-led-smart-fire-tv-84-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20340993-40-insignia-f40-series-1080p-led-smart-fire-tv-84-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T17:09:08.037Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-laptop-1795084219000-mnn1561080pportablemonit",
+    "fingerprint": "amazon|39.99|mnn1561080pportablemonitoripsusbchdmigamingscreenforlaptop156fhdipshdrusbconecab",
+    "title": "MNN 15.6\" 1080P Portable Monitor IPS USB-C HDMI Gaming Screen for Laptop | 15.6\" FHD IPS HDR, USB-C one-cable, PC/Mac/Phone/Switch, Smart Case,Laptop , low blue, work&game $39.99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 39.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $39.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20342232-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop-15-6-fhd-ips-hdr-usb-c-one-cable-pc-mac-phone-switch-smart-case-laptop-low-blue-work-game-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20342232-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop-15-6-fhd-ips-hdr-usb-c-one-cable-pc-mac-phone-switch-smart-case-laptop-low-blue-work-game-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T17:09:08.037Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795086630000-32rokuselectseries1080ps",
+    "fingerprint": "amazon|99.99|32rokuselectseries1080psmarttv2026wvoiceremote9999",
+    "title": "32\" Roku Select Series 1080p Smart TV (2026) w/ Voice Remote $99.99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20342697-32-roku-select-series-1080p-smart-tv-2026-w-voice-remote-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20342697-32-roku-select-series-1080p-smart-tv-2026-w-voice-remote-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T17:09:08.037Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795097547000-liveuntil1121hirorokutv4",
+    "fingerprint": "target|89.99|liveuntil1121hirorokutv431080pfullhdsmarttvflatscreenledtelevisionwithrokutv8999",
+    "title": "**LIVE Until 11/21** Hiro Roku TV 43\" 1080p Full HD Smart TV Flat Screen LED Television with Roku TV $89.99",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 89.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $89.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20344875-live-until-11-21-hiro-roku-tv-43-1080p-full-hd-smart-tv-flat-screen-led-television-with-roku-tv-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20344875-live-until-11-21-hiro-roku-tv-43-1080p-full-hd-smart-tv-flat-screen-led-television-with-roku-tv-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T17:09:08.037Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795105018000-peanuts75thanniversaryul",
+    "fingerprint": "amazon|44.99|peanuts75thanniversaryultimatetvspecialscollectionbluray4499amazoncom",
+    "title": "Peanuts: 75th Anniversary Ultimate TV Specials Collection Blu Ray $44.99 Amazon.com",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 44.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $44.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20346570-peanuts-75th-anniversary-ultimate-tv-specials-collection-blu-ray-44-99-amazon-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20346570-peanuts-75th-anniversary-ultimate-tv-specials-collection-blu-ray-44-99-amazon-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T17:09:08.037Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-electronics-1795082954000-hisenseqd5series98qd5sf9",
+    "fingerprint": "bestbuy|800.00|hisenseqd5series98qd5sf984khiqledsmartfiretvfor800freeshipping",
+    "title": "Hisense QD5 Series 98QD5SF 98\" 4K Hi-QLED Smart Fire TV for $800 + free shipping",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "DealNews Electronics",
+    "price": 800,
+    "was": 2500,
+    "discountPercent": 68,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "68% off new tech with usual price $2500.00 (≥ 65% off, usual ≥ $100)"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/Hisense-QD5-Series-98-QD5-SF-98-4-K-Hi-QLED-Smart-Fire-TV-for-800-free-shipping/22411165.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/Hisense-QD5-Series-98-QD5-SF-98-4-K-Hi-QLED-Smart-Fire-TV-for-800-free-shipping/22411165.html?iref=rss-c142",
+    "triggeredAt": "2026-11-19T17:09:08.036Z",
+    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1795032567000-sylvox156smarttvforkitch",
     "fingerprint": "amazon|99.00|sylvox156smarttvforkitchen1080p12vdcacpoweredrotatedfoldedsavespacegoogleos99",
     "title": "SYLVOX 15.6\" Smart TV for Kitchen, 1080P, 12V DC AC Powered, Rotated & Folded Save Space, Google OS $99",
@@ -1174,61 +1398,5 @@
     "triggeredAt": "2026-11-14T15:48:49.718Z",
     "triggeredAtPT": "Nov 14, 2026, 7:48:49 AM PST",
     "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794619101000-cronosthenewdawnswitch22",
-    "fingerprint": "walmart|22.00|cronosthenewdawnswitch222",
-    "title": "Cronos: The New Dawn (Switch 2) $22",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 22,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $22.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20305164-cronos-the-new-dawn-nintendo-switch-2-21-99-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20305164-cronos-the-new-dawn-nintendo-switch-2-21-99-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-14T02:23:50.671Z",
-    "triggeredAtPT": "Nov 13, 2026, 6:23:50 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794561069000-899940insigniaf40series1",
-    "fingerprint": "amazon|89.99|899940insigniaf40series1080pledfiresmarttvwvoiceremoteatamazon",
-    "title": "$89.99 | 40\" Insignia F40 Series 1080p LED Fire Smart TV w/ Voice Remote at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 89.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $89.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20302251-89-99-40-insignia-f40-series-1080p-led-fire-smart-tv-w-voice-remote-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20302251-89-99-40-insignia-f40-series-1080p-led-fire-smart-tv-w-voice-remote-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-13T23:36:14.710Z",
-    "triggeredAtPT": "Nov 13, 2026, 3:36:14 PM PST",
-    "discordStatus": "skipped-baseline"
   }
 ]
