@@ -1,6 +1,174 @@
 [
   {
     "id": "sd-tv-1795032567000-sylvox156smarttvforkitch",
+    "fingerprint": "amazon|99.00|sylvox156smarttvforkitchen1080p12vdcacpoweredrotatedfoldedsavespacegoogleos99",
+    "title": "SYLVOX 15.6\" Smart TV for Kitchen, 1080P, 12V DC AC Powered, Rotated & Folded Save Space, Google OS $99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20335704-sylvox-15-6-smart-tv-for-kitchen-1080p-12v-dc-ac-powered-rotated-folded-save-space-google-os-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20335704-sylvox-15-6-smart-tv-for-kitchen-1080p-12v-dc-ac-powered-rotated-folded-save-space-google-os-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T07:57:53.791Z",
+    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-laptop-1795051159000-relatablescratchpadproca",
+    "fingerprint": "amazon|17.17|relatablescratchpadprocardboardlaptopcatscratcher1717amazon",
+    "title": "Relatable ScratchPad Pro Cardboard Laptop Cat Scratcher $17.17 - Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 17.17,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $17.17 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20337063-relatable-scratchpad-pro-cardboard-laptop-cat-scratcher-17-17-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20337063-relatable-scratchpad-pro-cardboard-laptop-cat-scratcher-17-17-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T07:57:53.791Z",
+    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795052909000-sylvox156undercabinet12v",
+    "fingerprint": "amazon|99.00|sylvox156undercabinet12vkitchentv90flipdowndesignsupportsarccec90degreerotation9",
+    "title": "SYLVOX 15.6\" Under-Cabinet 12V Kitchen TV, 90° Flip-Down Design, Supports ARC & CEC, 90-Degree Rotation $99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20337189-sylvox-15-6-under-cabinet-12v-kitchen-tv-90-flip-down-design-supports-arc-cec-90-degree-rotation-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20337189-sylvox-15-6-under-cabinet-12v-kitchen-tv-90-flip-down-design-supports-arc-cec-90-degree-rotation-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T07:57:53.791Z",
+    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795072432000-residentevilrequiemps5xb",
+    "fingerprint": "bestbuy|40.00|residentevilrequiemps5xboxseriesxornintendoswitch240freesh",
+    "title": "Resident Evil Requiem (PS5, Xbox Series X or Nintendo Switch 2) $40 + Free S&H",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 40,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $40.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20338563-capcom-resident-evil-requiem-ps5-or-xbox-series-x-39-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20338563-capcom-resident-evil-requiem-ps5-or-xbox-series-x-39-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T07:57:53.791Z",
+    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795072322000-9999tcl40q3crseries1080p",
+    "fingerprint": "bestbuy|99.99|9999tcl40q3crseries1080pfhdqledsmarttvwithroku2026atbestbuy",
+    "title": "$99.99: TCL - 40\" Q3CR Series 1080P FHD QLED Smart TV with Roku (2026) at BestBuy",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20339196-99-99-tcl-40-q3cr-series-1080p-fhd-qled-smart-tv-with-roku-2026-at-bestbuy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20339196-99-99-tcl-40-q3cr-series-1080p-fhd-qled-smart-tv-with-roku-2026-at-bestbuy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T07:57:53.791Z",
+    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795068167000-40insigniaf40seriesledfh",
+    "fingerprint": "bestbuy|84.98|40insigniaf40seriesledfhd1080psmartfiretv8498bestbuy",
+    "title": "40\" Insignia F40 Series LED FHD(1080p) Smart Fire TV $84.98 @Best buy",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 84.98,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $84.98 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20338515-40-insignia-f40-series-led-fhd-1080p-smart-fire-tv-84-98-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20338515-40-insignia-f40-series-led-fhd-1080p-smart-fire-tv-84-98-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-19T07:57:53.791Z",
+    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795032567000-sylvox156smarttvforkitch",
     "fingerprint": "amazon|99.00|sylvox156smarttvforkitchen1080pfhd12vdcacpoweredrotatedfoldedsavespacegoogleos99",
     "title": "SYLVOX 15.6\" Smart TV for Kitchen, 1080P FHD, 12V DC AC Powered, Rotated & Folded Save Space, Google OS $99",
     "retailer": "Amazon",
