@@ -1,5 +1,61 @@
 [
   {
+    "id": "woot-1795154437202-dellinspiron770027inchal",
+    "fingerprint": "woot|70.99|dellinspiron770027inchallinonedesktopcomputer",
+    "title": "Dell Inspiron 7700 27-inch All in One Desktop Computer",
+    "retailer": "Woot",
+    "store": "Woot",
+    "sourceChannel": "Woot",
+    "price": 70.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $70.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://computers.woot.com/offers/dell-inspiron-7700-27-inch-all-in-one-desktop-computer",
+    "sourceUrl": "https://computers.woot.com/offers/dell-inspiron-7700-27-inch-all-in-one-desktop-computer",
+    "triggeredAt": "2026-11-20T12:58:41.125Z",
+    "triggeredAtPT": "Nov 20, 2026, 4:58:41 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795166798000-starwarsoutlawsgoldediti",
+    "fingerprint": "amazon|25.00|starwarsoutlawsgoldeditionnintendoswitch2gamekeycard25",
+    "title": "Star Wars Outlaws Gold Edition (Nintendo Switch 2, Game-Key Card) $25",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 25,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $25.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20339406-star-wars-outlaws-gold-edition-nintendo-switch-2-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20339406-star-wars-outlaws-gold-edition-nintendo-switch-2-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-20T12:58:41.125Z",
+    "triggeredAtPT": "Nov 20, 2026, 4:58:41 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1795146657000-unicornoverlordnintendos",
     "fingerprint": "amazon|25.00|unicornoverlordnintendoswitch25",
     "title": "Unicorn Overlord (Nintendo Switch) $25",
@@ -1339,62 +1395,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://slickdeals.net/f/20313048-7-49-staples-pick-up-staples-tech-wireless-mouse-optical-ambidextrous-usb-receiver-for-pc-and-laptop-pink?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20313048-7-49-staples-pick-up-staples-tech-wireless-mouse-optical-ambidextrous-usb-receiver-for-pc-and-laptop-pink?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T11:33:42.706Z",
-    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794733027000-7499amazonfiretvsoundbar",
-    "fingerprint": "amazon|74.99|7499amazonfiretvsoundbar20speakerwithdtsvirtualxanddolbyaudiobluetoothconnectivi",
-    "title": "$74.99 | Amazon Fire TV Soundbar, 2.0 speaker with DTS Virtual:X and Dolby Audio, Bluetooth connectivity at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 74.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $74.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20313114-74-99-amazon-fire-tv-soundbar-2-0-speaker-with-dts-virtual-x-and-dolby-audio-bluetooth-connectivity-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20313114-74-99-amazon-fire-tv-soundbar-2-0-speaker-with-dts-virtual-x-and-dolby-audio-bluetooth-connectivity-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T11:33:42.706Z",
-    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794726878000-1999brotherptouchptn20pe",
-    "fingerprint": "amazon|19.99|1999brotherptouchptn20personaldesktoplabelmakeratamazon",
-    "title": "$19.99* | Brother P-Touch PT-N20 Personal Desktop Label Maker at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 19.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Desktop (not an accessory) at $19.99 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312601-19-99-brother-p-touch-pt-n20-personal-desktop-label-maker-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312601-19-99-brother-p-touch-pt-n20-personal-desktop-label-maker-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-15T11:33:42.706Z",
     "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
     "discordStatus": "no-webhook"
