@@ -1,5 +1,61 @@
 [
   {
+    "id": "woot-1795154436811-beelinkminipc",
+    "fingerprint": "woot|8.99|beelinkminipc",
+    "title": "Beelink Mini PC",
+    "retailer": "Woot",
+    "store": "Woot",
+    "sourceChannel": "Woot",
+    "price": 8.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Desktop (not an accessory) at $8.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://computers.woot.com/offers/beelink-mini-pc",
+    "sourceUrl": "https://computers.woot.com/offers/beelink-mini-pc",
+    "triggeredAt": "2026-11-20T20:58:18.374Z",
+    "triggeredAtPT": "Nov 20, 2026, 12:58:18 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795190961000-catinthehatrainydaymayhe",
+    "fingerprint": "amazon|24.99|catinthehatrainydaymayhemswitchorplaystation2499freeshippingwprimeoron35",
+    "title": "Cat in the Hat: Rainy Day Mayhem (Switch or PlayStation) $24.99 + Free Shipping w/ Prime or on $35+",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 24.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $24.99 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20357427-cat-in-the-hat-rainy-day-mayhem-switch-or-playstation-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20357427-cat-in-the-hat-rainy-day-mayhem-switch-or-playstation-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-20T20:58:18.374Z",
+    "triggeredAtPT": "Nov 20, 2026, 12:58:18 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "woot-1795154437202-dellinspiron770027inchal",
     "fingerprint": "woot|70.99|dellinspiron770027inchallinonedesktopcomputer",
     "title": "Dell Inspiron 7700 27-inch All in One Desktop Computer",
@@ -1340,62 +1396,6 @@
     "directBuyUrl": "https://slickdeals.net/f/20312976-19-99-another-crab-s-treasure-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20312976-19-99-another-crab-s-treasure-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-15T11:33:42.707Z",
-    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794730932000-1999teenagemutantninjatu",
-    "fingerprint": "amazon|19.99|1999teenagemutantninjaturtlesarcadewrathofthemutantsninjaeditionnintendoswitch2a",
-    "title": "$19.99 | Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants Ninja Edition (Nintendo Switch 2) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 19.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $19.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312931-19-99-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312931-19-99-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T11:33:42.706Z",
-    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-laptop-1794731919000-749staplespickupstaplest",
-    "fingerprint": "staples|7.49|749staplespickupstaplestechwirelessmouseopticalambidextroususbreceiverforpcandla",
-    "title": "$7.49 STAPLES PICK UP Staples TECH Wireless Mouse, Optical, Ambidextrous, USB Receiver for PC and Laptop, Pink",
-    "retailer": "Staples",
-    "store": "Staples",
-    "sourceChannel": "Slickdeals laptop search",
-    "price": 7.49,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Laptop (not an accessory) at $7.49 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20313048-7-49-staples-pick-up-staples-tech-wireless-mouse-optical-ambidextrous-usb-receiver-for-pc-and-laptop-pink?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20313048-7-49-staples-pick-up-staples-tech-wireless-mouse-optical-ambidextrous-usb-receiver-for-pc-and-laptop-pink?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T11:33:42.706Z",
     "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
     "discordStatus": "no-webhook"
   }
