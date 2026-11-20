@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1795146657000-unicornoverlordnintendos",
+    "fingerprint": "amazon|25.00|unicornoverlordnintendoswitch25",
+    "title": "Unicorn Overlord (Nintendo Switch) $25",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 25,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $25.00 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20340009-unicorn-overlord-nintendo-switch-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20340009-unicorn-overlord-nintendo-switch-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-20T04:14:45.908Z",
+    "triggeredAtPT": "Nov 19, 2026, 8:14:45 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795083120000-2999reanimaldeluxeeditio",
     "fingerprint": "amazon|29.99|2999reanimaldeluxeeditionamazonexclusivenintendoswitch2atamazon",
     "title": "$29.99 | REANIMAL: Deluxe Edition - Amazon Exclusive (Nintendo Switch 2) at Amazon",
@@ -1369,34 +1397,6 @@
     "sourceUrl": "https://slickdeals.net/f/20312601-19-99-brother-p-touch-pt-n20-personal-desktop-label-maker-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-15T11:33:42.706Z",
     "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794713144000-finalfantasyviirebirthni",
-    "fingerprint": "amazon|35.00|finalfantasyviirebirthnintendoswitch2gamekeycard35",
-    "title": "Final Fantasy VII: Rebirth (Nintendo Switch 2, Game-Key Card) $35",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 35,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $35.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20309448-34-99-final-fantasy-vii-rebirth-nintendo-switch-2-game-key-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20309448-34-99-final-fantasy-vii-rebirth-nintendo-switch-2-game-key-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T03:47:46.961Z",
-    "triggeredAtPT": "Nov 14, 2026, 7:47:46 PM PST",
     "discordStatus": "no-webhook"
   }
 ]
