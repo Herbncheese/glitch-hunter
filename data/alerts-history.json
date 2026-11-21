@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1795296961000-pragmataps5xboxseriesxor",
+    "fingerprint": "amazon|40.00|pragmataps5xboxseriesxornintendoswitch240freesh",
+    "title": "Pragmata (PS5, Xbox Series X or Nintendo Switch 2) $40 + Free S&H",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 40,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $40.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20341701-39-99-pragmata-ps5-switch-2-or-xsx-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20341701-39-99-pragmata-ps5-switch-2-or-xsx-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-21T22:00:15.131Z",
+    "triggeredAtPT": "Nov 21, 2026, 2:00:15 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795139530000-2999hogwartslegacyninten",
     "fingerprint": "amazon|29.99|2999hogwartslegacynintendoswitchatamazon",
     "title": "$29.99: Hogwarts Legacy - Nintendo Switch at Amazon",
@@ -1367,34 +1395,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://slickdeals.net/f/20312943-24-99-star-wars-heritage-pack-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20312943-24-99-star-wars-heritage-pack-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T17:57:20.152Z",
-    "triggeredAtPT": "Nov 15, 2026, 9:57:20 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794756395000-warriorcatsclansofthefor",
-    "fingerprint": "bestbuy|29.99|warriorcatsclansoftheforestferaleditionnintendoswitchswitch2ps5xbox2999fs",
-    "title": "Warrior Cats: Clans of the Forest Feral Edition - Nintendo Switch / Switch 2 / PS5 / Xbox - $29.99 + FS",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 29.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $29.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-nintendo-switch-switch-2-ps5-xbox-29-99-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-nintendo-switch-switch-2-ps5-xbox-29-99-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-15T17:57:20.152Z",
     "triggeredAtPT": "Nov 15, 2026, 9:57:20 AM PST",
     "discordStatus": "no-webhook"
