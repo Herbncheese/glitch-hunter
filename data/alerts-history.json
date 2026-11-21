@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1795223757000-easportsfc27nintendoswit",
+    "fingerprint": "walmart|28.00|easportsfc27nintendoswitch28",
+    "title": "EA SPORTS FC 27 (Nintendo Switch) $28",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 28,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $28.00 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20336736-34-97-ea-sports-fc-27-nintendo-switch-game?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20336736-34-97-ea-sports-fc-27-nintendo-switch-game?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-21T02:00:49.043Z",
+    "triggeredAtPT": "Nov 20, 2026, 6:00:49 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "woot-1795154436811-beelinkminipc",
     "fingerprint": "woot|8.99|beelinkminipc",
     "title": "Beelink Mini PC",
@@ -1369,34 +1397,6 @@
     "sourceUrl": "https://slickdeals.net/f/20312475-red-dead-redemption-switch-or-ps5-20-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-15T17:57:20.152Z",
     "triggeredAtPT": "Nov 15, 2026, 9:57:20 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794731272000-1999anothercrabstreasure",
-    "fingerprint": "amazon|19.99|1999anothercrabstreasurenintendoswitchatamazon",
-    "title": "$19.99 | Another Crab's Treasure (Nintendo Switch) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 19.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $19.99 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312976-19-99-another-crab-s-treasure-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312976-19-99-another-crab-s-treasure-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T11:33:42.707Z",
-    "triggeredAtPT": "Nov 15, 2026, 3:33:42 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
