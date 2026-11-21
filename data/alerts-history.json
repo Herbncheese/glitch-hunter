@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-popular-1795139530000-2999hogwartslegacyninten",
+    "fingerprint": "amazon|29.99|2999hogwartslegacynintendoswitchatamazon",
+    "title": "$29.99: Hogwarts Legacy - Nintendo Switch at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 29.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $29.99 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20352222-29-99-hogwarts-legacy-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20352222-29-99-hogwarts-legacy-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-21T09:35:25.090Z",
+    "triggeredAtPT": "Nov 21, 2026, 1:35:25 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1795223757000-easportsfc27nintendoswit",
     "fingerprint": "walmart|28.00|easportsfc27nintendoswitch28",
     "title": "EA SPORTS FC 27 (Nintendo Switch) $28",
@@ -1367,34 +1395,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-nintendo-switch-switch-2-ps5-xbox-29-99-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-nintendo-switch-switch-2-ps5-xbox-29-99-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T17:57:20.152Z",
-    "triggeredAtPT": "Nov 15, 2026, 9:57:20 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794755784000-reddeadredemptionswitcho",
-    "fingerprint": "bestbuy|20.00|reddeadredemptionswitchorps520freesh",
-    "title": "Red Dead Redemption (Switch or PS5) $20 + Free S&H",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 20,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $20.00 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312475-red-dead-redemption-switch-or-ps5-20-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312475-red-dead-redemption-switch-or-ps5-20-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-15T17:57:20.152Z",
     "triggeredAtPT": "Nov 15, 2026, 9:57:20 AM PST",
     "discordStatus": "no-webhook"
