@@ -1,5 +1,117 @@
 [
   {
+    "id": "sd-popular-1795081729000-rosewillmicroatxminitowe",
+    "fingerprint": "amazon|66.49|rosewillmicroatxminitowerpccasewithpreinstalled80gold650watx31powersupply360mmra",
+    "title": "Rosewill Micro ATX Mini Tower PC Case with Pre-Installed 80+ Gold 650W ATX 3.1 Power Supply | 360mm Radiator Support | 1 x USB 3.0 | 1 x USB Type-C | 1 x 120mm PWM Rear Fan $66.49",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 66.49,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Desktop (not an accessory) at $66.49 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20341740-rosewill-micro-atx-mini-tower-pc-case-with-pre-installed-80-gold-650w-atx-3-1-power-supply-360mm-radiator-support-1-x-usb-3-0-1-x-usb-type-c-1-x-120mm-pwm-rear-fan-66-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20341740-rosewill-micro-atx-mini-tower-pc-case-with-pre-installed-80-gold-650w-atx-3-1-power-supply-360mm-radiator-support-1-x-usb-3-0-1-x-usb-type-c-1-x-120mm-pwm-rear-fan-66-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T02:02:09.071Z",
+    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795296290000-easportsfc27nintendoswit",
+    "fingerprint": "target|34.99|easportsfc27nintendoswitch23499",
+    "title": "EA SPORTS FC 27 - Nintendo Switch 2 $34.99",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 34.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $34.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20365515-ea-sports-fc-27-nintendo-switch-2-34-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20365515-ea-sports-fc-27-nintendo-switch-2-34-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T02:02:09.071Z",
+    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795312667000-residentevilrequiemninte",
+    "fingerprint": "bestbuy|40.00|residentevilrequiemnintendoswitch240freesh",
+    "title": "Resident Evil Requiem ( Nintendo Switch 2) $40 + Free S&H",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 40,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $40.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20338734-resident-evil-requiem-nintendo-switch-2-39-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20338734-resident-evil-requiem-nintendo-switch-2-39-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T02:02:09.071Z",
+    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795308747000-turtlebeachrematchwirele",
+    "fingerprint": "amazon|40.00|turtlebeachrematchwirelesscontrollerfornintendoswitch22styles40freesh",
+    "title": "Turtle Beach Rematch Wireless Controller for Nintendo Switch 2 (2 Styles) $40 + Free S&H",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 40,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $40.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20362020-turtle-beach-rematch-wireless-controller-for-nintendo-switch-2-mario-luigi-or-timmy-tommy-39-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20362020-turtle-beach-rematch-wireless-controller-for-nintendo-switch-2-mario-luigi-or-timmy-tommy-39-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T02:02:09.071Z",
+    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1795296961000-pragmataps5xboxseriesxor",
     "fingerprint": "amazon|40.00|pragmataps5xboxseriesxornintendoswitch240freesh",
     "title": "Pragmata (PS5, Xbox Series X or Nintendo Switch 2) $40 + Free S&H",
@@ -1285,118 +1397,6 @@
     "sourceUrl": "https://slickdeals.net/f/20312577-hello-kitty-island-adventure-nintendo-switch-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-16T09:57:23.507Z",
     "triggeredAtPT": "Nov 16, 2026, 1:57:23 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794792389000-fortnitedarkfireicebundl",
-    "fingerprint": "bestbuy|15.99|fortnitedarkfireicebundlenintendoswitch21599freeshipping",
-    "title": "FORTNITE - Darkfire & Ice Bundle - Nintendo Switch 2 $15.99 + Free Shipping",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 15.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $15.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20316381-fortnite-darkfire-ice-bundle-nintendo-switch-2-15-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20316381-fortnite-darkfire-ice-bundle-nintendo-switch-2-15-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-16T02:22:28.157Z",
-    "triggeredAtPT": "Nov 15, 2026, 6:22:28 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794776936000-warriorcatsclansofthefor",
-    "fingerprint": "bestbuy|30.00|warriorcatsclansoftheforestferaleditionswitchswitch2ps5orxsx30",
-    "title": "Warrior Cats: Clans of the Forest Feral Edition (Switch, Switch 2, PS5 or XSX) $30",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 30,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $30.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-switch-switch-2-ps5-or-xsx-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20314314-warrior-cats-clans-of-the-forest-feral-edition-switch-switch-2-ps5-or-xsx-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T22:32:19.448Z",
-    "triggeredAtPT": "Nov 15, 2026, 2:32:19 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794730915000-2999blueysquestforthegol",
-    "fingerprint": "amazon|29.99|2999blueysquestforthegoldpennintendoswitch2atamazon",
-    "title": "$29.99* | Bluey's Quest for The Gold Pen (Nintendo Switch 2) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 29.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $29.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312928-29-99-bluey-s-quest-for-the-gold-pen-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312928-29-99-bluey-s-quest-for-the-gold-pen-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T17:57:20.152Z",
-    "triggeredAtPT": "Nov 15, 2026, 9:57:20 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794731046000-2499starwarsheritagepack",
-    "fingerprint": "amazon|24.99|2499starwarsheritagepacknintendoswitchatamazon",
-    "title": "$24.99* | Star Wars: Heritage Pack (Nintendo Switch) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 24.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $24.99 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312943-24-99-star-wars-heritage-pack-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312943-24-99-star-wars-heritage-pack-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-15T17:57:20.152Z",
-    "triggeredAtPT": "Nov 15, 2026, 9:57:20 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
