@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1795365854000-donkeykongbananzaswitch2",
+    "fingerprint": "target|50.00|donkeykongbananzaswitch250freesh",
+    "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 50,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $50.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20368251-49-99-donkey-kong-bananza-nintendo-switch-2-at-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20368251-49-99-donkey-kong-bananza-nintendo-switch-2-at-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T17:23:56.603Z",
+    "triggeredAtPT": "Nov 22, 2026, 9:23:56 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795335209000-1999finalfantasyviiremak",
     "fingerprint": "amazon|19.99|1999finalfantasyviiremakeintegradenintendoswitch2standardatamazon",
     "title": "$19.99* | Final Fantasy VII Remake Integrade Nintendo Switch 2 (Standard) at Amazon",
@@ -1387,34 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20326380-29-99-high-on-life-2-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-18T01:58:47.152Z",
     "triggeredAtPT": "Nov 17, 2026, 5:58:47 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1794929501000-hitmanworldofassassinati",
-    "fingerprint": "bestbuy|29.99|hitmanworldofassassinationsignatureeditionnintendoswitch22999bestbuytarget",
-    "title": "HITMAN World of Assassination: Signature Edition (Nintendo Switch 2) - $29.99 @ Best Buy & Target",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 29.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $29.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20327424-hitman-world-of-assassination-signature-edition-nintendo-switch-2-29-99-best-buy-target?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20327424-hitman-world-of-assassination-signature-edition-nintendo-switch-2-29-99-best-buy-target?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-17T19:54:32.438Z",
-    "triggeredAtPT": "Nov 17, 2026, 11:54:32 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
