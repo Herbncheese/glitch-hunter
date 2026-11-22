@@ -1,5 +1,247 @@
 [
   {
+    "id": "sd-popular-1795335209000-1999finalfantasyviiremak",
+    "fingerprint": "amazon|19.99|1999finalfantasyviiremakeintegradenintendoswitch2standardatamazon",
+    "title": "$19.99* | Final Fantasy VII Remake Integrade Nintendo Switch 2 (Standard) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 19.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $19.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20367951-19-99-final-fantasy-vii-remake-integrade-nintendo-switch-2-standard-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20367951-19-99-final-fantasy-vii-remake-integrade-nintendo-switch-2-standard-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.253Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795338121000-2999dragonquestxisechoes",
+    "fingerprint": "amazon|29.99|2999dragonquestxisechoesofanelusiveagedefinitiveeditionnintendoswitch2atamazon",
+    "title": "$29.99: DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition - Nintendo Switch 2 at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 29.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $29.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20368347-29-99-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20368347-29-99-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.253Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795338607000-2999justdancedecadesofhi",
+    "fingerprint": "amazon|29.99|2999justdancedecadesofhitslimitededitionnintendoswitchcodeinboxatamazon",
+    "title": "$29.99: Just Dance Decades of Hits - Limited Edition - Nintendo Switch Code In Box at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 29.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $29.99 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20368407-29-99-just-dance-decades-of-hits-limited-edition-nintendo-switch-code-in-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20368407-29-99-just-dance-decades-of-hits-limited-edition-nintendo-switch-code-in-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.252Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795337505000-donkeykongbananzaswitch2",
+    "fingerprint": "bestbuy|50.00|donkeykongbananzaswitch250freesh",
+    "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 50,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $50.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20367696-donkey-kong-bananza-nintendo-switch-2-49-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20367696-donkey-kong-bananza-nintendo-switch-2-49-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.252Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795334701000-5999supermariopartyjambo",
+    "fingerprint": "amazon|59.99|5999supermariopartyjamboreejamboreetvnintendoswitch2atamazon",
+    "title": "$59.99* | Super Mario Party Jamboree + Jamboree TV (Nintendo Switch 2) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 59.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $59.99 < $499"
+      },
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $59.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch",
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20367834-59-99-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20367834-59-99-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.252Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795339244000-5999supermariopartyjambo",
+    "fingerprint": "target|59.99|5999supermariopartyjamboreenintendoswitch2editionjamboreetvattarget",
+    "title": "$59.99: Super Mario Party Jamboree - Nintendo Switch 2 Edition + Jamboree TV at Target",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 59.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $59.99 < $499"
+      },
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $59.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch",
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20368461-59-99-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-at-target?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20368461-59-99-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-at-target?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.252Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795332028000-supermariopartyjamboreej",
+    "fingerprint": "bestbuy|59.99|supermariopartyjamboreejamboreetvnintendoswitch25999bestbuy",
+    "title": "Super Mario Party Jamboree + Jamboree TV (Nintendo Switch 2) - $59.99 @ Best Buy",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 59.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $59.99 < $499"
+      },
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $59.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch",
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20367729-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-59-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20367729-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-59-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.252Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795336580000-blueyshappysnapsactivity",
+    "fingerprint": "target|40.00|blueyshappysnapsactivitybookeditionswitch2gamekeycard40freesh",
+    "title": "Bluey's Happy Snaps: Activity Book Edition (Switch 2 Game-Key Card) $40 + Free S&H",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 40,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $40.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20329821-bluey-s-happy-snaps-activity-book-edition-switch-2-game-key-card-40-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20329821-bluey-s-happy-snaps-activity-book-edition-switch-2-game-key-card-40-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T09:39:39.252Z",
+    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795081729000-rosewillmicroatxminitowe",
     "fingerprint": "amazon|66.49|rosewillmicroatxminitowerpccasewithpreinstalled80gold650watx31powersupply360mmra",
     "title": "Rosewill Micro ATX Mini Tower PC Case with Pre-Installed 80+ Gold 650W ATX 3.1 Power Supply | 360mm Radiator Support | 1 x USB 3.0 | 1 x USB Type-C | 1 x 120mm PWM Rear Fan $66.49",
@@ -1173,230 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20327424-hitman-world-of-assassination-signature-edition-nintendo-switch-2-29-99-best-buy-target?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-17T19:54:32.438Z",
     "triggeredAtPT": "Nov 17, 2026, 11:54:32 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794913473000-startrekenterprisethecom",
-    "fingerprint": "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvfandango",
-    "title": "Star Trek: Enterprise: The Complete Series (2001) (Digital HD TV Show) $19.99 via AppleTV/Fandango",
-    "retailer": "Apple",
-    "store": "Apple",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 19.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $19.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-17T19:54:32.438Z",
-    "triggeredAtPT": "Nov 17, 2026, 11:54:32 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "woot-1794931213150-alienwareprowirelessgami",
-    "fingerprint": "woot|79.99|alienwareprowirelessgamingmouse",
-    "title": "Alienware Pro Wireless Gaming Mouse",
-    "retailer": "Woot",
-    "store": "Woot",
-    "sourceChannel": "Woot",
-    "price": 79.99,
-    "was": 129.99,
-    "discountPercent": 38,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Laptop (not an accessory) at $79.99 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://computers.woot.com/offers/alienware-pro-wireless-gaming-mouse",
-    "sourceUrl": "https://computers.woot.com/offers/alienware-pro-wireless-gaming-mouse",
-    "triggeredAt": "2026-11-17T19:54:32.438Z",
-    "triggeredAtPT": "Nov 17, 2026, 11:54:32 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794913473000-startrekenterprisethecom",
-    "fingerprint": "apple|19.99|startrekenterprisethecompleteseries2001digitalhdtvshow1999viaappletvathomefandan",
-    "title": "Star Trek: Enterprise: The Complete Series (2001) (Digital HD TV Show) $19.99 via AppleTV/At Home.Fandango",
-    "retailer": "Apple",
-    "store": "Apple",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 19.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $19.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-at-home-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20326113-star-trek-enterprise-the-complete-series-2001-digital-hd-tv-show-19-99-via-appletv-at-home-fandango?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-17T11:17:08.997Z",
-    "triggeredAtPT": "Nov 17, 2026, 3:17:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794903117000-thexfilesthecompleteseri",
-    "fingerprint": "apple|25.00|thexfilesthecompleteseries1993digitalhdtvshow25",
-    "title": "The X-Files: The Complete Series (1993) (Digital HD TV Show) $25",
-    "retailer": "Apple",
-    "store": "Apple",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 25,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $25.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20318874-the-x-files-the-complete-series-hd-apple-tv-digital-24-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20318874-the-x-files-the-complete-series-hd-apple-tv-digital-24-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-17T11:17:08.997Z",
-    "triggeredAtPT": "Nov 17, 2026, 3:17:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794824619000-rickandmortyseasons19201",
-    "fingerprint": "apple|59.99|rickandmortyseasons1920132026digitalhdtvshow5999viaappletv",
-    "title": "Rick and Morty: Seasons 1-9 (2013-2026) (Digital HD TV Show) $59.99 via AppleTV",
-    "retailer": "Apple",
-    "store": "Apple",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 59.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $59.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20318394-rick-and-morty-seasons-1-9-2013-2026-digital-hd-tv-show-59-99-via-appletv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20318394-rick-and-morty-seasons-1-9-2013-2026-digital-hd-tv-show-59-99-via-appletv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-16T20:02:14.074Z",
-    "triggeredAtPT": "Nov 16, 2026, 12:02:14 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794832903000-hisense32qd4serieshiqled",
-    "fingerprint": "amazon|99.99|hisense32qd4serieshiqledhdsmartairokutv32qd4hsr20269999",
-    "title": "Hisense 32\" QD4 Series Hi-QLED HD Smart AI Roku TV (32QD4HSR, 2026) $99.99",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 99.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $99.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20318949-hisense-32-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20318949-hisense-32-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-16T20:02:14.074Z",
-    "triggeredAtPT": "Nov 16, 2026, 12:02:14 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794843331000-9999hisense32inchqd4seri",
-    "fingerprint": "amazon|99.99|9999hisense32inchqd4serieshiqledhdsmartairokutv32qd4hsr2026newatamazon",
-    "title": "$99.99: Hisense 32\" inch QD4 Series Hi-QLED HD Smart AI Roku TV (32QD4HSR, 2026 NEW) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 99.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $99.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20320191-99-99-hisense-32-inch-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-new-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20320191-99-99-hisense-32-inch-qd4-series-hi-qled-hd-smart-ai-roku-tv-32qd4hsr-2026-new-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-16T20:02:14.074Z",
-    "triggeredAtPT": "Nov 16, 2026, 12:02:14 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794807523000-hellokittyislandadventur",
-    "fingerprint": "amazon|20.00|hellokittyislandadventurenintendoswitch20",
-    "title": "Hello Kitty Island Adventure (Nintendo Switch) $20",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 20,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $20.00 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312577-hello-kitty-island-adventure-nintendo-switch-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312577-hello-kitty-island-adventure-nintendo-switch-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-16T09:57:23.507Z",
-    "triggeredAtPT": "Nov 16, 2026, 1:57:23 AM PST",
     "discordStatus": "no-webhook"
   }
 ]

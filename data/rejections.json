@@ -1,216 +1,181 @@
 {
-  "count": 179,
-  "scannedAt": "2026-11-22T02:02:05.427Z",
-  "scannedAtPT": "Nov 21, 2026, 6:02:05 PM PST",
+  "count": 165,
+  "scannedAt": "2026-11-22T09:39:35.770Z",
+  "scannedAtPT": "Nov 22, 2026, 1:39:35 AM PST",
   "rejections": [
     {
-      "title": "Shokz OpenFit Air Sports Headphones (Black or White) $59.95",
+      "title": "Apple Watch SE 3 GPS Smartwatch (2 Colors): 44mm $209, 40mm $179 & More + Free S&H",
+      "source": "Slickdeals Frontpage",
+      "reason": "multiple prices without a clear was/now marker ($209, $179)"
+    },
+    {
+      "title": "Costco Members: ASUS Vivobook Laptop: 16\" FHD+ OLED, Core 9 270H, 24GB, 1TB $900 + $15 S/H",
+      "source": "Slickdeals Frontpage",
+      "reason": "multiple prices without a clear was/now marker ($900, $15)"
+    },
+    {
+      "title": "EGO POWER+ Portable Inverter 400W Power Inverter Generator $129 + Free S&H",
+      "source": "Slickdeals Frontpage",
+      "reason": "not tech"
+    },
+    {
+      "title": "DashPass Members: Grand Theft Auto VI (Xbox Series X/S Digital) from $68",
       "source": "Slickdeals Frontpage",
       "reason": "does not match any watch rule"
     },
     {
-      "title": "46mm Tissot Seastar Professional 2000 Men's Swiss Automatic Watch $673.75 + Free S&H",
+      "title": "16-Ct Energizer Max Alkaline Batteries (AA or AAA) + Earn $5 Back on $20+ Offer $11 or Less + Free Pickup",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "32-Oz Amazon Fresh 35% Less Sodium Chicken Broth $0.95 or less w/ S&S & More",
+      "title": "$50 Google Play Gift Card + $5 Bonus Target eGift Card $50",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "Men's Brooks Ghost Max 3 Running Shoes (various colors/sizes) from $89.95 + Free S&H",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "Miracle-GRO 4'8\" x 4'8\" x 6'5\" Outdoor Mini Walk-in Greenhouse Plant Tent (Clear) $47.45 + Free S&H",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "Papillio by Birkenstock Women's Arizona Chunky Birko-Flor Platform Sandals (Blue) $38.65 + Free S&H on $49+",
+      "title": "128GB Meta Quest S3 Virtual Reality Headset + $50 Target GC $297.50 + Free S&H",
       "source": "Slickdeals Frontpage",
       "reason": "does not match any watch rule"
     },
     {
-      "title": "16-Oz Amazon Grocery Canned Traditional Refried Beans $0.65 or less w/ S&S",
+      "title": "$100 Apple Gift Card + $15 Target Promotional eGift Card (Email Delivery) $100",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "63\" Govee RGBIC Smart Lantern Floor Lamp w/ Halo Gradient $100 + Free S&H",
+      "title": "Peggle Deluxe + Peggle Nights (PC Digital Download) $1.50 & More",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "Amazon Echo Dot Max (2025, newest model) $50 + Free S&H",
+      "title": "Travelon Pi Gogo Insulated Water Bottle Tote Crossbody Bag (Navy) $6.90",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "LG Partner (Select Areas): 77\" C6H OLED evo 4K TV + 27\" G5 FHD 200Hz Monitor $1620 + Free Delivery",
-      "source": "Slickdeals Frontpage",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "DeWALT 20V MAX Corded / Cordless Air Inflator (Tool Only) $99 + Free S&H on $150+",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "RYOBI ONE+ HP 18V Brushless 1/2\" Impact (Tool Only) + 11-Pc Impact Sockets $139 + Free S&H",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "23-Oz Finish Jet-Dry Dishwasher Rinse Aid 2 for $12.50 w/ S&S",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "Seller Refurb: 42.5mm Citizen Men's Zenshin Chrono Eco-Drive Super Titanium Watch $221 + Free S&H",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "2-Pk Ridgid 18V 8.0Ah EX Max Output Lithium-Ion Tabless Battery $179 + Free S&H",
-      "source": "Slickdeals Frontpage",
-      "reason": "not tech"
-    },
-    {
-      "title": "Wyze 1080p WiFi Indoor Window Security Camera w/ Color Night Vision $20",
+      "title": "007 First Light: Deluxe Edition (Xbox Series X|S / PC / Xbox Cloud Gaming) $40",
       "source": "Slickdeals Frontpage",
       "reason": "does not match any watch rule"
     },
     {
-      "title": "Bridgestone Alenza A/S 02 275/60R20 115S All Season Tire $182 + Free S&H",
+      "title": "2-Pk Govee 1000LM RGBWW A19 9W E26 Smart LED Light Bulbs $16",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "8-Pk 180-Ct Kleenex Lotion Facial Tissues w/ Coconut Oil & Aloe $10.75 w/ S&S",
+      "title": "KIDMI Women’s Suede Indoor/Outdoor Platform Slippers (Various) from $21.85 + Free S&H",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "Baseus 4-Port PD3.1 up to 140W USB-C GaN Wall Charger (1x USB-A, 3x USB-C) $34.40 + Free S&H",
+      "title": "14-Pk Hanes Women's Crew Moisture-Wicking Cushioned Athletic Socks from $9.60",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "adidas Men's SST TT Canvas Jacket (Black) $55.50 + Free S&H",
+      "title": "Travelon World Travel Essentials Tech Organizer (Teal) $10.60",
       "source": "Slickdeals Frontpage",
       "reason": "not tech"
     },
     {
-      "title": "Target LEGO holiday event free gift tag and tote - Target (Flagship Stores Only)",
-      "source": "Slickdeals Popular",
-      "reason": "no item price found"
+      "title": "50-Oz Amazon Essentials Liquid Hand Soap Refill (Milk & Honey) $3.10 w/ S&S",
+      "source": "Slickdeals Frontpage",
+      "reason": "not tech"
     },
     {
-      "title": "All Hand Soap $2.95 Bath and Bodyworks",
+      "title": "HOKA Women's Arahi 8 Running Shoes (Black/Black) $87 + Free S&H",
+      "source": "Slickdeals Frontpage",
+      "reason": "not tech"
+    },
+    {
+      "title": "2001: A Space Odyssey / Clockwork Orange, A / The Shining Blu Ray $10.99 Amazon.com",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "Auden Women's Pajama Sets (Various) from $14.99 + Free S&H",
+      "title": "UA ST Court Men's Shoes (2 options) - $36.16 + FS",
+      "source": "Slickdeals Popular",
+      "reason": "not tech"
+    },
+    {
+      "title": "Refurbished Insta360 X4 8K Panoramic Action Camera $284.26",
       "source": "Slickdeals Popular",
       "reason": "does not match any watch rule"
     },
     {
-      "title": "16-Oz SPTA Extra Glossy Tire Shine Spray $11.47 + Free Shipping w/ Prime or on $35+",
+      "title": "$48.97* | Super Mario Galaxy + Super Mario Galaxy 2 (Switch) at Amazon",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "adidas men Workout Essentials Brandlove T-Shirt (3 Colors) from $11",
+      "title": "$199.99, FS, 2 yr warranty, REFURB Dyson V9 Motorbar™ Vacuum | Dark Nickel/Gloss Nickel, ebay",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "Tissot PRX, Swiss Powermatic 80, 35mm, Green Dial, Women's Watch $525",
+      "title": "Inspirational 4-Movie Collection (Field of Dreams / Seabiscuit / Friday Night Lights / Cinderella Man) [Blu-ray] $10.99 Amazon.com",
+      "source": "Slickdeals Popular",
+      "reason": "movie / game / media"
+    },
+    {
+      "title": "5.3 cu. ft. Bespoke Ultra Capacity Vented Electric All-in-One Washer Dryer Combo in Ivory with AI Opti Wash & Dry $1699",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "[Prime] $10.78* | TECKNET Wired 8 Button 12800 DPI Optical RGB Gaming Mouse at Amazon",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "$4.74* | CAP Barbell Abdominal Toning Wheel at Amazon",
+      "title": "Levoit Eleva 300X Air Purifier, Next Gen Fully Sealed HEPA Filtration | $99 @ Amazon",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "Ozark Trail 7-Piece Camping Multitool Set with Hammer, Axe, Flashlight, and Knives @ Walmart $19.97",
+      "title": "$169.99: Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation at Amazon",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "Razer Naga V2 HyperSpeed Wireless MMO Gaming Mouse w/ 19 Programmable Buttons & 400-Hr Battery (Black) $56.99 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "5-Oz Astroglide X Premium Silicone Personal Lubricant $8.24 w/ S&S + Free Shipping w/ Prime or on $35+",
+      "title": "Blendcraft 5.3 Qt Stand Mixer + ONLY $59.99 + Free Shipping",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "$10.39 | Amazon Basics Portable Tire Inflator Air Pump Compressor, 12V at Woot!",
+      "title": "Macys (BLACK FRIDAY DEAL) - Ralph Lauren 2-Piece Polo Red Eau de Parfum Extreme Gift Set - $75.00",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "[Prime] FERIETELF Kids 1080P Foldable Mini Drone w/ 2 Batteries $19.99 + Free Shipping",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "Bone Conduction Headphone Case for SHOKZ OpenRun Pro 2 / Pro / Mini for $6.49 (Reg. $12.99) + Free Shipping w/ Prime or on $35+",
-      "source": "Slickdeals Popular",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "[S&S] $6.17: Four Sigmatic Gut Health Mushroom Instant Coffee Mix (10 Packets)",
+      "title": "$351.99, FS, 2 yr warr, REFURB Dyson V15s Detect Submarine™ Wet and Dry Vacuum Cleaner | Yellow/Nickel |",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "Mattel Games UNO Show ‘em No Mercy Card Game in Storage Tin,Ages 7+ $10.49",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "$20.97 for 3 items: Blu-Rays at Amazon",
+      "title": "[SnS, AC] $22.36 or $19.39* | 3 × 51.5-oz Dawn Platinum Plus PowerSuds Liquid Dish Soap Refill ($7.45 each) at Amazon",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "Thermalright Aqua Elite 360 ARGB CPU Aio Cooler $42.47 - Amazon",
-      "source": "Slickdeals Popular",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "4-Count Medicube Salmon PDRN Pink Collagen Jelly Gel Face Masks & More from $12.57 w/ S&S + Free Shipping w/ Prime or on $35+",
+      "title": "Campbell’s Chunky Soup, Pub-Style Chicken Pot Pie Soup, 16.3 oz Can (Pack of 8)~$10.29 After Coupon & S&S @ Amazon",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "USB C Fast Charger, 100W GaN 6-Port Charging Station Block, Various Colors $16.13",
+      "title": "Reebok Women’s ID Train Snake Print Bra X-Large $13.76 - Amazon",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "Google Pixel Watch 5 Smartwatches (Various Sizes & Colors) Frpm $300 + Free S&H",
+      "title": "Bombas Women's Sunday Slipper $61 - Scheels $51",
       "source": "Slickdeals Popular",
       "reason": "not tech"
     },
     {
-      "title": "0.5-Oz EltaMD UV Clear SPF 46 Facial Sunscreen (Untinted) $17.62 + Free Shipping w/ Prime or on $35+",
+      "title": "DeWalt 20V MAX Lithium-Ion 5.0Ah Battery (3 -Pack) $109.65",
       "source": "Slickdeals Popular",
+      "reason": "not tech"
+    },
+    {
+      "title": "Price mistake - Naturally Fresh Quick Clumping Litter 16 lb Two Pack for $2.38",
+      "source": "Slickdeals \"price mistake\"",
       "reason": "not tech"
     },
     {
@@ -232,6 +197,26 @@
       "title": "Oofos men's slip on shoe and other items on sale (members only event - 20% off select styles + Free shipping at $75) $75.96",
       "source": "Slickdeals \"price error\"",
       "reason": "multi-item roundup / sale event"
+    },
+    {
+      "title": "PERLESMITH Full Motion Corner TV Wall Mount for 27\"-60\" TVs $14.99 + Free Shipping w/ Prime or $6 Fee per Order",
+      "source": "Slickdeals TV search",
+      "reason": "accessory under $100"
+    },
+    {
+      "title": "$10.39 FS PRIME WOOT AC Amazon Fire TV Stick 4K (1st Gen - 2018), brilliant 4K streaming quality, TV and smart home controls, with Alexa Voice Remote (3rd Gen, 2021)",
+      "source": "Slickdeals TV search",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "77'' lg c6h tv $1999.99",
+      "source": "Slickdeals TV search",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "Jason and the Argonauts apple tv",
+      "source": "Slickdeals TV search",
+      "reason": "price under $5"
     },
     {
       "title": "Samsung - 65\" Class S90H OLED 4K Glare-Free TV with SamsungVisionAI (2026)",
@@ -284,9 +269,14 @@
       "reason": "does not match any watch rule"
     },
     {
-      "title": "Hisense - 98\" Class QD5 Hi-QLED Series 4K UHD Smart Fire TV (2026)",
-      "source": "Slickdeals TV search",
-      "reason": "no item price found"
+      "title": "New Woot Members: SwissGear Orientation 16\" Laptop Backpack (Pink) $5 + Free Shipping w/ Prime or $6 Fee per Order",
+      "source": "Slickdeals laptop search",
+      "reason": "accessory under $100"
+    },
+    {
+      "title": "$25 FS PRIME WOOT High Sierra Access 2.0 Laptop Backpack",
+      "source": "Slickdeals laptop search",
+      "reason": "accessory under $100"
     },
     {
       "title": "GIGABYTE A18 Pro 18",
@@ -359,16 +349,6 @@
       "reason": "does not match any watch rule"
     },
     {
-      "title": "Acer Aspire 16in AI Copilot+ Laptop 32GB RAM 1TB SSD Intel Arc",
-      "source": "Slickdeals laptop search",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "GIGABYTE AORUS Elite: 16\" QHD+ IPS 165Hz, Intel Ultra 9 275HX, RTX 5070, 32GB DDR5, 1TB SSD $1679",
-      "source": "Slickdeals laptop search",
-      "reason": "does not match any watch rule"
-    },
-    {
       "title": "Nanit Smart Baby Video Monitor System $299.99",
       "source": "Slickdeals monitor search",
       "reason": "not tech"
@@ -389,16 +369,6 @@
       "reason": "not tech"
     },
     {
-      "title": "$149.99* | 27\" Samsung Odyssey G55C 2560x1440 165Hz 1ms Curved VA Gaming Monitor at Amazon",
-      "source": "Slickdeals monitor search",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "[Prime] $189.52* | QQH Triple Screen Laptop Monitor Extender for 12\"-16\" Laptops at Amazon",
-      "source": "Slickdeals monitor search",
-      "reason": "does not match any watch rule"
-    },
-    {
       "title": "Razer Blade 18 (2026): 18\" UHD+ 240Hz/FHD+ 440Hz, Intel Ultra 9 290HX Plus, RTX 5080, 32GB DDR5, 1TB SSD $3699.99",
       "source": "Slickdeals GPU search",
       "reason": "does not match any watch rule"
@@ -409,59 +379,54 @@
       "reason": "does not match any watch rule"
     },
     {
-      "title": "MSI MPG A1000GS PCIE5 II, Fully Modular Gaming 1000W Power Supply, 80+ Gold, ATX 3.1 & PCIe 5.1 $99.99 - $10 Rebate = $89.99",
-      "source": "Slickdeals GPU search",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "Lenovo Thinkpad Active Stylus Pen 5T70J33309",
-      "source": "Woot",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "HP Active Pen G1 1FH00AA w/ Spare Tips",
+      "title": "HP OfficeJet Pro 8138e Color Printer",
       "source": "Woot",
       "reason": "not tech"
     },
     {
-      "title": "Apple iPhone 16 Pro Max Silicone MagSafe Case (New-Open Box)",
+      "title": "BENFEI Laptop Stand W/Ethernet",
       "source": "Woot",
       "reason": "accessory under $100"
     },
     {
-      "title": "Apple iPhone 16 Pro Max Case MagSafe (New-Open Box)",
+      "title": "LEOBOG Aula F99 Gaming Keyboard",
       "source": "Woot",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "Apple iPhone 17 Pro Max Clear MagSafe Case (New-Open Box)",
-      "source": "Woot",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "Apple Watch Band - Magnetic Link (New Open Box)",
-      "source": "Woot",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "Apple Watch Sport Band (New-Open Box)",
-      "source": "Woot",
-      "reason": "accessory under $100"
-    },
-    {
-      "title": "6-Pack: Zesty Paws All-in-One Training Bites 6 for $14.99",
-      "source": "Meh daily deal",
       "reason": "does not match any watch rule"
+    },
+    {
+      "title": "Amazon Fire TV Stick 4K Max (2021) with Remote (3rd Gen)",
+      "source": "Woot",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "(NEW) Amazon Echo Spot (2024 release)",
+      "source": "Woot",
+      "reason": "not tech"
+    },
+    {
+      "title": "Echo Show 8 (1st Gen) (Scratch & Dent)",
+      "source": "Woot",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "GUMENA Presentation Clicker Presenter",
+      "source": "Woot",
+      "reason": "not tech"
+    },
+    {
+      "title": "Ring Outdoor Stick Up Cam - 3rd Gen (2019 release)",
+      "source": "Woot",
+      "reason": "not tech"
+    },
+    {
+      "title": "HBN 20-Bar Compact Espresso Machine with Milk Frother & Steam Wand $49.99",
+      "source": "Meh daily deal",
+      "reason": "not tech"
     },
     {
       "title": "Prouder Mage AI Voice Recorder for $55 + free shipping",
       "source": "DealNews Electronics",
       "reason": "not tech"
-    },
-    {
-      "title": "Amazon Black Friday Sale Today's Big Deals: Up to 60% off + free shipping w/ Prime",
-      "source": "DealNews Electronics",
-      "reason": "multi-item roundup / sale event"
     },
     {
       "title": "Household Current Regulator Device 6-Pack for $19 + free shipping w/ Prime",
@@ -479,14 +444,14 @@
       "reason": "multi-item roundup / sale event"
     },
     {
-      "title": "SeekBox S3 Pro 4K Streaming Device for $159 + free shipping",
-      "source": "DealNews Electronics",
-      "reason": "does not match any watch rule"
-    },
-    {
       "title": "GetD AI Smart Glasses for $20 + free shipping w/ Prime",
       "source": "DealNews Electronics",
       "reason": "not tech"
+    },
+    {
+      "title": "SeekBox S3 Pro 4K Streaming Device for $159 + free shipping",
+      "source": "DealNews Electronics",
+      "reason": "does not match any watch rule"
     },
     {
       "title": "Hollyland Lark A2 Wireless Microphone System for $27 + free shipping w/ Prime",
@@ -539,7 +504,7 @@
       "reason": "multi-item roundup / sale event"
     },
     {
-      "title": "AliExpress Black Friday Sale: Up to 90% off + extra $3 to $180 off + free shipping",
+      "title": "Amazon Black Friday Doorbusters: Up to 80% off + free shipping w/ Prime",
       "source": "DealNews Electronics",
       "reason": "multi-item roundup / sale event"
     },
@@ -574,34 +539,9 @@
       "reason": "multi-item roundup / sale event"
     },
     {
-      "title": "Holiday Finds Apple Accessories Edition Deals at Woot for From $12 + free shipping w/ Prime",
-      "source": "DealNews Electronics",
-      "reason": "multi-item roundup / sale event"
-    },
-    {
-      "title": "Apple MacBooks, iPads & More Sale at Woot: Up to 60% off + extra 10% off + free shipping w/ Prime",
-      "source": "DealNews Electronics",
-      "reason": "multi-item roundup / sale event"
-    },
-    {
-      "title": "GE 6-Outlet Power Strip 2-Pack for $6 + free shipping w/ Prime",
+      "title": "Memoket Gem Wearable AI Voice Recorder for $143 + free shipping",
       "source": "DealNews Electronics",
       "reason": "not tech"
-    },
-    {
-      "title": "Dual 12\" Karaoke Machine & Powered PA System w/ Bluetooth for $200 + free shipping",
-      "source": "DealNews Electronics",
-      "reason": "not tech"
-    },
-    {
-      "title": "SmallRig 6,800mAh V Mount Battery for $140 + free shipping",
-      "source": "DealNews Electronics",
-      "reason": "not tech"
-    },
-    {
-      "title": "Ultra Mobile Ultra-Early Access Savings for 50% off plans, from $6.50/mo. + free shipping",
-      "source": "DealNews Electronics",
-      "reason": "subscription / license"
     },
     {
       "title": "Open-Box Samsung Galaxy Tab A11+ 11\" 128GB WiFi Tablet for $180 + free shipping",
@@ -624,6 +564,11 @@
       "reason": "not tech"
     },
     {
+      "title": "VideoProc Converter AI Lifetime License Black Friday Deal: Up to 65% off + digital delivery",
+      "source": "DealNews Computers",
+      "reason": "multi-item roundup / sale event"
+    },
+    {
       "title": "Epson WorkForce Pro WF-4935 Wireless All-in-One Printer for $150 + free shipping",
       "source": "DealNews Computers",
       "reason": "not tech"
@@ -632,11 +577,6 @@
       "title": "Epson Printers & Projectors Black Friday Deals at Amazon: Up to 46% off + free shipping w/ Prime",
       "source": "DealNews Computers",
       "reason": "multi-item roundup / sale event"
-    },
-    {
-      "title": "Microsoft Visual Studio 2026 Professional (Lifetime License, 1 PC) for $30 + digital delivery",
-      "source": "DealNews Computers",
-      "reason": "subscription / license"
     },
     {
       "title": "Anker 25,000mAh Laptop Power Bank for $91 + free shipping",
@@ -659,9 +599,19 @@
       "reason": "does not match any watch rule"
     },
     {
-      "title": "Microsoft Bundle: Windows 11 Pro + Office Professional 2024 + Visio 2024 Professional (Bonus: Visio Templates) for $15 + digital delivery",
-      "source": "DealNews Computers",
-      "reason": "not tech"
+      "title": "Amazon 2026 Black Friday Week – Day 4: Switch 2 bundle and games, AirPods Pro 3 even lower, more",
+      "source": "9to5Toys",
+      "reason": "multi-item roundup / sale event"
+    },
+    {
+      "title": "Hello! AirPods Pro 3 drop even lower to $169 for Black Friday ($80 off)",
+      "source": "9to5Toys",
+      "reason": "does not match any watch rule"
+    },
+    {
+      "title": "Nintendo 2026 Black Friday sale live today! Rare Switch 2 game deals, console bundle, more",
+      "source": "9to5Toys",
+      "reason": "multi-item roundup / sale event"
     },
     {
       "title": "All Apple Watch Series 12 models hit Black Friday all-time lows at $70 off",
@@ -674,7 +624,7 @@
       "reason": "coupon/discount only, no item price"
     },
     {
-      "title": "Best Black Friday weekend Apple deals: MacBooks, Watch, new iPad mini, AirPods, more",
+      "title": "Best Black Friday weekend Apple deals: AirPods Pro 3 even lower, MacBooks, Watch, new iPad mini, more [Updated]",
       "source": "9to5Toys",
       "reason": "multi-item roundup / sale event"
     },
@@ -877,26 +827,6 @@
       "title": "Folding magnetic Apple Watch or AirPods charging dock hits $17",
       "source": "9to5Toys",
       "reason": "accessory under $100"
-    },
-    {
-      "title": "Swap your jeans for comfortable stretch golf pants priced from $24",
-      "source": "9to5Toys",
-      "reason": "not tech"
-    },
-    {
-      "title": "It’s too good to pass up this DJI Osmo Pocket 3 vlogging camera deal at $373 for Black Friday (Amazon low)",
-      "source": "9to5Toys",
-      "reason": "does not match any watch rule"
-    },
-    {
-      "title": "Keep a pair of Bruno Marc’s Oxford-style dress shoes handy at $32.50 (Reg. $40)",
-      "source": "9to5Toys",
-      "reason": "not tech"
-    },
-    {
-      "title": "Stay warm without the bulk in this fleece quarter-zip at $19 (Reg. $30)",
-      "source": "9to5Toys",
-      "reason": "not tech"
     }
   ]
 }
