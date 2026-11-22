@@ -1,5 +1,117 @@
 [
   {
+    "id": "sd-popular-1795338403000-3999hotwheelsinfiniterus",
+    "fingerprint": "amazon|39.99|3999hotwheelsinfiniterushnintendoswitch2atamazon",
+    "title": "$39.99 | Hot Wheels: Infinite Rush (Nintendo Switch 2) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 39.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $39.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20368389-39-99-hot-wheels-infinite-rush-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20368389-39-99-hot-wheels-infinite-rush-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T22:38:04.924Z",
+    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795340047000-3999thecrewmotorfestnint",
+    "fingerprint": "amazon|39.99|3999thecrewmotorfestnintendoswitch2atamazon",
+    "title": "$39.99: The Crew Motorfest - Nintendo Switch 2 at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 39.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $39.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20368524-39-99-the-crew-motorfest-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20368524-39-99-the-crew-motorfest-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T22:38:04.924Z",
+    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795380085000-55philipshueplaygradient",
+    "fingerprint": "amazon|125.99|55philipshueplaygradientmulticolorledsmarttvlightstrip12599freeshipping",
+    "title": "55\" Philips Hue Play Gradient Multicolor LED Smart TV Light Strip $125.99 + Free Shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 125.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "55\" TV at $125.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20371599-55-philips-hue-play-gradient-multicolor-led-smart-tv-light-strip-125-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20371599-55-philips-hue-play-gradient-multicolor-led-smart-tv-light-strip-125-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T22:38:04.924Z",
+    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795385595000-metalgearsolidmastercoll",
+    "fingerprint": "amazon|30.00|metalgearsolidmastercollectionvol2switch230",
+    "title": "Metal Gear Solid: Master Collection Vol. 2 (Switch 2) $30",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $30.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20369496-metal-gear-solid-master-collection-vol-2-switch-2-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20369496-metal-gear-solid-master-collection-vol-2-switch-2-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-22T22:38:04.924Z",
+    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1795365854000-donkeykongbananzaswitch2",
     "fingerprint": "target|50.00|donkeykongbananzaswitch250freesh",
     "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
@@ -1303,118 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20312796-19-99-star-wars-dark-forces-remaster-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-18T09:54:19.754Z",
     "triggeredAtPT": "Nov 18, 2026, 1:54:19 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794993503000-theofficethecompleteseri",
-    "fingerprint": "apple|49.99|theofficethecompleteseriessuperfanextendedepisodescollection2005digitalhdtvshow4",
-    "title": "The Office: The Complete Series: Superfan Extended Episodes Collection (2005) (Digital HD TV Show) $49.99 via AppleTV",
-    "retailer": "Apple",
-    "store": "Apple",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 49.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $49.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20332461-the-office-the-complete-series-superfan-extended-episodes-collection-2005-digital-hd-tv-show-49-99-via-appletv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20332461-the-office-the-complete-series-superfan-extended-episodes-collection-2005-digital-hd-tv-show-49-99-via-appletv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-18T09:54:19.754Z",
-    "triggeredAtPT": "Nov 18, 2026, 1:54:19 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794981053000-grandtheftautothetrilogy",
-    "fingerprint": "walmart|20.00|grandtheftautothetrilogydefinitiveeditionnintendoswitch20",
-    "title": "Grand Theft Auto: The Trilogy Definitive Edition (Nintendo Switch) $20",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 20,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $20.00 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20325489-grand-theft-auto-the-trilogy-definitive-edition-nintendo-switch-20-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20325489-grand-theft-auto-the-trilogy-definitive-edition-nintendo-switch-20-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-18T09:54:19.754Z",
-    "triggeredAtPT": "Nov 18, 2026, 1:54:19 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1794960432000-68onn32inclass720phdsmar",
-    "fingerprint": "walmart|68.00|68onn32inclass720phdsmarttvpoweredbyvizio32s2v1",
-    "title": "$68 onn 32 in Class 720p HD Smart TV Powered by VIZIO, 32S2V1",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 68,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $68.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20330274-68-onn-32-in-class-720p-hd-smart-tv-powered-by-vizio-32s2v1?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20330274-68-onn-32-in-class-720p-hd-smart-tv-powered-by-vizio-32s2v1?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-18T01:58:47.152Z",
-    "triggeredAtPT": "Nov 17, 2026, 5:58:47 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794966743000-highonlife2nintendoswitc",
-    "fingerprint": "amazon|30.00|highonlife2nintendoswitch2gamekeycard30",
-    "title": "High on Life 2 (Nintendo Switch 2, Game-Key Card) $30",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 30,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $30.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20326380-29-99-high-on-life-2-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20326380-29-99-high-on-life-2-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-18T01:58:47.152Z",
-    "triggeredAtPT": "Nov 17, 2026, 5:58:47 PM PST",
     "discordStatus": "no-webhook"
   }
 ]
