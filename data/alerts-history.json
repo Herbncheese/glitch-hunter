@@ -1,5 +1,61 @@
 [
   {
+    "id": "sd-laptop-1795389075000-selorelaptopdockingstati",
+    "fingerprint": "amazon|63.99|selorelaptopdockingstation3monitorstriple4kdisplay3hdmi2dp6399",
+    "title": "Selore Laptop Docking Station 3 Monitors Triple 4K Display 3 HDMI 2 DP $63.99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 63.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $63.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20372178-selore-laptop-docking-station-3-monitors-triple-4k-display-3-hdmi-2-dp-63-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20372178-selore-laptop-docking-station-3-monitors-triple-4k-display-3-hdmi-2-dp-63-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-23T03:06:21.516Z",
+    "triggeredAtPT": "Nov 22, 2026, 7:06:21 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795396395000-heroestvshowcompletebund",
+    "fingerprint": "lowes|20.00|heroestvshowcompletebundledigital20",
+    "title": "Heroes TV show complete bundle digital $20",
+    "retailer": "Lowe's",
+    "store": "Lowe's",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 20,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $20.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20372652-heroes-tv-show-complete-bundle-digital-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20372652-heroes-tv-show-complete-bundle-digital-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-23T03:06:21.516Z",
+    "triggeredAtPT": "Nov 22, 2026, 7:06:21 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795338403000-3999hotwheelsinfiniterus",
     "fingerprint": "amazon|39.99|3999hotwheelsinfiniterushnintendoswitch2atamazon",
     "title": "$39.99 | Hot Wheels: Infinite Rush (Nintendo Switch 2) at Amazon",
@@ -1357,62 +1413,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://slickdeals.net/f/20325639-nickelodeon-extreme-tennis-next-nintendo-switch-17-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20325639-nickelodeon-extreme-tennis-next-nintendo-switch-17-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-18T09:54:19.754Z",
-    "triggeredAtPT": "Nov 18, 2026, 1:54:19 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794991450000-hitmanworldofassassinati",
-    "fingerprint": "bestbuy|30.00|hitmanworldofassassinationsignatureeditionnintendoswitch230freesh",
-    "title": "Hitman: World of Assassination Signature Edition (Nintendo Switch 2) $30 + Free S&H",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 30,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $30.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20327424-hitman-world-of-assassination-signature-edition-nintendo-switch-2-29-99-best-buy-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20327424-hitman-world-of-assassination-signature-edition-nintendo-switch-2-29-99-best-buy-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-18T09:54:19.754Z",
-    "triggeredAtPT": "Nov 18, 2026, 1:54:19 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1794981232000-starwarsdarkforcesremast",
-    "fingerprint": "amazon|20.00|starwarsdarkforcesremasterps520",
-    "title": "Star Wars: Dark Forces Remaster (PS5) $20",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 20,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $20.00 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20312796-19-99-star-wars-dark-forces-remaster-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20312796-19-99-star-wars-dark-forces-remaster-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-18T09:54:19.754Z",
     "triggeredAtPT": "Nov 18, 2026, 1:54:19 AM PST",
     "discordStatus": "no-webhook"
