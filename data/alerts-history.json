@@ -1,5 +1,173 @@
 [
   {
+    "id": "dealnews-electronics-1795470123000-insignia401080pledsmartf",
+    "fingerprint": "amazon|85.00|insignia401080pledsmartfiretvfor85freeshipping",
+    "title": "Insignia 40\" 1080p LED Smart Fire TV for $85 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Electronics",
+    "price": 85,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $85.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/products/Insignia/Insignia-40-1080-p-LED-Smart-Fire-TV/492699.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/products/Insignia/Insignia-40-1080-p-LED-Smart-Fire-TV/492699.html?iref=rss-c142",
+    "triggeredAt": "2026-11-24T00:05:04.890Z",
+    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795454171000-hiro554kuhdhdrsmarttvwit",
+    "fingerprint": "target|149.99|hiro554kuhdhdrsmarttvwithrokutv14999",
+    "title": "Hiro 55\" 4K UHD HDR Smart TV with Roku TV $149.99",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 149.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "55\" TV at $149.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20378862-hiro-55-4k-uhd-hdr-smart-tv-with-roku-tv-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20378862-hiro-55-4k-uhd-hdr-smart-tv-with-roku-tv-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-24T00:05:04.890Z",
+    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795316102000-2499persona5royalstandar",
+    "fingerprint": "bestbuy|24.99|2499persona5royalstandardeditionnintendoswitchbestbuy",
+    "title": "$24.99: Persona 5 Royal Standard Edition - Nintendo Switch @ Best Buy",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 24.99,
+    "was": 59.99,
+    "discountPercent": 58,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $24.99 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20366757-24-99-persona-5-royal-standard-edition-nintendo-switch-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20366757-24-99-persona-5-royal-standard-edition-nintendo-switch-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-24T00:05:04.890Z",
+    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "9to5toys-1795442136000-samsungsswitch2compatibl",
+    "fingerprint": "amazon|44.99|samsungsswitch2compatibleexpressmicrosdcardsarenearly50offforblackfridayweek",
+    "title": "Samsung’s Switch 2-compatible Express microSD cards are nearly 50% off for Black Friday Week",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "9to5Toys",
+    "price": 44.99,
+    "was": 89.98,
+    "discountPercent": 50,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $44.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://9to5toys.com/2026/11/23/samsung-switch-2-compatible-express-microsd-cards-are-nearly-50-off/",
+    "sourceUrl": "https://9to5toys.com/2026/11/23/samsung-switch-2-compatible-express-microsd-cards-are-nearly-50-off/",
+    "triggeredAt": "2026-11-24T00:05:04.890Z",
+    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795430509000-supermariopartyjamboreej",
+    "fingerprint": "walmart|30.00|supermariopartyjamboreejamboreetvswitch2digitaldownload30",
+    "title": "Super Mario Party Jamboree + Jamboree TV (Switch 2 Digital Download) $30",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $30.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20375823-super-mario-party-jamboree-jamboree-tv-switch-2-digital-download-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20375823-super-mario-party-jamboree-jamboree-tv-switch-2-digital-download-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-24T00:05:04.890Z",
+    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-electronics-1795453943000-beatsstudioprowirelessno",
+    "fingerprint": "bestbuy|99.00|beatsstudioprowirelessnoisecancellingoverearheadphonesfor99freeshipping",
+    "title": "Beats Studio Pro Wireless Noise Cancelling Over-Ear Headphones for $99 + free shipping",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "DealNews Electronics",
+    "price": 99,
+    "was": 299,
+    "discountPercent": 67,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "67% off new tech with usual price $299.00 (≥ 65% off, usual ≥ $100)"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/products/Beats/Beats-Studio-Pro-Wireless-Noise-Cancelling-Over-Ear-Headphones/562849.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/products/Beats/Beats-Studio-Pro-Wireless-Noise-Cancelling-Over-Ear-Headphones/562849.html?iref=rss-c142",
+    "triggeredAt": "2026-11-24T00:05:04.890Z",
+    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795421772000-5319diabloivageofhatredc",
     "fingerprint": "amazon|53.19|5319diabloivageofhatredcollectionnintendoswitch2codeinaboxatamazon",
     "title": "$53.19: Diablo IV | Age of Hatred Collection | Nintendo Switch 2 [Code in a Box] at Amazon",
@@ -1247,174 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20344875-live-until-11-21-hiro-roku-tv-43-1080p-full-hd-smart-tv-flat-screen-led-television-with-roku-tv-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "triggeredAt": "2026-11-19T17:09:08.037Z",
     "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795105018000-peanuts75thanniversaryul",
-    "fingerprint": "amazon|44.99|peanuts75thanniversaryultimatetvspecialscollectionbluray4499amazoncom",
-    "title": "Peanuts: 75th Anniversary Ultimate TV Specials Collection Blu Ray $44.99 Amazon.com",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 44.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $44.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20346570-peanuts-75th-anniversary-ultimate-tv-specials-collection-blu-ray-44-99-amazon-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20346570-peanuts-75th-anniversary-ultimate-tv-specials-collection-blu-ray-44-99-amazon-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T17:09:08.037Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "dealnews-electronics-1795082954000-hisenseqd5series98qd5sf9",
-    "fingerprint": "bestbuy|800.00|hisenseqd5series98qd5sf984khiqledsmartfiretvfor800freeshipping",
-    "title": "Hisense QD5 Series 98QD5SF 98\" 4K Hi-QLED Smart Fire TV for $800 + free shipping",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "DealNews Electronics",
-    "price": 800,
-    "was": 2500,
-    "discountPercent": 68,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "68% off new tech with usual price $2500.00 (≥ 65% off, usual ≥ $100)"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://www.dealnews.com/Hisense-QD5-Series-98-QD5-SF-98-4-K-Hi-QLED-Smart-Fire-TV-for-800-free-shipping/22411165.html?iref=rss-c142",
-    "sourceUrl": "https://www.dealnews.com/Hisense-QD5-Series-98-QD5-SF-98-4-K-Hi-QLED-Smart-Fire-TV-for-800-free-shipping/22411165.html?iref=rss-c142",
-    "triggeredAt": "2026-11-19T17:09:08.036Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795032567000-sylvox156smarttvforkitch",
-    "fingerprint": "amazon|99.00|sylvox156smarttvforkitchen1080p12vdcacpoweredrotatedfoldedsavespacegoogleos99",
-    "title": "SYLVOX 15.6\" Smart TV for Kitchen, 1080P, 12V DC AC Powered, Rotated & Folded Save Space, Google OS $99",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $99.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20335704-sylvox-15-6-smart-tv-for-kitchen-1080p-12v-dc-ac-powered-rotated-folded-save-space-google-os-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20335704-sylvox-15-6-smart-tv-for-kitchen-1080p-12v-dc-ac-powered-rotated-folded-save-space-google-os-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T07:57:53.791Z",
-    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-laptop-1795051159000-relatablescratchpadproca",
-    "fingerprint": "amazon|17.17|relatablescratchpadprocardboardlaptopcatscratcher1717amazon",
-    "title": "Relatable ScratchPad Pro Cardboard Laptop Cat Scratcher $17.17 - Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals laptop search",
-    "price": 17.17,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Laptop (not an accessory) at $17.17 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20337063-relatable-scratchpad-pro-cardboard-laptop-cat-scratcher-17-17-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20337063-relatable-scratchpad-pro-cardboard-laptop-cat-scratcher-17-17-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T07:57:53.791Z",
-    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795052909000-sylvox156undercabinet12v",
-    "fingerprint": "amazon|99.00|sylvox156undercabinet12vkitchentv90flipdowndesignsupportsarccec90degreerotation9",
-    "title": "SYLVOX 15.6\" Under-Cabinet 12V Kitchen TV, 90° Flip-Down Design, Supports ARC & CEC, 90-Degree Rotation $99",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $99.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20337189-sylvox-15-6-under-cabinet-12v-kitchen-tv-90-flip-down-design-supports-arc-cec-90-degree-rotation-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20337189-sylvox-15-6-under-cabinet-12v-kitchen-tv-90-flip-down-design-supports-arc-cec-90-degree-rotation-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T07:57:53.791Z",
-    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795072432000-residentevilrequiemps5xb",
-    "fingerprint": "bestbuy|40.00|residentevilrequiemps5xboxseriesxornintendoswitch240freesh",
-    "title": "Resident Evil Requiem (PS5, Xbox Series X or Nintendo Switch 2) $40 + Free S&H",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 40,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $40.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20338563-capcom-resident-evil-requiem-ps5-or-xbox-series-x-39-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20338563-capcom-resident-evil-requiem-ps5-or-xbox-series-x-39-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T07:57:53.791Z",
-    "triggeredAtPT": "Nov 18, 2026, 11:57:53 PM PST",
     "discordStatus": "no-webhook"
   }
 ]
