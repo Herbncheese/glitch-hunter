@@ -1,5 +1,89 @@
 [
   {
+    "id": "sd-tv-1795491940000-targetbfdealhirorokutv32",
+    "fingerprint": "target|69.99|targetbfdealhirorokutv32720phdsmarttvflatscreenledtelevisionwithrokutvanddolbyau",
+    "title": "TARGET BF DEAL! Hiro Roku TV 32\" 720p HD Smart TV Flat Screen LED Television with Roku TV and Dolby Audio for Streaming $69.99",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 69.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $69.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20383206-target-bf-deal-hiro-roku-tv-32-720p-hd-smart-tv-flat-screen-led-television-with-roku-tv-and-dolby-audio-for-streaming-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20383206-target-bf-deal-hiro-roku-tv-32-720p-hd-smart-tv-flat-screen-led-television-with-roku-tv-and-dolby-audio-for-streaming-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-24T09:44:50.463Z",
+    "triggeredAtPT": "Nov 24, 2026, 1:44:50 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795491930000-topvisionsoundbarfortv50",
+    "fingerprint": "walmart|24.99|topvisionsoundbarfortv50wbluetooth54soundbarwithsubwoofer3dsurroundsoundsystemwi",
+    "title": "TOPVISION Sound Bar for TV, 50W Bluetooth 5.4 Soundbar with Subwoofer, 3D Surround Sound System with Optical/AUX/RCA/USB $24.99",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 24.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $24.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20383200-topvision-sound-bar-for-tv-50w-bluetooth-5-4-soundbar-with-subwoofer-3d-surround-sound-system-with-optical-aux-rca-usb-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20383200-topvision-sound-bar-for-tv-50w-bluetooth-5-4-soundbar-with-subwoofer-3d-surround-sound-system-with-optical-aux-rca-usb-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-24T09:44:50.463Z",
+    "triggeredAtPT": "Nov 24, 2026, 1:44:50 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795508341000-kirbyairridersswitch2dig",
+    "fingerprint": "amazon|30.00|kirbyairridersswitch2digitaldownload30",
+    "title": "Kirby Air Riders (Switch 2 Digital Download) $30",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $30.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20381268-kirby-air-riders-switch-2-digital-download-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20381268-kirby-air-riders-switch-2-digital-download-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-24T09:44:50.463Z",
+    "triggeredAtPT": "Nov 24, 2026, 1:44:50 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "dealnews-electronics-1795470123000-insignia401080pledsmartf",
     "fingerprint": "amazon|85.00|insignia401080pledsmartfiretvfor85freeshipping",
     "title": "Insignia 40\" 1080p LED Smart Fire TV for $85 + free shipping",
@@ -1329,90 +1413,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://slickdeals.net/f/20340993-40-insignia-f40-series-1080p-led-smart-fire-tv-84-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20340993-40-insignia-f40-series-1080p-led-smart-fire-tv-84-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T17:09:08.037Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-laptop-1795084219000-mnn1561080pportablemonit",
-    "fingerprint": "amazon|39.99|mnn1561080pportablemonitoripsusbchdmigamingscreenforlaptop156fhdipshdrusbconecab",
-    "title": "MNN 15.6\" 1080P Portable Monitor IPS USB-C HDMI Gaming Screen for Laptop | 15.6\" FHD IPS HDR, USB-C one-cable, PC/Mac/Phone/Switch, Smart Case,Laptop , low blue, work&game $39.99",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals laptop search",
-    "price": 39.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Laptop (not an accessory) at $39.99 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20342232-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop-15-6-fhd-ips-hdr-usb-c-one-cable-pc-mac-phone-switch-smart-case-laptop-low-blue-work-game-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20342232-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop-15-6-fhd-ips-hdr-usb-c-one-cable-pc-mac-phone-switch-smart-case-laptop-low-blue-work-game-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T17:09:08.037Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795086630000-32rokuselectseries1080ps",
-    "fingerprint": "amazon|99.99|32rokuselectseries1080psmarttv2026wvoiceremote9999",
-    "title": "32\" Roku Select Series 1080p Smart TV (2026) w/ Voice Remote $99.99",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 99.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $99.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20342697-32-roku-select-series-1080p-smart-tv-2026-w-voice-remote-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20342697-32-roku-select-series-1080p-smart-tv-2026-w-voice-remote-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T17:09:08.037Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795097547000-liveuntil1121hirorokutv4",
-    "fingerprint": "target|89.99|liveuntil1121hirorokutv431080pfullhdsmarttvflatscreenledtelevisionwithrokutv8999",
-    "title": "**LIVE Until 11/21** Hiro Roku TV 43\" 1080p Full HD Smart TV Flat Screen LED Television with Roku TV $89.99",
-    "retailer": "Target",
-    "store": "Target",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 89.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $89.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20344875-live-until-11-21-hiro-roku-tv-43-1080p-full-hd-smart-tv-flat-screen-led-television-with-roku-tv-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20344875-live-until-11-21-hiro-roku-tv-43-1080p-full-hd-smart-tv-flat-screen-led-television-with-roku-tv-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "triggeredAt": "2026-11-19T17:09:08.037Z",
     "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
     "discordStatus": "no-webhook"
