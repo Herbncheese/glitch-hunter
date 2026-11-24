@@ -1,5 +1,145 @@
 [
   {
+    "id": "dealnews-electronics-1795550364000-tcl40q3cr1080pqledsmartt",
+    "fingerprint": "bestbuy|100.00|tcl40q3cr1080pqledsmarttvwithrokufor100freeshipping",
+    "title": "TCL 40\" Q3CR 1080p QLED Smart TV with Roku for $100 + free shipping",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "DealNews Electronics",
+    "price": 100,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $100.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/products/TCL/TCL-40-Q3-CR-1080-p-QLED-Smart-TV-with-Roku/553153.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/products/TCL/TCL-40-Q3-CR-1080-p-QLED-Smart-TV-with-Roku/553153.html?iref=rss-c142",
+    "triggeredAt": "2026-11-24T20:22:26.138Z",
+    "triggeredAtPT": "Nov 24, 2026, 12:22:26 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795547015000-43onn1080pfhdviziosmartt",
+    "fingerprint": "walmart|89.00|43onn1080pfhdviziosmarttv89freesh",
+    "title": "43\" onn 1080p FHD Vizio Smart TV $89 + Free S&H",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 89,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $89.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20373999-89-walmart-onn-43-class-1080p-fhd-smart-tv-powered-by-vizio-43s3vsb1?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20373999-89-walmart-onn-43-class-1080p-fhd-smart-tv-powered-by-vizio-43s3vsb1?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-24T20:22:26.138Z",
+    "triggeredAtPT": "Nov 24, 2026, 12:22:26 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "woot-1795536915994-tryxflovawhitemidtowerat",
+    "fingerprint": "woot|51.99|tryxflovawhitemidtoweratxpccase",
+    "title": "TRYX FLOVA White Mid-Tower ATX PC Case",
+    "retailer": "Woot",
+    "store": "Woot",
+    "sourceChannel": "Woot",
+    "price": 51.99,
+    "was": 99.99,
+    "discountPercent": 48,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Desktop (not an accessory) at $51.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://computers.woot.com/offers/tryx-flova-white-mid-tower-atx-pc-case",
+    "sourceUrl": "https://computers.woot.com/offers/tryx-flova-white-mid-tower-atx-pc-case",
+    "triggeredAt": "2026-11-24T20:22:26.138Z",
+    "triggeredAtPT": "Nov 24, 2026, 12:22:26 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "woot-1795547852997-monolitht4auditionseries",
+    "fingerprint": "woot|89.99|monolitht4auditionseriestowerspeaker",
+    "title": "Monolith T4 Audition Series Tower Speaker",
+    "retailer": "Woot",
+    "store": "Woot",
+    "sourceChannel": "Woot",
+    "price": 89.99,
+    "was": 199.99,
+    "discountPercent": 55,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Desktop (not an accessory) at $89.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://electronics.woot.com/offers/monolith-t4-audition-series-tower-speaker",
+    "sourceUrl": "https://electronics.woot.com/offers/monolith-t4-audition-series-tower-speaker",
+    "triggeredAt": "2026-11-24T20:22:26.138Z",
+    "triggeredAtPT": "Nov 24, 2026, 12:22:26 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-computers-1795538104000-googlenestwifipro6eaxe54",
+    "fingerprint": "bestbuy|70.00|googlenestwifipro6eaxe5400meshrouterfor70freeshipping",
+    "title": "Google Nest Wifi Pro 6E AXE5400 Mesh Router for $70 + free shipping",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "DealNews Computers",
+    "price": 70,
+    "was": 200,
+    "discountPercent": 65,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "65% off new tech with usual price $200.00 (≥ 65% off, usual ≥ $100)"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/Google-Nest-Wifi-Pro-6-E-AXE5400-Mesh-Router-for-70-free-shipping/22428179.html?iref=rss-c39",
+    "sourceUrl": "https://www.dealnews.com/Google-Nest-Wifi-Pro-6-E-AXE5400-Mesh-Router-for-70-free-shipping/22428179.html?iref=rss-c39",
+    "triggeredAt": "2026-11-24T20:22:26.138Z",
+    "triggeredAtPT": "Nov 24, 2026, 12:22:26 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1795491940000-targetbfdealhirorokutv32",
     "fingerprint": "target|69.99|targetbfdealhirorokutv32720phdsmarttvflatscreenledtelevisionwithrokutvanddolbyau",
     "title": "TARGET BF DEAL! Hiro Roku TV 32\" 720p HD Smart TV Flat Screen LED Television with Roku TV and Dolby Audio for Streaming $69.99",
@@ -1275,146 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20340009-unicorn-overlord-nintendo-switch-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-20T04:14:45.908Z",
     "triggeredAtPT": "Nov 19, 2026, 8:14:45 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795083120000-2999reanimaldeluxeeditio",
-    "fingerprint": "amazon|29.99|2999reanimaldeluxeeditionamazonexclusivenintendoswitch2atamazon",
-    "title": "$29.99 | REANIMAL: Deluxe Edition - Amazon Exclusive (Nintendo Switch 2) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 29.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $29.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20342028-29-99-reanimal-deluxe-edition-amazon-exclusive-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20342028-29-99-reanimal-deluxe-edition-amazon-exclusive-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T23:34:05.522Z",
-    "triggeredAtPT": "Nov 19, 2026, 3:34:05 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795115186000-sylvox156undercabinetkit",
-    "fingerprint": "amazon|99.00|sylvox156undercabinetkitchentvnonsmart1080pfhdsmalltvfoldablewith90rotation99",
-    "title": "SYLVOX 15.6\" Under Cabinet Kitchen TV, Non-Smart 1080P FHD Small TV, Foldable with 90° Rotation $99",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $99.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20348547-sylvox-15-6-under-cabinet-kitchen-tv-non-smart-1080p-fhd-small-tv-foldable-with-90-rotation-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20348547-sylvox-15-6-under-cabinet-kitchen-tv-non-smart-1080p-fhd-small-tv-foldable-with-90-rotation-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T23:34:05.522Z",
-    "triggeredAtPT": "Nov 19, 2026, 3:34:05 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "9to5toys-1795105637000-sandisks256gbswitch2comp",
-    "fingerprint": "amazon|50.00|sandisks256gbswitch2compatibleexpressmicrosdcardjusthitanew50alltimelowforblackf",
-    "title": "SanDisk’s 256GB Switch 2-compatible Express microSD card just hit a new $50 all-time low for Black Friday",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "9to5Toys",
-    "price": 50,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $50.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://9to5toys.com/2026/11/19/sandisk-256gb-switch-2-compatible-express-microsd-card-new-all-time-low-2/",
-    "sourceUrl": "https://9to5toys.com/2026/11/19/sandisk-256gb-switch-2-compatible-express-microsd-card-new-all-time-low-2/",
-    "triggeredAt": "2026-11-19T17:09:08.037Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795104709000-assassinscreedshadowssta",
-    "fingerprint": "amazon|20.80|assassinscreedshadowsstandardeditionnintendoswitch2208",
-    "title": "Assassin’s Creed Shadows - Standard Edition, Nintendo Switch 2 $20.8",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 20.8,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $20.80 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20346498-assassin-s-creed-shadows-standard-edition-nintendo-switch-2-20-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20346498-assassin-s-creed-shadows-standard-edition-nintendo-switch-2-20-8?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T17:09:08.037Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795078902000-40insigniaf40series1080p",
-    "fingerprint": "amazon|84.98|40insigniaf40series1080pledsmartfiretv8498freeshipping",
-    "title": "40\" Insignia F40 Series 1080p LED Smart Fire TV $84.98 + Free Shipping",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 84.98,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $84.98 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20340993-40-insignia-f40-series-1080p-led-smart-fire-tv-84-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20340993-40-insignia-f40-series-1080p-led-smart-fire-tv-84-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-19T17:09:08.037Z",
-    "triggeredAtPT": "Nov 19, 2026, 9:09:08 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
