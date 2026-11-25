@@ -1,5 +1,151 @@
 [
   {
+    "id": "dealnews-electronics-1795617702000-ollratvledbacklightwithc",
+    "fingerprint": "amazon|47.00|ollratvledbacklightwithcamerafor40to50tvsfor47freeshipping",
+    "title": "Ollra TV LED Backlight with Camera for 40\" to 50\" TVs for $47 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Electronics",
+    "price": 47,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $47.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/Ollra-TV-LED-Backlight-with-Camera-for-40-to-50-TVs-for-47-free-shipping/22431029.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/Ollra-TV-LED-Backlight-with-Camera-for-40-to-50-TVs-for-47-free-shipping/22431029.html?iref=rss-c142",
+    "triggeredAt": "2026-11-25T22:41:22.035Z",
+    "triggeredAtPT": "Nov 25, 2026, 2:41:22 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795624817000-supermariopartyjamboreen",
+    "fingerprint": "walmart|30.00|supermariopartyjamboreenintendoswitch2editionjamboreetvusversionymmv30",
+    "title": "Super Mario Party Jamboree - Nintendo Switch 2 Edition + Jamboree TV - U.S. Version YMMV $30",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $30.00 < $499"
+      },
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $30.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch",
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20395800-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-u-s-version-ymmv-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20395800-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-u-s-version-ymmv-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-25T22:41:22.035Z",
+    "triggeredAtPT": "Nov 25, 2026, 2:41:22 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-electronics-1795625775000-ledtvbacklightfor55to65t",
+    "fingerprint": "amazon|55.00|ledtvbacklightfor55to65tvsfor55atcheckoutfreeshipping",
+    "title": "LED TV Backlight for 55\" to 65\" TVs for $55 at checkout + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Electronics",
+    "price": 55,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "55\" TV at $55.00 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/LED-TV-Backlight-for-55-to-65-TVs-for-55-at-checkout-free-shipping/22431256.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/LED-TV-Backlight-for-55-to-65-TVs-for-55-at-checkout-free-shipping/22431256.html?iref=rss-c142",
+    "triggeredAt": "2026-11-25T22:41:22.035Z",
+    "triggeredAtPT": "Nov 25, 2026, 2:41:22 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-monitor-1795636117000-alienwareaw2726dl271440p",
+    "fingerprint": "dell|149.99|alienwareaw2726dl271440p280hzipsgamingmonitor14999",
+    "title": "Alienware AW2726DL 27\" 1440p 280hz IPS Gaming Monitor $149.99",
+    "retailer": "Dell",
+    "store": "Dell",
+    "sourceChannel": "Slickdeals monitor search",
+    "price": 149.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $149.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20397393-alienware-aw2726dl-27-1440p-280hz-ips-gaming-monitor-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20397393-alienware-aw2726dl-27-1440p-280hz-ips-gaming-monitor-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-25T22:41:22.035Z",
+    "triggeredAtPT": "Nov 25, 2026, 2:41:22 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-electronics-1795621708000-ollra75to85tvledbackligh",
+    "fingerprint": "amazon|74.00|ollra75to85tvledbacklightstripwithcamerafor74freeshipping",
+    "title": "Ollra 75\" to 85\" TV LED Backlight Strip with Camera for $74 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Electronics",
+    "price": 74,
+    "was": 110,
+    "discountPercent": 33,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "75\" TV at $74.00 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/Ollra-75-to-85-TV-LED-Backlight-Strip-with-Camera-for-74-free-shipping/22431143.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/Ollra-75-to-85-TV-LED-Backlight-Strip-with-Camera-for-74-free-shipping/22431143.html?iref=rss-c142",
+    "triggeredAt": "2026-11-25T22:41:22.034Z",
+    "triggeredAtPT": "Nov 25, 2026, 2:41:22 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1795603006000-8799tydimortvcabinetstan",
     "fingerprint": "walmart|87.99|8799tydimortvcabinetstandsfortvsupto65withstorageshelfwalmutatwalmartcom",
     "title": "$87.99: Tydimor TV Cabinet Stands for TVs up to 65\" with Storage Shelf (Walmut) at Walmart.com",
@@ -1275,146 +1421,6 @@
     "sourceUrl": "https://slickdeals.net/f/20341740-rosewill-micro-atx-mini-tower-pc-case-with-pre-installed-80-gold-650w-atx-3-1-power-supply-360mm-radiator-support-1-x-usb-3-0-1-x-usb-type-c-1-x-120mm-pwm-rear-fan-66-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-22T02:02:09.071Z",
     "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795296290000-easportsfc27nintendoswit",
-    "fingerprint": "target|34.99|easportsfc27nintendoswitch23499",
-    "title": "EA SPORTS FC 27 - Nintendo Switch 2 $34.99",
-    "retailer": "Target",
-    "store": "Target",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 34.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $34.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20365515-ea-sports-fc-27-nintendo-switch-2-34-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20365515-ea-sports-fc-27-nintendo-switch-2-34-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T02:02:09.071Z",
-    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795312667000-residentevilrequiemninte",
-    "fingerprint": "bestbuy|40.00|residentevilrequiemnintendoswitch240freesh",
-    "title": "Resident Evil Requiem ( Nintendo Switch 2) $40 + Free S&H",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 40,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $40.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20338734-resident-evil-requiem-nintendo-switch-2-39-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20338734-resident-evil-requiem-nintendo-switch-2-39-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T02:02:09.071Z",
-    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795308747000-turtlebeachrematchwirele",
-    "fingerprint": "amazon|40.00|turtlebeachrematchwirelesscontrollerfornintendoswitch22styles40freesh",
-    "title": "Turtle Beach Rematch Wireless Controller for Nintendo Switch 2 (2 Styles) $40 + Free S&H",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 40,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $40.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20362020-turtle-beach-rematch-wireless-controller-for-nintendo-switch-2-mario-luigi-or-timmy-tommy-39-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20362020-turtle-beach-rematch-wireless-controller-for-nintendo-switch-2-mario-luigi-or-timmy-tommy-39-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T02:02:09.071Z",
-    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795296961000-pragmataps5xboxseriesxor",
-    "fingerprint": "amazon|40.00|pragmataps5xboxseriesxornintendoswitch240freesh",
-    "title": "Pragmata (PS5, Xbox Series X or Nintendo Switch 2) $40 + Free S&H",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 40,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $40.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20341701-39-99-pragmata-ps5-switch-2-or-xsx-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20341701-39-99-pragmata-ps5-switch-2-or-xsx-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-21T22:00:15.131Z",
-    "triggeredAtPT": "Nov 21, 2026, 2:00:15 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795139530000-2999hogwartslegacyninten",
-    "fingerprint": "amazon|29.99|2999hogwartslegacynintendoswitchatamazon",
-    "title": "$29.99: Hogwarts Legacy - Nintendo Switch at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 29.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $29.99 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20352222-29-99-hogwarts-legacy-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20352222-29-99-hogwarts-legacy-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-21T09:35:25.090Z",
-    "triggeredAtPT": "Nov 21, 2026, 1:35:25 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
