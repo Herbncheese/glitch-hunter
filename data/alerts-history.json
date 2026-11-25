@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-popular-1795564999000-edifierm60compactdesktop",
+    "fingerprint": "bestbuy|149.99|edifierm60compactdesktop20bluetoothspeakers3colors14999variousstores",
+    "title": "Edifier M60 Compact Desktop 2.0 Bluetooth Speakers (3 colors) - $149.99 @ Various Stores",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 149.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Desktop (not an accessory) at $149.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20390547-edifier-m60-compact-desktop-2-0-bluetooth-speakers-3-colors-149-99-various-stores?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20390547-edifier-m60-compact-desktop-2-0-bluetooth-speakers-3-colors-149-99-various-stores?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-25T07:23:54.166Z",
+    "triggeredAtPT": "Nov 24, 2026, 11:23:54 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795380366000-philipshueplaygradientst",
     "fingerprint": "bestbuy|112.49|philipshueplaygradientstriplightprofor85tvs11249freeshipping",
     "title": "Philips Hue Play Gradient Strip Light Pro for 85\" TVs $112.49 + Free Shipping",
@@ -1385,34 +1413,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://computers.woot.com/offers/dell-inspiron-7700-27-inch-all-in-one-desktop-computer",
     "sourceUrl": "https://computers.woot.com/offers/dell-inspiron-7700-27-inch-all-in-one-desktop-computer",
-    "triggeredAt": "2026-11-20T12:58:41.125Z",
-    "triggeredAtPT": "Nov 20, 2026, 4:58:41 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795166798000-starwarsoutlawsgoldediti",
-    "fingerprint": "amazon|25.00|starwarsoutlawsgoldeditionnintendoswitch2gamekeycard25",
-    "title": "Star Wars Outlaws Gold Edition (Nintendo Switch 2, Game-Key Card) $25",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 25,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $25.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20339406-star-wars-outlaws-gold-edition-nintendo-switch-2-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20339406-star-wars-outlaws-gold-edition-nintendo-switch-2-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-20T12:58:41.125Z",
     "triggeredAtPT": "Nov 20, 2026, 4:58:41 AM PST",
     "discordStatus": "no-webhook"
