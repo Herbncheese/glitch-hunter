@@ -108,6 +108,9 @@ export async function runScanAndPersist(): Promise<ScanRunSummary> {
     scanSummary: scan.scanSummary,
     scannedAt: scan.scannedAt,
     scannedAtPT: scan.scannedAtPT,
+    trigger: process.env.SCAN_TRIGGER || 'local',
+    scheduleNote:
+      'GitHub Actions is asked every 5 minutes. GitHub often delays or drops those runs, so this time is when a run actually finished.',
     queryExecuted: scan.queryExecuted,
     newMatchCount: planned.fresh.length,
     baselineComplete: planned.seen.baselineComplete,

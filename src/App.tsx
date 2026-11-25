@@ -7,6 +7,7 @@ import { actionsSecretsUrl, actionsWorkflowUrl, loadDashboard } from './data/liv
 import { DealCard } from './components/DealCard';
 import { LiveGlitchRadarSidebar } from './components/LiveGlitchRadarSidebar';
 import { HOT_CATEGORY_LABELS, type HotCategory } from './scanner/hotDeals';
+import { scanFreshness } from './scanner/freshness';
 import { formatPT } from './scanner/time';
 
 type SortOption = 'substance-desc' | 'recent' | 'discount-desc' | 'price-asc' | 'savings-desc';
@@ -88,6 +89,7 @@ export default function App() {
   const [baselineComplete, setBaselineComplete] = useState<boolean | undefined>(undefined);
   const [newMatchCount, setNewMatchCount] = useState<number>(0);
   const [scannedAtPt, setScannedAtPt] = useState<string>('');
+  const [scannedAtIso, setScannedAtIso] = useState<string>('');
 
   // Ids seen in earlier polls. A deal is "new" only if it appears after the first successful scan.
   const seenDealIdsRef = useRef<Set<string>>(new Set());
@@ -153,6 +155,7 @@ export default function App() {
         setScanSummary(scan.scanSummary || 'No scan summary yet.');
         const pt = scan.scannedAtPT || (scan.scannedAt ? formatPT(Date.parse(scan.scannedAt)) : '');
         setScannedAtPt(pt);
+        setScannedAtIso(scan.scannedAt || '');
         setLastScannedAt(pt);
         setDiscordConfigured(Boolean(scan.discordConfigured));
         setDiscordDelivery(scan.discordDelivery || 'none');
@@ -255,6 +258,8 @@ export default function App() {
   }, [filteredDeals, dealsWithWatchlist]);
 
   const workingSources = sourceStatus.filter((s) => s.state === 'ok' || s.state === 'cached').length;
+  const troubledSources = sourceStatus.filter((source) => source.state === 'blocked' || source.state === 'error' || source.state === 'rate-limited');
+  const freshness = scanFreshness(scannedAtIso);
 
   const handleQuickJump = (deal: GlitchDeal) => {
     setSearchQuery(deal.title.slice(0, 28));
@@ -408,7 +413,7 @@ export default function App() {
                 </span>
               </div>
               <p className="text-[11px] text-slate-400 leading-relaxed">
-                Add repository secret <span className="font-mono text-slate-200">DISCORD_WEBHOOK_URL</span>. The scanner posts new watch-rule matches every 5 minutes. The webhook is never stored in the repo, the scan JSON, or this page. Last delivery: <span className="font-mono text-slate-200">{discordDelivery}</span>.
+                Add repository secret <span className="font-mono text-slate-200">DISCORD_WEBHOOK_URL</span>. Discord is used only when a run finds a new watch-rule match. The webhook is never stored in the repo, the scan JSON, or this page. Last delivery: <span className="font-mono text-slate-200">{discordDelivery}</span>.
               </p>
               <div className="flex flex-wrap gap-2 mt-2.5">
                 <a href={actionsWorkflowUrl()} target="_blank" rel="noopener noreferrer" className="px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-[11px] font-medium text-slate-200 inline-flex items-center gap-1">
@@ -548,16 +553,32 @@ export default function App() {
           <div className="flex items-start gap-2.5 text-xs text-slate-300">
             <Clock className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
             <div>
-              <div className="font-medium text-slate-200">GitHub Actions scanner (every 5 minutes)</div>
+              <div className="font-medium text-slate-200">GitHub Actions scanner</div>
               <div className="text-slate-400 mt-1 leading-relaxed">
-                {scannedAtPt ? `Last scan ${scannedAtPt}` : 'Waiting for the first scan JSON'}
+                {scannedAtPt ? `Last finished scan ${scannedAtPt}` : 'Waiting for the first scan JSON'}
+                {freshness.ageMs !== null ? ` · ${freshness.ageLabel} ago` : ''}
+                {freshness.stale ? ' · this copy is stale' : ''}
                 {dataOrigin ? ` · showing ${dataOrigin === 'live' ? 'live scanner-data JSON' : 'bundled data fallback'}` : ''}
                 {` · ${workingSources} of ${sourceStatus.length || 0} sources ok`}
+                {troubledSources.length ? ` · ${troubledSources.length} blocked, rate-limited, or error` : ''}
                 {typeof newMatchCount === 'number' ? ` · ${newMatchCount} new this run` : ''}
                 {baselineComplete === false ? ' · baseline not recorded yet' : ''}
                 {discordDelivery === 'skipped-baseline' ? ' · baseline recorded without a Discord blast' : ''}
                 {` · Discord ${discordConfigured ? 'secret present' : 'secret missing'} (${discordDelivery})`}
               </div>
+              {freshness.stale && (
+                <div className="text-amber-200 mt-1.5 leading-relaxed">
+                  The workflow asks GitHub for a run every 5 minutes. GitHub often delays or drops those runs, so the time above is the last run that actually finished. Use Actions to start one by hand if this looks old.
+                </div>
+              )}
+              {troubledSources.length > 0 && (
+                <div className="text-slate-500 mt-1.5 leading-relaxed">
+                  {troubledSources
+                    .slice(0, 4)
+                    .map((source) => `${source.label}: ${source.state}${source.httpStatus ? ` ${source.httpStatus}` : ''}`)
+                    .join(' · ')}
+                </div>
+              )}
               {rejectionReasons.length > 0 && (
                 <div className="text-slate-500 mt-1.5 leading-relaxed">
                   Filtered {rejectionCount}: {rejectionReasons.slice(0, 4).map((row) => `${row.reason} (${row.count})`).join(' · ')}

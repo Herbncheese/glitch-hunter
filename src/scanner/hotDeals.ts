@@ -32,7 +32,7 @@ const CHEAP_ACCESSORY_PRICE = 25;
 const CHEAP_ACCESSORY_RE =
   /\b(?:accessor(?:y|ies)|bundle kit|carrying case|charging dock|joy-?con|thumb grip|steering wheel|travel case|facial interface|head ?strap|link cable|screen protector|tempered glass|phone case|tablet case)\b/i;
 
-const EXTRA_HOT_STORE_RE = /\bbj'?s(?:\s+wholesale)?\b/i;
+const EXTRA_HOT_STORE_RE = /\b(?:bj'?s(?:\s+wholesale)?|sellout)\b/i;
 
 const TABLET_RE = /\b(?:ipad|galaxy tab|fire tablet|fire hd|kindle fire|\btablet\b)\b/i;
 const PHONE_RE = /\b(?:iphone|smartphone|galaxy\s?(?:s|z|a)\d*|pixel\s?\d|phone)\b/i;
