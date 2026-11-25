@@ -3,6 +3,7 @@ import type { XLink } from '../data/xLinks.ts';
 import { X_DEAL_ACCOUNTS, X_SEARCH_LINKS } from '../data/xLinks.ts';
 import { detectCondition, evaluateWatchRules, isKidsItem } from '../rules/watchRules.ts';
 import { classifyHotDeal, rankHotDeals } from './hotDeals.ts';
+import { parseWootOfferHtml, topicsFromForumSearch } from './wootOffers.ts';
 import { formatPT } from './time.ts';
 
 /**
@@ -220,56 +221,72 @@ async function fetchReddit(url: string, id: string) {
   return { result, items: result.ok ? parseRedditAtom(result.text, id) : [] };
 }
 
-// Woot: no free public RSS any more. The public Discourse forum lists new offers; we read each offer page
-// for the real sale price and Woot's own list price.
-async function fetchWoot() {
-  const searches = ['computers.woot.com', 'electronics.woot.com'];
-  let firstResult: FetchResult | null = null;
-  const offers: { title: string; url: string; created: number }[] = [];
-  for (const domain of searches) {
-    const r = await fetchText(`https://forums.woot.com/search.json?q=${encodeURIComponent(domain + ' order:latest')}`, 'application/json');
-    if (!firstResult || !firstResult.ok) firstResult = r;
-    if (!r.ok) continue;
-    try {
-      const data = JSON.parse(r.text);
-      for (const t of (data?.topics || []).slice(0, 6)) {
-        const created = Date.parse(t.created_at);
-        if (!t.slug || isNaN(created)) continue;
-        offers.push({ title: decodeHtmlEntities(t.title || ''), url: `https://${domain}/offers/${t.slug}`, created });
-      }
-    } catch {
-      /* bad JSON - reported via status below */
-    }
+// Woot and Sellout have no free public RSS (those paths 404) and api.woot.com returns 403.
+// The public Discourse forum lists new offers. We read a few offer pages, one at a time.
+const DIRECT_OFFER_LIMIT = 4;
+const DIRECT_OFFER_GAP_MS = 400;
+
+async function fetchDirectStore(host: string, sourceId: string, sourceLabel: string, retailerHint: string) {
+  const result = await fetchText(
+    `https://forums.woot.com/search.json?q=${encodeURIComponent(`${host} order:latest`)}`,
+    'application/json'
+  );
+  if (!result.ok) return { result, items: [] as RawItem[] };
+  let topics: ReturnType<typeof topicsFromForumSearch> = [];
+  try {
+    topics = topicsFromForumSearch(JSON.parse(result.text), DIRECT_OFFER_LIMIT);
+  } catch {
+    topics = [];
   }
   const items: RawItem[] = [];
-  await Promise.all(
-    offers.map(async (o) => {
-      const page = await fetchText(o.url, 'text/html', 8000);
-      if (!page.ok) return;
-      const block = (page.text.match(/<div class="price-exact"[\s\S]{0,800}/i) || [])[0];
-      if (!block) return;
-      const sale = block.match(new RegExp(`class="price"[^>]*>\\s*${MONEY}`, 'i'));
-      const list = block.match(new RegExp(`class="list-price"[^>]*>\\s*${MONEY}`, 'i'));
-      const saleV = sale ? money(sale[1], sale[2]) : 0;
-      if (!saleV) return;
-      const soldOut = /sold out/i.test(page.text.slice(0, 200000).match(/<title>[\s\S]*?<\/title>/i)?.[0] || '');
-      if (soldOut) return;
-      items.push({
-        title: o.title,
-        text: '',
-        html: block,
-        link: o.url,
-        sourceUrl: o.url,
-        pubMs: o.created,
-        sourceId: 'woot',
-        sourceLabel: 'Woot',
-        retailerHint: 'Woot',
-        preSale: saleV,
-        preList: list ? money(list[1], list[2]) : 0,
-      });
-    })
-  );
+  for (let i = 0; i < topics.length; i++) {
+    const topic = topics[i];
+    const pageUrl = `https://${host}/offers/${topic.slug}`;
+    const page = await fetchText(pageUrl, 'text/html', 8000);
+    if (page.status === 403 || page.status === 429) break;
+    if (page.ok) {
+      const parsed = parseWootOfferHtml(page.text);
+      if (parsed && !parsed.soldOut) {
+        items.push({
+          title: topic.title,
+          text: parsed.conditionText,
+          html: '',
+          link: pageUrl,
+          sourceUrl: pageUrl,
+          pubMs: topic.createdMs,
+          sourceId,
+          sourceLabel,
+          retailerHint,
+          preSale: parsed.sale,
+          preList: parsed.list,
+        });
+      }
+    }
+    if (i < topics.length - 1) await new Promise((resolve) => setTimeout(resolve, DIRECT_OFFER_GAP_MS));
+  }
+  return { result, items };
+}
+
+async function fetchWoot() {
+  const hosts = ['computers.woot.com', 'electronics.woot.com'];
+  let firstResult: FetchResult | null = null;
+  const items: RawItem[] = [];
+  const seen = new Set<string>();
+  for (const host of hosts) {
+    const loaded = await fetchDirectStore(host, 'woot', 'Woot', 'Woot');
+    if (!firstResult || !firstResult.ok) firstResult = loaded.result;
+    if (!loaded.result.ok) continue;
+    for (const item of loaded.items) {
+      if (seen.has(item.link)) continue;
+      seen.add(item.link);
+      items.push(item);
+    }
+  }
   return { result: firstResult || { ok: false, status: 0, text: '', error: 'no request' }, items };
+}
+
+async function fetchSellout() {
+  return fetchDirectStore('sellout.woot.com', 'sellout', 'Sellout', 'Sellout');
 }
 
 
@@ -298,6 +315,7 @@ const SOURCES: SourceDef[] = [
     fetcher: () => fetchReddit('https://www.reddit.com/r/Monitors/new/.rss?limit=50', 'reddit-monitors'),
   },
   { id: 'woot', label: 'Woot (computers + electronics)', url: 'https://www.woot.com/category/computers', ttlMs: 0, fetcher: fetchWoot },
+  { id: 'sellout', label: 'Sellout clearance', url: 'https://sellout.woot.com/', ttlMs: 0, fetcher: fetchSellout },
   rssSource('meh', 'Meh daily deal', 'https://meh.com/deals.rss', { url: 'https://meh.com/' }),
   rssSource('dealnews-electronics', 'DealNews Electronics', 'https://www.dealnews.com/c142/Electronics/?rss=1'),
   rssSource('dealnews-computers', 'DealNews Computers', 'https://www.dealnews.com/c39/Computers/?rss=1'),
@@ -487,6 +505,7 @@ function detectRetailer(raw: RawItem): string {
     [/costco/, 'Costco'],
     [/bhphotovideo|b&h/, 'B&H Photo'],
     [/microcenter|micro center/, 'Micro Center'],
+    [/sellout/, 'Sellout'],
     [/woot/, 'Woot'],
     [/meh\.com/, 'Meh'],
     [/dell\.com|\bdell\b/, 'Dell'],

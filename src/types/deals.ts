@@ -136,6 +136,8 @@ export interface ScanResponse {
   scannedAt: string; // ISO
   queryExecuted: string;
   scannedAtPT?: string;
+  trigger?: string;
+  scheduleNote?: string;
   newMatchCount?: number;
   baselineComplete?: boolean;
   discordConfigured?: boolean;

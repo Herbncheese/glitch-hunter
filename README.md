@@ -1,6 +1,8 @@
 # Glitch & Price Error Hunter
 
-Oscar Medina's deal watcher, running with **no AI and no paid APIs**. GitHub Actions reads free RSS and JSON feeds every 5 minutes. The dashboard shows two lists: strict watch-rule matches, and a looser **Hot deals** board (about the best 20–60 current tech and kids deals). Discord is posted only for new strict matches. GitHub Pages shows the latest results.
+Oscar Medina's deal watcher, running with **no AI and no paid APIs**. The scan workflow asks GitHub Actions to run every 5 minutes. GitHub often starts only a few of those runs per day, so the page shows how old the last finished scan is. The dashboard shows two lists: strict watch-rule matches, and a looser **Hot deals** board (about the best 20–60 current tech and kids deals). Discord is posted only for new strict matches. GitHub Pages shows the latest results.
+
+Woot and Sellout are read from the public forum search at `forums.woot.com` and each offer page. The old RSS paths return 404 and `api.woot.com` returns 403, so those are not used. Sellout clearance is its own source. Refurbished and open-box offers keep that condition instead of being treated as new.
 
 The rules in `src/rules/watchRules.ts` are unchanged: Tech & Clearance, Cyber Laptop, Mac mini, Kids, Local AI Machine, and Christmas 2026 (Quest / Switch). Condition is tagged New, Refurbished, Open-Box, Used, or Unverified. Marketplace listings are dropped. Price checks are links only (camelcamelcamel, Keepa, Google Shopping).
 
@@ -23,7 +25,7 @@ State files:
 | `data/latest-scan.json` | Strict matches, hot deals, source health, scan time |
 | `data/rejections.json` | Filtered posts and the reason each was dropped |
 
-Rapid updates are committed only to the **`scanner-data`** branch. The scanner does not commit to `main`. A `github-actions[bot]` commit on the default branch becomes the tip of `main`, and scheduled workflows then stop queuing even though manual runs still work. Commits on `scanner-data` every few minutes are enough repository activity that GitHub does not disable the schedule after 60 days. The page loads
+Rapid updates are committed only to the **`scanner-data`** branch. The scanner does not commit to `main`. From 14 Nov through 24 Nov 2026 the schedule was registered and every run that GitHub created finished and published, but the gaps between those runs were hours, not 5 minutes. That is GitHub dropping or delaying scheduled runs. A manual run from the Actions tab still works. The page loads
 
 `https://raw.githubusercontent.com/Herbncheese/glitch-hunter/scanner-data/data/<file>.json?t=...`
 
