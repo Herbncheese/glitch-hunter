@@ -1,5 +1,117 @@
 [
   {
+    "id": "sd-tv-1795603006000-8799tydimortvcabinetstan",
+    "fingerprint": "walmart|87.99|8799tydimortvcabinetstandsfortvsupto65withstorageshelfwalmutatwalmartcom",
+    "title": "$87.99: Tydimor TV Cabinet Stands for TVs up to 65\" with Storage Shelf (Walmut) at Walmart.com",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 87.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "65\" TV at $87.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20393358-87-99-tydimor-tv-cabinet-stands-for-tvs-up-to-65-with-storage-shelf-walmut-at-walmart-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20393358-87-99-tydimor-tv-cabinet-stands-for-tvs-up-to-65-with-storage-shelf-walmut-at-walmart-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-25T13:29:01.899Z",
+    "triggeredAtPT": "Nov 25, 2026, 5:29:01 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-electronics-1795610191000-onn431080psmarttvfor89fr",
+    "fingerprint": "amazon|89.00|onn431080psmarttvfor89freeshipping",
+    "title": "onn 43\" 1080p Smart TV for $89 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Electronics",
+    "price": 89,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $89.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/onn-43-1080-p-Smart-TV-for-89-free-shipping/22430796.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/onn-43-1080-p-Smart-TV-for-89-free-shipping/22430796.html?iref=rss-c142",
+    "triggeredAt": "2026-11-25T13:29:01.899Z",
+    "triggeredAtPT": "Nov 25, 2026, 5:29:01 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795605541000-persona5royalstandardedi",
+    "fingerprint": "amazon|24.90|persona5royalstandardeditionnintendoswitch2490",
+    "title": "Persona 5 Royal: Standard Edition (Nintendo Switch) $24.90",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 24.9,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $24.90 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20392896-persona-5-royal-standard-edition-nintendo-switch-24-88-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20392896-persona-5-royal-standard-edition-nintendo-switch-24-88-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-25T13:29:01.899Z",
+    "triggeredAtPT": "Nov 25, 2026, 5:29:01 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "9to5toys-1795612717000-residentevilrequiemforsw",
+    "fingerprint": "amazon|40.00|residentevilrequiemforswitch2at43offisakillerblackfridayweekdeal",
+    "title": "Resident Evil Requiem for Switch 2 at 43% off is a killer Black Friday Week deal",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "9to5Toys",
+    "price": 40,
+    "was": 70,
+    "discountPercent": 43,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $40.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://9to5toys.com/2026/11/25/resident-evil-requiem-nintendo-switch-2/",
+    "sourceUrl": "https://9to5toys.com/2026/11/25/resident-evil-requiem-nintendo-switch-2/",
+    "triggeredAt": "2026-11-25T13:29:01.899Z",
+    "triggeredAtPT": "Nov 25, 2026, 5:29:01 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795564999000-edifierm60compactdesktop",
     "fingerprint": "bestbuy|149.99|edifierm60compactdesktop20bluetoothspeakers3colors14999variousstores",
     "title": "Edifier M60 Compact Desktop 2.0 Bluetooth Speakers (3 colors) - $149.99 @ Various Stores",
@@ -1303,118 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20352222-29-99-hogwarts-legacy-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-21T09:35:25.090Z",
     "triggeredAtPT": "Nov 21, 2026, 1:35:25 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795223757000-easportsfc27nintendoswit",
-    "fingerprint": "walmart|28.00|easportsfc27nintendoswitch28",
-    "title": "EA SPORTS FC 27 (Nintendo Switch) $28",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 28,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $28.00 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20336736-34-97-ea-sports-fc-27-nintendo-switch-game?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20336736-34-97-ea-sports-fc-27-nintendo-switch-game?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-21T02:00:49.043Z",
-    "triggeredAtPT": "Nov 20, 2026, 6:00:49 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "woot-1795154436811-beelinkminipc",
-    "fingerprint": "woot|8.99|beelinkminipc",
-    "title": "Beelink Mini PC",
-    "retailer": "Woot",
-    "store": "Woot",
-    "sourceChannel": "Woot",
-    "price": 8.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Desktop (not an accessory) at $8.99 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://computers.woot.com/offers/beelink-mini-pc",
-    "sourceUrl": "https://computers.woot.com/offers/beelink-mini-pc",
-    "triggeredAt": "2026-11-20T20:58:18.374Z",
-    "triggeredAtPT": "Nov 20, 2026, 12:58:18 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795190961000-catinthehatrainydaymayhe",
-    "fingerprint": "amazon|24.99|catinthehatrainydaymayhemswitchorplaystation2499freeshippingwprimeoron35",
-    "title": "Cat in the Hat: Rainy Day Mayhem (Switch or PlayStation) $24.99 + Free Shipping w/ Prime or on $35+",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 24.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $24.99 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20357427-cat-in-the-hat-rainy-day-mayhem-switch-or-playstation-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20357427-cat-in-the-hat-rainy-day-mayhem-switch-or-playstation-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-20T20:58:18.374Z",
-    "triggeredAtPT": "Nov 20, 2026, 12:58:18 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "woot-1795154437202-dellinspiron770027inchal",
-    "fingerprint": "woot|70.99|dellinspiron770027inchallinonedesktopcomputer",
-    "title": "Dell Inspiron 7700 27-inch All in One Desktop Computer",
-    "retailer": "Woot",
-    "store": "Woot",
-    "sourceChannel": "Woot",
-    "price": 70.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Laptop (not an accessory) at $70.99 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://computers.woot.com/offers/dell-inspiron-7700-27-inch-all-in-one-desktop-computer",
-    "sourceUrl": "https://computers.woot.com/offers/dell-inspiron-7700-27-inch-all-in-one-desktop-computer",
-    "triggeredAt": "2026-11-20T12:58:41.125Z",
-    "triggeredAtPT": "Nov 20, 2026, 4:58:41 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
