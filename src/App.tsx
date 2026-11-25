@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect, useCallback, useRef } from 'react';
 import { Search, SlidersHorizontal, RefreshCw, ArrowUpDown, AlertCircle, Rss, CheckCircle2, Bot, Volume2, VolumeX, Bell, Tag, Clock, ScrollText, ExternalLink } from 'lucide-react';
-import { DealCategory, GlitchDeal, SourceStatus, XGlitchPost, XSearchLink } from './types/deals';
+import { CouponOffer, DealCategory, GlitchDeal, SourceStatus, XGlitchPost, XSearchLink } from './types/deals';
 import type { RejectionRow, StoredAlert } from './types/alerts';
 import { INITIAL_GLITCH_DEALS, DEFAULT_WATCHLIST_KEYWORDS } from './data/initialDeals';
 import { actionsSecretsUrl, actionsWorkflowUrl, loadDashboard } from './data/liveData';
@@ -64,7 +64,9 @@ function playBotAlertSound() {
 export default function App() {
   const [deals, setDeals] = useState<GlitchDeal[]>(INITIAL_GLITCH_DEALS);
   const [hotDeals, setHotDeals] = useState<GlitchDeal[]>([]);
-  const [board, setBoard] = useState<'hot' | 'watch'>('hot');
+  const [board, setBoard] = useState<'hot' | 'watch' | 'bf'>('hot');
+  const [blackFridayDeals, setBlackFridayDeals] = useState<GlitchDeal[]>([]);
+  const [coupons, setCoupons] = useState<CouponOffer[]>([]);
   const [hotTab, setHotTab] = useState<(typeof HOT_TABS)[number]['id']>('all');
   const [activeStores, setActiveStores] = useState<string[]>([]);
   const [activeTab, setActiveTab] = useState<TabId>('all');
@@ -118,7 +120,8 @@ export default function App() {
   };
   const dealsWithWatchlist = useMemo(() => annotate(deals), [deals, parsedWatchlistKeywords]);
   const hotWithWatchlist = useMemo(() => annotate(hotDeals), [hotDeals, parsedWatchlistKeywords]);
-  const boardDeals = board === 'hot' ? hotWithWatchlist : dealsWithWatchlist;
+  const bfWithWatchlist = useMemo(() => annotate(blackFridayDeals), [blackFridayDeals, parsedWatchlistKeywords]);
+  const boardDeals = board === 'hot' ? hotWithWatchlist : board === 'bf' ? bfWithWatchlist : dealsWithWatchlist;
 
   const handleToggleSave = (id: string) =>
     setSavedIds((prev) => (prev.includes(id) ? prev.filter((item) => item !== id) : [...prev, id]));
@@ -148,6 +151,8 @@ export default function App() {
           setDeals([]);
         }
         setHotDeals(Array.isArray(scan.hotDeals) ? scan.hotDeals : []);
+        setBlackFridayDeals(Array.isArray(scan.blackFridayDeals) ? scan.blackFridayDeals : []);
+        setCoupons(Array.isArray(scan.coupons) ? scan.coupons : []);
         setSourceStatus(Array.isArray(scan.sourceStatus) ? scan.sourceStatus : []);
         setXPosts(Array.isArray(scan.xPosts) ? scan.xPosts : []);
         setXSearchLinks(Array.isArray(scan.xSearchLinks) ? scan.xSearchLinks : []);
@@ -218,6 +223,8 @@ export default function App() {
           if (hotTab === 'saved' && !savedIds.includes(deal.id)) return false;
           if (hotTab !== 'all' && hotTab !== 'saved' && deal.hotCategory !== hotTab) return false;
           if (activeStores.length > 0 && !activeStores.includes(deal.retailer)) return false;
+        } else if (board === 'bf') {
+          if (activeStores.length > 0 && !activeStores.includes(deal.retailer)) return false;
         } else if (!matchesTab(deal, activeTab)) return false;
         if (minDiscount > 0 && deal.discountPercent < minDiscount) return false;
         if (activeSources.length > 0 && !activeSources.includes(deal.sourceChannel)) return false;
@@ -229,6 +236,7 @@ export default function App() {
       })
       .sort((a, b) => {
         if (sortBy === 'substance-desc') {
+          if (board === 'bf') return (b.discountPercent || 0) - (a.discountPercent || 0) || b.detectedTimestamp - a.detectedTimestamp;
           if (board === 'hot') return (b.hotScore || 0) - (a.hotScore || 0) || b.detectedTimestamp - a.detectedTimestamp;
           const diff = (b.substanceScore || 0) - (a.substanceScore || 0);
           return diff !== 0 ? diff : b.detectedTimestamp - a.detectedTimestamp;
@@ -306,6 +314,13 @@ export default function App() {
             >
               Watch rules <span className="font-mono">{deals.length}</span>
             </button>
+            <button
+              type="button"
+              onClick={() => setBoard('bf')}
+              className={`px-3 py-1.5 rounded-lg ${board === 'bf' ? 'bg-emerald-500 text-slate-950 font-semibold' : 'text-slate-300 hover:text-slate-100'}`}
+            >
+              Black Friday <span className="font-mono">{blackFridayDeals.length}</span>
+            </button>
           </nav>
           <div className="flex items-center shrink-0">
             <button
@@ -332,7 +347,7 @@ export default function App() {
                   : 'Connecting to deal sources...'}
               </div>
               <h1 className="font-display text-2xl sm:text-3xl font-bold text-slate-100 tracking-tight text-balance">
-                {board === 'hot' ? 'Hot deals from legit stores' : 'Watch-rule matches'}
+                {board === 'hot' ? 'Hot deals from legit stores' : board === 'bf' ? 'Black Friday ads, ranked by discount' : 'Watch-rule matches'}
               </h1>
               <p className="text-sm text-slate-400 mt-2 leading-relaxed">{scanSummary}</p>
             </div>
@@ -430,7 +445,7 @@ export default function App() {
 
           <div className="flex flex-col xl:flex-row xl:items-center justify-between gap-5">
             <div role="tablist" aria-label="Deal Categories" className="flex items-center gap-1.5 overflow-x-auto pb-1 xl:pb-0">
-              {(board === 'hot' ? HOT_TABS : CATEGORY_TABS).map((tab) => {
+              {(board === 'bf' ? [] : board === 'hot' ? HOT_TABS : CATEGORY_TABS).map((tab) => {
                 const isActive = board === 'hot' ? hotTab === tab.id : activeTab === tab.id;
                 const count =
                   tab.id === 'saved'
@@ -499,6 +514,32 @@ export default function App() {
               </div>
             </div>
           </div>
+          {board === 'bf' && (
+            <div className="bg-[#0B0F17] border border-slate-800/90 rounded-lg p-3">
+              <div className="text-xs font-medium text-slate-200 mb-2">Coupons ({coupons.length})</div>
+              {coupons.length === 0 ? (
+                <p className="text-[11px] text-slate-500">No current public coupon codes for the configured stores. Slickdeals /coupons/ and RetailMeNot are not fetched.</p>
+              ) : (
+                <ul className="space-y-2 max-h-48 overflow-y-auto">
+                  {coupons.map((coupon) => (
+                    <li key={coupon.id} className="text-[11px] text-slate-300 leading-snug">
+                      <span className="font-mono text-emerald-300">{coupon.code}</span>
+                      {' · '}
+                      {coupon.store}
+                      {coupon.expiresAt ? ` · through ${coupon.expiresAt}` : ''}
+                      {' · '}
+                      <span className="text-slate-500">{coupon.seenAtPT}</span>
+                      <div className="truncate">
+                        <a href={coupon.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-emerald-300">
+                          {coupon.offer}
+                        </a>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          )}
           {board === 'hot' && (
             <div className="flex items-center gap-1.5 overflow-x-auto">
               <span className="text-[11px] text-slate-500 shrink-0">Store</span>
@@ -529,7 +570,7 @@ export default function App() {
             <div className="text-xs text-slate-400">Deals shown</div>
             <div className="font-mono tabular-nums text-2xl font-bold text-slate-100 mt-1">{metrics.activeCount}</div>
             <div className="text-[11px] text-slate-500 mt-1">
-              of {board === 'hot' ? `${hotDeals.length} hot deals` : `${dealsWithWatchlist.length} watch-rule matches`}
+              of {board === 'hot' ? `${hotDeals.length} hot deals` : board === 'bf' ? `${blackFridayDeals.length} Black Friday ads` : `${dealsWithWatchlist.length} watch-rule matches`}
             </div>
           </div>
           <div className="bg-[#111827] border border-slate-800/90 rounded-xl p-4">

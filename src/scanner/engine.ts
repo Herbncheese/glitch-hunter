@@ -2,6 +2,8 @@ import type { CheckPriceLink, GlitchDeal, GlitchType, PriceBasis, SourceState, S
 import type { XLink } from '../data/xLinks.ts';
 import { X_DEAL_ACCOUNTS, X_SEARCH_LINKS } from '../data/xLinks.ts';
 import { detectCondition, evaluateWatchRules, isKidsItem } from '../rules/watchRules.ts';
+import { couponFromPost, dedupeByStoreAndTitle, dedupeCoupons, isBlackFridayDeal, rankByRealDiscount } from './blackFriday.ts';
+import { couponStoresFromEnv } from '../data/couponStores.ts';
 import { classifyHotDeal, rankHotDeals } from './hotDeals.ts';
 import { parseWootOfferHtml, topicsFromForumSearch } from './wootOffers.ts';
 import { formatPT } from './time.ts';
@@ -322,7 +324,42 @@ const SOURCES: SourceDef[] = [
   rssSource('9to5toys', '9to5Toys', 'https://9to5toys.com/feed/'),
   rssSource('techbargains', 'TechBargains', 'https://www.techbargains.com/rss.xml', { url: 'https://www.techbargains.com/' }),
   rssSource('bensbargains', "Ben's Bargains", 'https://bensbargains.com/rss.xml', { url: 'https://bensbargains.com/' }),
+  rssSource('sd-black-friday', 'Slickdeals Black Friday', sdSearch('black friday'), { url: 'https://slickdeals.net/deals/black-friday/' }),
+  rssSource('sd-coupon-codes', 'Slickdeals coupon codes', sdSearch('coupon code'), { url: 'https://slickdeals.net/newsearch.php?q=coupon+code&rss=1' }),
+  skippedSource(
+    'brads-deals',
+    "Brad's Deals",
+    'https://www.bradsdeals.com/',
+    'Skipped. No public RSS was found, /blog/feed/ is disallowed, and the deals pages have no prices in static HTML.'
+  ),
+  skippedSource(
+    'blackfriday-com',
+    'BlackFriday.com',
+    'https://blackfriday.com/',
+    'Skipped. No RSS, and the ads/deals pages do not include prices in the static HTML.'
+  ),
+  skippedSource(
+    'retailmenot',
+    'RetailMeNot',
+    'https://www.retailmenot.com/',
+    'Skipped. The store coupon page returned 403, so codes are not read from it.'
+  ),
 ];
+
+function skippedSource(id: string, label: string, url: string, message: string): SourceDef {
+  return {
+    id,
+    label,
+    url,
+    ttlMs: 0,
+    fetcher: async () => ({
+      result: { ok: false, status: 0, text: '' },
+      items: [],
+      state: 'skipped',
+      message,
+    }),
+  };
+}
 
 
 // ---------------------------------------------------------------------------
@@ -701,6 +738,8 @@ export function normalize(raw: RawItem, now: number): { deal?: GlitchDeal; hot?:
 export interface FeedScanResult {
   deals: GlitchDeal[];
   hotDeals: GlitchDeal[];
+  blackFridayDeals: GlitchDeal[];
+  coupons: import('../types/deals.ts').CouponOffer[];
   rejections: Rejection[];
   rejectedCount: number;
   sourceStatus: SourceStatus[];
@@ -771,13 +810,29 @@ export async function runFeedScan(now = Date.now()): Promise<FeedScanResult> {
   const seen = new Set<string>();
     const deals: GlitchDeal[] = [];
     const hotPool: GlitchDeal[] = [];
+    const bfPool: GlitchDeal[] = [];
+    const couponPool: import('../types/deals.ts').CouponOffer[] = [];
     const rejections: Rejection[] = [];
     const kept = new Map<string, number>();
+    const couponStores = couponStoresFromEnv();
     for (const raw of all) {
       const key = raw.title.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 60);
       if (seen.has(key)) continue;
       seen.add(key);
+      if (raw.sourceId === 'sd-coupon-codes') {
+        const coupon = couponFromPost({
+          title: raw.title,
+          link: raw.link,
+          sourceLabel: raw.sourceLabel,
+          seenMs: raw.pubMs,
+          stores: couponStores,
+          nowMs: now,
+        });
+        if (coupon) couponPool.push(coupon);
+        continue;
+      }
       const { deal, hot, reject } = normalize(raw, now);
+      const shown = hot || deal;
       if (deal) {
         deals.push(deal);
         kept.set(raw.sourceId, (kept.get(raw.sourceId) || 0) + 1);
@@ -788,9 +843,12 @@ export async function runFeedScan(now = Date.now()): Promise<FeedScanResult> {
       } else if (!deal && reject && reject !== 'older than age limit') {
         rejections.push({ title: raw.title, source: raw.sourceLabel, reason: reject });
       }
+      if (shown && (shown.discountPercent || 0) > 0 && isBlackFridayDeal(shown, raw.sourceId)) bfPool.push(shown);
     }
     deals.sort((a, b) => (b.substanceScore || 0) - (a.substanceScore || 0));
     const hotDeals = rankHotDeals(hotPool);
+    const blackFridayDeals = rankByRealDiscount(dedupeByStoreAndTitle(bfPool)).slice(0, 40);
+    const coupons = dedupeCoupons(couponPool);
 
   const sourceStatus: SourceStatus[] = SOURCES.map((s) => {
     const row = byId.get(s.id);
@@ -812,7 +870,9 @@ export async function runFeedScan(now = Date.now()): Promise<FeedScanResult> {
     xSearchLinks: X_SEARCH_LINKS,
     xAccounts: X_DEAL_ACCOUNTS,
     hotDeals,
-    scanSummary: `${deals.length} watch-rule matches and ${hotDeals.length} hot deals kept from ${all.length} fetched posts across ${okCount}/${SOURCES.length} working sources; ${rejections.length} filtered out. ${errCount} flagged as possible price errors.`,
+    blackFridayDeals,
+    coupons,
+    scanSummary: `${deals.length} watch-rule matches, ${hotDeals.length} hot deals, ${blackFridayDeals.length} Black Friday ads, and ${coupons.length} coupons kept from ${all.length} fetched posts across ${okCount}/${SOURCES.length} working sources; ${rejections.length} filtered out. ${errCount} flagged as possible price errors.`,
     scannedAt,
     scannedAtPT: formatPT(now),
     queryExecuted: 'Free RSS/JSON deal feeds (zero AI, no paid APIs)',
