@@ -26,6 +26,7 @@ const STATE_STYLE: Record<string, string> = {
   blocked: 'text-red-400',
   error: 'text-red-400',
   'not-configured': 'text-slate-500',
+  skipped: 'text-slate-500',
 };
 
 export const LiveGlitchRadarSidebar: React.FC<LiveGlitchRadarSidebarProps> = ({

@@ -94,7 +94,7 @@ export interface GlitchDeal {
   isLiveGrounded?: boolean;
 }
 
-export type SourceState = 'ok' | 'empty' | 'error' | 'blocked' | 'rate-limited' | 'not-configured' | 'cached';
+export type SourceState = 'ok' | 'empty' | 'error' | 'blocked' | 'rate-limited' | 'not-configured' | 'cached' | 'skipped';
 
 export interface SourceStatus {
   id: string;
@@ -124,9 +124,23 @@ export interface XSearchLink {
   uri: string;
 }
 
+export interface CouponOffer {
+  id: string;
+  store: string;
+  code: string;
+  offer: string;
+  expiresAt?: string;
+  sourceUrl: string;
+  sourceLabel: string;
+  seenAt: string;
+  seenAtPT: string;
+}
+
 export interface ScanResponse {
   deals: GlitchDeal[];
   hotDeals?: GlitchDeal[];
+  blackFridayDeals?: GlitchDeal[];
+  coupons?: CouponOffer[];
   groundingUrls: GroundingCitation[];
   sourceStatus: SourceStatus[];
   xPosts: XGlitchPost[];

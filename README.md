@@ -4,6 +4,8 @@ Oscar Medina's deal watcher, running with **no AI and no paid APIs**. The scan w
 
 Woot and Sellout are read from the public forum search at `forums.woot.com` and each offer page. The old RSS paths return 404 and `api.woot.com` returns 403, so those are not used. Sellout clearance is its own source. Refurbished and open-box offers keep that condition instead of being treated as new.
 
+The Black Friday tab ranks ad posts that already name a real discount. It adds a Slickdeals "black friday" RSS search on top of the frontpage, DealNews, and Ben's Bargains feeds. Brad's Deals and BlackFriday.com are listed as skipped: there is no usable public RSS, and their pages do not include prices in the static HTML. Coupon codes come from the Slickdeals `coupon code` search RSS, limited to the store list in `src/data/couponStores.ts` (`COUPON_STORES` overrides it). The Slickdeals `/coupons/` directory is disallowed by robots.txt, and RetailMeNot returned 403, so those are not fetched. Discord still alerts only strict watch-rule matches.
+
 The rules in `src/rules/watchRules.ts` are unchanged: Tech & Clearance, Cyber Laptop, Mac mini, Kids, Local AI Machine, and Christmas 2026 (Quest / Switch). Condition is tagged New, Refurbished, Open-Box, Used, or Unverified. Marketplace listings are dropped. Price checks are links only (camelcamelcamel, Keepa, Google Shopping).
 
 ## How a scan works

@@ -98,6 +98,8 @@ export async function runScanAndPersist(): Promise<ScanRunSummary> {
   const latest: ScanResponse = {
     deals: scan.deals,
     hotDeals: scan.hotDeals,
+    blackFridayDeals: scan.blackFridayDeals,
+    coupons: scan.coupons,
     groundingUrls: sourceStatus.filter((s) => s.state === 'ok' || s.state === 'cached').map((s) => ({ title: s.label, uri: s.url })),
     sourceStatus,
     xPosts: [],
