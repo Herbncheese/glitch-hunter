@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-popular-1795380366000-philipshueplaygradientst",
+    "fingerprint": "bestbuy|112.49|philipshueplaygradientstriplightprofor85tvs11249freeshipping",
+    "title": "Philips Hue Play Gradient Strip Light Pro for 85\" TVs $112.49 + Free Shipping",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 112.49,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "85\" TV at $112.49 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20371620-philips-hue-play-gradient-strip-light-pro-for-85-tvs-112-49-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20371620-philips-hue-play-gradient-strip-light-pro-for-85-tvs-112-49-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-25T03:36:40.862Z",
+    "triggeredAtPT": "Nov 24, 2026, 7:36:40 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "dealnews-electronics-1795550364000-tcl40q3cr1080pqledsmartt",
     "fingerprint": "bestbuy|100.00|tcl40q3cr1080pqledsmarttvwithrokufor100freeshipping",
     "title": "TCL 40\" Q3CR 1080p QLED Smart TV with Roku for $100 + free shipping",
@@ -1387,34 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20339406-star-wars-outlaws-gold-edition-nintendo-switch-2-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     "triggeredAt": "2026-11-20T12:58:41.125Z",
     "triggeredAtPT": "Nov 20, 2026, 4:58:41 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795146657000-unicornoverlordnintendos",
-    "fingerprint": "amazon|25.00|unicornoverlordnintendoswitch25",
-    "title": "Unicorn Overlord (Nintendo Switch) $25",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 25,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $25.00 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20340009-unicorn-overlord-nintendo-switch-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20340009-unicorn-overlord-nintendo-switch-25-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-20T04:14:45.908Z",
-    "triggeredAtPT": "Nov 19, 2026, 8:14:45 PM PST",
     "discordStatus": "no-webhook"
   }
 ]
