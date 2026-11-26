@@ -1,5 +1,89 @@
 [
   {
+    "id": "dealnews-computers-1795653366000-ankernano13in1laptopdock",
+    "fingerprint": "amazon|100.00|ankernano13in1laptopdockingstationfor100freeshipping",
+    "title": "Anker Nano 13-in-1 Laptop Docking Station for $100 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Computers",
+    "price": 100,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $100.00 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/products/Anker/Anker-Nano-13-in-1-Laptop-Docking-Station/563969.html?iref=rss-c39",
+    "sourceUrl": "https://www.dealnews.com/products/Anker/Anker-Nano-13-in-1-Laptop-Docking-Station/563969.html?iref=rss-c39",
+    "triggeredAt": "2026-11-26T04:24:34.806Z",
+    "triggeredAtPT": "Nov 25, 2026, 8:24:34 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795663664000-3499ultimea22chtvsoundba",
+    "fingerprint": "walmart|34.99|3499ultimea22chtvsoundbarbuiltindualsubwooferbluetooth53hdmiarcatwalmartcom",
+    "title": "$34.99: ULTIMEA 2.2ch TV Soundbar, Built-in Dual Subwoofer, Bluetooth 5.3, HDMI ARC at Walmart.com",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 34.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $34.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20400447-34-99-ultimea-2-2ch-tv-soundbar-built-in-dual-subwoofer-bluetooth-5-3-hdmi-arc-at-walmart-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20400447-34-99-ultimea-2-2ch-tv-soundbar-built-in-dual-subwoofer-bluetooth-5-3-hdmi-arc-at-walmart-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T04:24:34.806Z",
+    "triggeredAtPT": "Nov 25, 2026, 8:24:34 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795665876000-43hiro1080pfullhdsmartro",
+    "fingerprint": "target|80.00|43hiro1080pfullhdsmartrokutv80freesh",
+    "title": "43\" Hiro 1080p Full HD Smart Roku TV $80 + Free S&H",
+    "retailer": "Target",
+    "store": "Target",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 80,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $80.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20329446-80-76-red-card-target-11-22-29-hiro-roku-tv-43-1080p-full-hd-smart-tv-flat-screen-led-television-with-roku-tv-and-dolby-audio-for-streaming?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20329446-80-76-red-card-target-11-22-29-hiro-roku-tv-43-1080p-full-hd-smart-tv-flat-screen-led-television-with-roku-tv-and-dolby-audio-for-streaming?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T04:24:34.806Z",
+    "triggeredAtPT": "Nov 25, 2026, 8:24:34 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "dealnews-electronics-1795617702000-ollratvledbacklightwithc",
     "fingerprint": "amazon|47.00|ollratvledbacklightwithcamerafor40to50tvsfor47freeshipping",
     "title": "Ollra TV LED Backlight with Camera for 40\" to 50\" TVs for $47 + free shipping",
@@ -1331,96 +1415,6 @@
     "sourceUrl": "https://slickdeals.net/f/20368461-59-99-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-at-target?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "triggeredAt": "2026-11-22T09:39:39.252Z",
     "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795332028000-supermariopartyjamboreej",
-    "fingerprint": "bestbuy|59.99|supermariopartyjamboreejamboreetvnintendoswitch25999bestbuy",
-    "title": "Super Mario Party Jamboree + Jamboree TV (Nintendo Switch 2) - $59.99 @ Best Buy",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 59.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $59.99 < $499"
-      },
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $59.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch",
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20367729-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-59-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20367729-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-59-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.252Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795336580000-blueyshappysnapsactivity",
-    "fingerprint": "target|40.00|blueyshappysnapsactivitybookeditionswitch2gamekeycard40freesh",
-    "title": "Bluey's Happy Snaps: Activity Book Edition (Switch 2 Game-Key Card) $40 + Free S&H",
-    "retailer": "Target",
-    "store": "Target",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 40,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $40.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20329821-bluey-s-happy-snaps-activity-book-edition-switch-2-game-key-card-40-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20329821-bluey-s-happy-snaps-activity-book-edition-switch-2-game-key-card-40-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.252Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795081729000-rosewillmicroatxminitowe",
-    "fingerprint": "amazon|66.49|rosewillmicroatxminitowerpccasewithpreinstalled80gold650watx31powersupply360mmra",
-    "title": "Rosewill Micro ATX Mini Tower PC Case with Pre-Installed 80+ Gold 650W ATX 3.1 Power Supply | 360mm Radiator Support | 1 x USB 3.0 | 1 x USB Type-C | 1 x 120mm PWM Rear Fan $66.49",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 66.49,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Desktop (not an accessory) at $66.49 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20341740-rosewill-micro-atx-mini-tower-pc-case-with-pre-installed-80-gold-650w-atx-3-1-power-supply-360mm-radiator-support-1-x-usb-3-0-1-x-usb-type-c-1-x-120mm-pwm-rear-fan-66-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20341740-rosewill-micro-atx-mini-tower-pc-case-with-pre-installed-80-gold-650w-atx-3-1-power-supply-360mm-radiator-support-1-x-usb-3-0-1-x-usb-type-c-1-x-120mm-pwm-rear-fan-66-49?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T02:02:09.071Z",
-    "triggeredAtPT": "Nov 21, 2026, 6:02:09 PM PST",
     "discordStatus": "no-webhook"
   }
 ]
