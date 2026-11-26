@@ -1,5 +1,145 @@
 [
   {
+    "id": "sd-tv-1795717997000-749funkopoptvspongebobsq",
+    "fingerprint": "amazon|7.49|749funkopoptvspongebobsquarepants25thdoodlebobatamazon",
+    "title": "$7.49 | Funko POP! TV: Spongebob Squarepants 25th - DoodleBob at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 7.49,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $7.49 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20407365-7-49-funko-pop-tv-spongebob-squarepants-25th-doodlebob-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20407365-7-49-funko-pop-tv-spongebob-squarepants-25th-doodlebob-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T22:57:39.001Z",
+    "triggeredAtPT": "Nov 26, 2026, 2:57:39 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-laptop-1795725354000-40fsamazonmnn1561080ppor",
+    "fingerprint": "amazon|40.00|40fsamazonmnn1561080pportablemonitoripsusbchdmigamingscreenforlaptop",
+    "title": "$40 FS AMAZON MNN 15.6\" 1080P Portable Monitor IPS USB-C HDMI Gaming Screen for Laptop",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 40,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $40.00 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20408340-40-fs-amazon-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20408340-40-fs-amazon-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T22:57:39.001Z",
+    "triggeredAtPT": "Nov 26, 2026, 2:57:39 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795714545000-749funkopoptvbreakingbad",
+    "fingerprint": "amazon|7.49|749funkopoptvbreakingbadheisenbergatamazon",
+    "title": "$7.49 | Funko POP! TV: Breaking Bad - Heisenberg at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 7.49,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $7.49 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20406873-7-49-funko-pop-tv-breaking-bad-heisenberg-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20406873-7-49-funko-pop-tv-breaking-bad-heisenberg-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T22:57:39.001Z",
+    "triggeredAtPT": "Nov 26, 2026, 2:57:39 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-popular-1795725910000-kanusurfgirlsreesebeachs",
+    "fingerprint": "amazon|6.24|kanusurfgirlsreesebeachsportonepieceswimsuittinasize16624atamazon",
+    "title": "Kanu Surf Girls' Reese Beach Sport One-Piece Swimsuit, Tina, Size 16 $6.24 at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 6.24,
+    "was": 26.99,
+    "discountPercent": 77,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "kids",
+        "label": "Kids Watch",
+        "reason": "Kids/baby/girls item, 77% off a marked usual price of $26.99"
+      }
+    ],
+    "ruleLabels": [
+      "Kids Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20408415-kanu-surf-girls-reese-beach-sport-one-piece-swimsuit-tina-size-16-6-24-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20408415-kanu-surf-girls-reese-beach-sport-one-piece-swimsuit-tina-size-16-6-24-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T22:57:39.001Z",
+    "triggeredAtPT": "Nov 26, 2026, 2:57:39 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-laptop-1795722594000-hp14laptopquadcoreintelc",
+    "fingerprint": "amazon|305.15|hp14laptopquadcoreintelcpuwindows11pro30515forprimemembersatamazon",
+    "title": "HP 14\" Laptop, Quad-Core Intel CPU, Windows 11 Pro $305.15 for Prime Members at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 305.15,
+    "was": 999,
+    "discountPercent": 69,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "69% off new tech with usual price $999.00 (≥ 65% off, usual ≥ $100)"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20407971-hp-14-laptop-quad-core-intel-cpu-windows-11-pro-305-15-for-prime-members-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20407971-hp-14-laptop-quad-core-intel-cpu-windows-11-pro-305-15-for-prime-members-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T22:57:39.001Z",
+    "triggeredAtPT": "Nov 26, 2026, 2:57:39 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-popular-1795694397000-preorder2999raymanlegend",
     "fingerprint": "amazon|29.99|preorder2999raymanlegendsretoldlauncheditionnintendoswitch2atamazon",
     "title": "[Pre-order] $29.99: Rayman Legends Retold - Launch Edition - Nintendo Switch 2 at Amazon",
@@ -1263,146 +1403,6 @@
     "sourceUrl": "https://slickdeals.net/f/20368524-39-99-the-crew-motorfest-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-22T22:38:04.924Z",
     "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795380085000-55philipshueplaygradient",
-    "fingerprint": "amazon|125.99|55philipshueplaygradientmulticolorledsmarttvlightstrip12599freeshipping",
-    "title": "55\" Philips Hue Play Gradient Multicolor LED Smart TV Light Strip $125.99 + Free Shipping",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 125.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "55\" TV at $125.99 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20371599-55-philips-hue-play-gradient-multicolor-led-smart-tv-light-strip-125-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20371599-55-philips-hue-play-gradient-multicolor-led-smart-tv-light-strip-125-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T22:38:04.924Z",
-    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795385595000-metalgearsolidmastercoll",
-    "fingerprint": "amazon|30.00|metalgearsolidmastercollectionvol2switch230",
-    "title": "Metal Gear Solid: Master Collection Vol. 2 (Switch 2) $30",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 30,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $30.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20369496-metal-gear-solid-master-collection-vol-2-switch-2-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20369496-metal-gear-solid-master-collection-vol-2-switch-2-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T22:38:04.924Z",
-    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795365854000-donkeykongbananzaswitch2",
-    "fingerprint": "target|50.00|donkeykongbananzaswitch250freesh",
-    "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
-    "retailer": "Target",
-    "store": "Target",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 50,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $50.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20368251-49-99-donkey-kong-bananza-nintendo-switch-2-at-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20368251-49-99-donkey-kong-bananza-nintendo-switch-2-at-target?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T17:23:56.603Z",
-    "triggeredAtPT": "Nov 22, 2026, 9:23:56 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795335209000-1999finalfantasyviiremak",
-    "fingerprint": "amazon|19.99|1999finalfantasyviiremakeintegradenintendoswitch2standardatamazon",
-    "title": "$19.99* | Final Fantasy VII Remake Integrade Nintendo Switch 2 (Standard) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 19.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $19.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20367951-19-99-final-fantasy-vii-remake-integrade-nintendo-switch-2-standard-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20367951-19-99-final-fantasy-vii-remake-integrade-nintendo-switch-2-standard-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.253Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795338121000-2999dragonquestxisechoes",
-    "fingerprint": "amazon|29.99|2999dragonquestxisechoesofanelusiveagedefinitiveeditionnintendoswitch2atamazon",
-    "title": "$29.99: DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition - Nintendo Switch 2 at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 29.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $29.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20368347-29-99-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20368347-29-99-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.253Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
