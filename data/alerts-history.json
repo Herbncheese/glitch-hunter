@@ -1,5 +1,117 @@
 [
   {
+    "id": "sd-popular-1795694397000-preorder2999raymanlegend",
+    "fingerprint": "amazon|29.99|preorder2999raymanlegendsretoldlauncheditionnintendoswitch2atamazon",
+    "title": "[Pre-order] $29.99: Rayman Legends Retold - Launch Edition - Nintendo Switch 2 at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 29.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $29.99 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20403558-pre-order-29-99-rayman-legends-retold-launch-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20403558-pre-order-29-99-rayman-legends-retold-launch-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T14:08:46.159Z",
+    "triggeredAtPT": "Nov 26, 2026, 6:08:46 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795694989000-metalgearsolidmastercoll",
+    "fingerprint": "bestbuy|30.00|metalgearsolidmastercollectionvol2seriesxps5switch230freesh",
+    "title": "Metal Gear Solid: Master Collection Vol.2 (Series X, PS5, Switch 2) $30 + Free S/H",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $30.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20402271-metal-gear-solid-master-collection-vol-2-series-x-ps5-switch-2-30-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20402271-metal-gear-solid-master-collection-vol-2-series-x-ps5-switch-2-30-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T14:08:46.159Z",
+    "triggeredAtPT": "Nov 26, 2026, 6:08:46 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795672862000-bestbuyinsgina43f504kled",
+    "fingerprint": "bestbuy|90.00|bestbuyinsgina43f504kledsmarttv90",
+    "title": "BEST BUY Insgina 43\" F50 4k LED Smart TV $90",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 90,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $90.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20401443-best-buy-insgina-43-f50-4k-led-smart-tv-90?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20401443-best-buy-insgina-43-f50-4k-led-smart-tv-90?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-26T14:08:46.159Z",
+    "triggeredAtPT": "Nov 26, 2026, 6:08:46 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "9to5toys-1795681985000-samsungs512gbp9switch2ex",
+    "fingerprint": "amazon|93.00|samsungs512gbp9switch2expressmicrosdcardhitslowestsincepricehikesat93nearly50off",
+    "title": "Samsung’s 512GB P9 Switch 2 Express microSD card hits lowest since price hikes at $93 (Nearly 50% off)",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "9to5Toys",
+    "price": 93,
+    "was": 186,
+    "discountPercent": 50,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $93.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://9to5toys.com/2026/11/26/samsung-512gb-p9-switch-2-express-microsd-card-hits-lowest-since-price-hikes-2/",
+    "sourceUrl": "https://9to5toys.com/2026/11/26/samsung-512gb-p9-switch-2-express-microsd-card-hits-lowest-since-price-hikes-2/",
+    "triggeredAt": "2026-11-26T14:08:46.159Z",
+    "triggeredAtPT": "Nov 26, 2026, 6:08:46 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "dealnews-computers-1795653366000-ankernano13in1laptopdock",
     "fingerprint": "amazon|100.00|ankernano13in1laptopdockingstationfor100freeshipping",
     "title": "Anker Nano 13-in-1 Laptop Docking Station for $100 + free shipping",
@@ -1290,130 +1402,6 @@
     "directBuyUrl": "https://slickdeals.net/f/20368347-29-99-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20368347-29-99-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-22T09:39:39.253Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795338607000-2999justdancedecadesofhi",
-    "fingerprint": "amazon|29.99|2999justdancedecadesofhitslimitededitionnintendoswitchcodeinboxatamazon",
-    "title": "$29.99: Just Dance Decades of Hits - Limited Edition - Nintendo Switch Code In Box at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 29.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Nintendo Switch at $29.99 < $275"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20368407-29-99-just-dance-decades-of-hits-limited-edition-nintendo-switch-code-in-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20368407-29-99-just-dance-decades-of-hits-limited-edition-nintendo-switch-code-in-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.252Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795337505000-donkeykongbananzaswitch2",
-    "fingerprint": "bestbuy|50.00|donkeykongbananzaswitch250freesh",
-    "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 50,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $50.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20367696-donkey-kong-bananza-nintendo-switch-2-49-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20367696-donkey-kong-bananza-nintendo-switch-2-49-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.252Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795334701000-5999supermariopartyjambo",
-    "fingerprint": "amazon|59.99|5999supermariopartyjamboreejamboreetvnintendoswitch2atamazon",
-    "title": "$59.99* | Super Mario Party Jamboree + Jamboree TV (Nintendo Switch 2) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 59.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $59.99 < $499"
-      },
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $59.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch",
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20367834-59-99-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20367834-59-99-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.252Z",
-    "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795339244000-5999supermariopartyjambo",
-    "fingerprint": "target|59.99|5999supermariopartyjamboreenintendoswitch2editionjamboreetvattarget",
-    "title": "$59.99: Super Mario Party Jamboree - Nintendo Switch 2 Edition + Jamboree TV at Target",
-    "retailer": "Target",
-    "store": "Target",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 59.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $59.99 < $499"
-      },
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $59.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch",
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20368461-59-99-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-at-target?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20368461-59-99-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv-at-target?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T09:39:39.252Z",
     "triggeredAtPT": "Nov 22, 2026, 1:39:39 AM PST",
     "discordStatus": "no-webhook"
   }
