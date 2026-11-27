@@ -1,5 +1,229 @@
 [
   {
+    "id": "sd-laptop-1795790251000-primemembers2packacerlap",
+    "fingerprint": "amazon|18.99|primemembers2packacerlaptopprivacyscreenformacbookair13202220251899",
+    "title": "Prime Members: (2-Pack) Acer Laptop Privacy Screen for MacBook Air 13\" (2022-2025) $18.99",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals laptop search",
+    "price": 18.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $18.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20416788-prime-members-2-pack-acer-laptop-privacy-screen-for-macbook-air-13-2022-2025-18-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20416788-prime-members-2-pack-acer-laptop-privacy-screen-for-macbook-air-13-2022-2025-18-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-27T22:51:16.773Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "9to5toys-1795807787000-rareblackfridaydealhitsp",
+    "fingerprint": "amazon|63.00|rareblackfridaydealhitspokmonpokopiaonnintendoswitch2",
+    "title": "Rare Black Friday deal hits Pokémon Pokopia on Nintendo Switch 2",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "9to5Toys",
+    "price": 63,
+    "was": 69,
+    "discountPercent": 9,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $63.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://9to5toys.com/2026/11/27/pokemon-pokopia-nintendo-switch-2/",
+    "sourceUrl": "https://9to5toys.com/2026/11/27/pokemon-pokopia-nintendo-switch-2/",
+    "triggeredAt": "2026-11-27T22:51:16.773Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-electronics-1795802269000-insignians40f402na284010",
+    "fingerprint": "amazon|75.00|insignians40f402na28401080pfiretvfor75freeshipping",
+    "title": "Insignia NS-40F402NA28 40\" 1080p Fire TV for $75 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Electronics",
+    "price": 75,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $75.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/products/Insignia/Insignia-NS-40-F402-NA28-40-1080-p-Fire-TV/543640.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/products/Insignia/Insignia-NS-40-F402-NA28-40-1080-p-Fire-TV/543640.html?iref=rss-c142",
+    "triggeredAt": "2026-11-27T22:51:16.772Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795807775000-4199mcfarlanetoysdcdirec",
+    "fingerprint": "amazon|41.99|4199mcfarlanetoysdcdirectbatmanclassictvseriescowlreplica11scaleatamazon",
+    "title": "$41.99* | McFarlane Toys DC Direct Batman Classic TV Series Cowl Replica (1:1 Scale) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 41.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $41.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20420424-41-99-mcfarlane-toys-dc-direct-batman-classic-tv-series-cowl-replica-1-1-scale-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20420424-41-99-mcfarlane-toys-dc-direct-batman-classic-tv-series-cowl-replica-1-1-scale-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-27T22:51:16.772Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795815734000-superbombermancollection",
+    "fingerprint": "bestbuy|30.00|superbombermancollectionnintendoswitch30freesh",
+    "title": "Super Bomberman Collection (Nintendo Switch) $30 + Free S&H",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $30.00 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20415372-super-bomberman-collection-nintendo-switch-30-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20415372-super-bomberman-collection-nintendo-switch-30-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-27T22:51:16.772Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795815267000-starwarsoutlawsgoldediti",
+    "fingerprint": "walmart|15.00|starwarsoutlawsgoldeditionswitch2gamekeycard15",
+    "title": "Star Wars Outlaws Gold Edition (Switch 2, Game-Key Card) $15",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 15,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $15.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20416746-star-wars-outlaws-gold-edition-nintendo-switch-2-15-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20416746-star-wars-outlaws-gold-edition-nintendo-switch-2-15-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-27T22:51:16.772Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "woot-1795797014262-muddymatrix20cellulartra",
+    "fingerprint": "woot|64.99|muddymatrix20cellulartrailcamerawsolarpanel",
+    "title": "Muddy Matrix 2.0 Cellular Trail Camera w/ Solar Panel",
+    "retailer": "Woot",
+    "store": "Woot",
+    "sourceChannel": "Woot",
+    "price": 64.99,
+    "was": 297.99,
+    "discountPercent": 78,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "78% off a marked usual price of $297.99 (≥ 70% off, usual ≥ $100)"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://electronics.woot.com/offers/muddy-matrix-2-0-cellular-trail-camera-w-solar-panel",
+    "sourceUrl": "https://electronics.woot.com/offers/muddy-matrix-2-0-cellular-trail-camera-w-solar-panel",
+    "triggeredAt": "2026-11-27T22:51:16.772Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "9to5toys-1795799278000-newappletv4kcosts300buty",
+    "fingerprint": "amazon|300.00|newappletv4kcosts300butyoucanspend280lesswithamazonslatestfiretv4kstick67off",
+    "title": "New Apple TV 4K costs $300, but you can spend $280 less with Amazon’s latest Fire TV 4K Stick (67% off)",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "9to5Toys",
+    "price": 300,
+    "was": 909.09,
+    "discountPercent": 67,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "67% off new tech with usual price $909.09 (≥ 65% off, usual ≥ $100)"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://9to5toys.com/2026/11/27/amazon-fire-tv-stick-4k-bf/",
+    "sourceUrl": "https://9to5toys.com/2026/11/27/amazon-fire-tv-stick-4k-bf/",
+    "triggeredAt": "2026-11-27T22:51:16.772Z",
+    "triggeredAtPT": "Nov 27, 2026, 2:51:16 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1795759918000-rocketfishextendingandti",
     "fingerprint": "bestbuy|104.99|rocketfishextendingandtiltingtvwallmountformost50100intvsblack10499bestbuycom",
     "title": "Rocketfish™ - Extending and Tilting TV Wall Mount for Most 50–100 in. TVs - Black $104.99 Bestbuy.com",
@@ -1178,230 +1402,6 @@
     "directBuyUrl": "https://slickdeals.net/f/20375145-53-19-diablo-iv-age-of-hatred-collection-nintendo-switch-2-code-in-a-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20375145-53-19-diablo-iv-age-of-hatred-collection-nintendo-switch-2-code-in-a-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-23T12:20:10.104Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795431052000-15assassinscreedshadowss",
-    "fingerprint": "amazon|15.00|15assassinscreedshadowsstandardeditionnintendoswitch2atamazon",
-    "title": "$15: Assassin’s Creed Shadows - Standard Edition, Nintendo Switch 2 at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 15,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $15.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20375877-15-assassin-s-creed-shadows-standard-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20375877-15-assassin-s-creed-shadows-standard-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.104Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795430998000-starwarsoutlawsgoldediti",
-    "fingerprint": "amazon|15.00|starwarsoutlawsgoldeditionnintendoswitch215amazon",
-    "title": "Star Wars Outlaws Gold Edition (Nintendo Switch 2) - $15 @ Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 15,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $15.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20375862-star-wars-outlaws-gold-edition-nintendo-switch-2-15-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20375862-star-wars-outlaws-gold-edition-nintendo-switch-2-15-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.104Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795407220000-caschosoundbarfortv60wso",
-    "fingerprint": "walmart|35.99|caschosoundbarfortv60wsoundbar3599",
-    "title": "CASCHO Sound Bar for TV, 60W Soundbar $35.99",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 35.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $35.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20373330-cascho-sound-bar-for-tv-60w-soundbar-35-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20373330-cascho-sound-bar-for-tv-60w-soundbar-35-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.104Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795412340000-89walmartonn43class1080p",
-    "fingerprint": "walmart|89.00|89walmartonn43class1080pfhdsmarttvpoweredbyvizio43s3vsb1",
-    "title": "$89 WALMART+ onn 43\" Class 1080P FHD Smart TV Powered by VIZIO, 43S3VSB1",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 89,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $89.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20373999-89-walmart-onn-43-class-1080p-fhd-smart-tv-powered-by-vizio-43s3vsb1?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20373999-89-walmart-onn-43-class-1080p-fhd-smart-tv-powered-by-vizio-43s3vsb1?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.103Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795435156000-sonicxshadowgenerationsn",
-    "fingerprint": "walmart|15.00|sonicxshadowgenerationsnintendoswitch2gamekeycard15",
-    "title": "Sonic X Shadow Generations (Nintendo Switch 2 Game-Key Card) $15",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 15,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $15.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20374893-sonic-x-shadow-generations-switch-2-15-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20374893-sonic-x-shadow-generations-switch-2-15-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.103Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-frontpage-1795436044000-preorderofferraymanlegen",
-    "fingerprint": "bestbuy|30.00|preorderofferraymanlegendsretoldlauncheditionps5ornintendoswitch230freesh",
-    "title": "Pre-Order Offer: Rayman Legends Retold Launch Edition (PS5 or Nintendo Switch 2) $30 + Free S&H",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals Frontpage",
-    "price": 30,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $30.00 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20367687-pre-order-rayman-legends-retold-launch-edition-ps5-switch-2-29-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20367687-pre-order-rayman-legends-retold-launch-edition-ps5-switch-2-29-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.103Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795430509000-supermariopartyjamboreej",
-    "fingerprint": "walmart|30.00|supermariopartyjamboreejamboreetvnintendoswitch2digital30walmart",
-    "title": "Super Mario Party Jamboree + Jamboree TV (Nintendo Switch 2 Digital) - $30 @ Walmart",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 30,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $30.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20375823-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-digital-30-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20375823-super-mario-party-jamboree-jamboree-tv-nintendo-switch-2-digital-30-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.103Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795416011000-9999roku32selectseriesfu",
-    "fingerprint": "bestbuy|99.99|9999roku32selectseriesfullhdledsmarttv2026",
-    "title": "$99.99: Roku 32\" Select Series Full HD LED Smart TV (2026)",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 99.99,
-    "was": 179.99,
-    "discountPercent": 44,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $99.99 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20374662-99-99-roku-32-select-series-full-hd-led-smart-tv-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20374662-99-99-roku-32-select-series-full-hd-led-smart-tv-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.103Z",
     "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
     "discordStatus": "no-webhook"
   }
