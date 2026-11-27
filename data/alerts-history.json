@@ -1,5 +1,89 @@
 [
   {
+    "id": "sd-tv-1795759918000-rocketfishextendingandti",
+    "fingerprint": "bestbuy|104.99|rocketfishextendingandtiltingtvwallmountformost50100intvsblack10499bestbuycom",
+    "title": "Rocketfish™ - Extending and Tilting TV Wall Mount for Most 50–100 in. TVs - Black $104.99 Bestbuy.com",
+    "retailer": "Best Buy",
+    "store": "Best Buy",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 104.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "100\" TV at $104.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20412138-rocketfish-extending-and-tilting-tv-wall-mount-for-most-50-100-in-tvs-black-104-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20412138-rocketfish-extending-and-tilting-tv-wall-mount-for-most-50-100-in-tvs-black-104-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-27T14:27:07.318Z",
+    "triggeredAtPT": "Nov 27, 2026, 6:27:07 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-computers-1795777111000-alienwareaw2726dl271440p",
+    "fingerprint": "amazon|150.00|alienwareaw2726dl271440phdr280hzipsgamingmonitorfor150freeshipping",
+    "title": "Alienware AW2726DL 27\" 1440p HDR 280Hz IPS Gaming Monitor for $150 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Computers",
+    "price": 150,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $150.00 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/products/Alienware/Alienware-AW2726-DL-27-1440-p-HDR-280-Hz-IPS-Gaming-Monitor/564783.html?iref=rss-c39",
+    "sourceUrl": "https://www.dealnews.com/products/Alienware/Alienware-AW2726-DL-27-1440-p-HDR-280-Hz-IPS-Gaming-Monitor/564783.html?iref=rss-c39",
+    "triggeredAt": "2026-11-27T14:27:07.318Z",
+    "triggeredAtPT": "Nov 27, 2026, 6:27:07 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-frontpage-1795786106000-xenobladechroniclesdefin",
+    "fingerprint": "walmart|7.00|xenobladechroniclesdefinitiveeditionupgradepacknintendoswitch2digital7",
+    "title": "Xenoblade Chronicles: Definitive Edition Upgrade Pack (Nintendo Switch 2 Digital) $7",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 7,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $7.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20411745-xenoblade-chronicles-definitive-edition-upgrade-pack-nintendo-switch-2-digital-7?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20411745-xenoblade-chronicles-definitive-edition-upgrade-pack-nintendo-switch-2-digital-7?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-27T14:27:07.318Z",
+    "triggeredAtPT": "Nov 27, 2026, 6:27:07 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-frontpage-1795751681000-selectwalmartstoresresid",
     "fingerprint": "walmart|30.00|selectwalmartstoresresidentevilrequiemnintendoswitch230",
     "title": "Select Walmart Stores: Resident Evil Requiem (Nintendo Switch 2) $30",
@@ -1319,90 +1403,6 @@
     "sourceUrl": "https://slickdeals.net/f/20374662-99-99-roku-32-select-series-full-hd-led-smart-tv-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "triggeredAt": "2026-11-23T12:20:10.103Z",
     "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-laptop-1795389075000-selorelaptopdockingstati",
-    "fingerprint": "amazon|63.99|selorelaptopdockingstation3monitorstriple4kdisplay3hdmi2dp6399",
-    "title": "Selore Laptop Docking Station 3 Monitors Triple 4K Display 3 HDMI 2 DP $63.99",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals laptop search",
-    "price": 63.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "Laptop (not an accessory) at $63.99 ≤ $150"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20372178-selore-laptop-docking-station-3-monitors-triple-4k-display-3-hdmi-2-dp-63-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20372178-selore-laptop-docking-station-3-monitors-triple-4k-display-3-hdmi-2-dp-63-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T03:06:21.516Z",
-    "triggeredAtPT": "Nov 22, 2026, 7:06:21 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795396395000-heroestvshowcompletebund",
-    "fingerprint": "lowes|20.00|heroestvshowcompletebundledigital20",
-    "title": "Heroes TV show complete bundle digital $20",
-    "retailer": "Lowe's",
-    "store": "Lowe's",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 20,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $20.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20372652-heroes-tv-show-complete-bundle-digital-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20372652-heroes-tv-show-complete-bundle-digital-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T03:06:21.516Z",
-    "triggeredAtPT": "Nov 22, 2026, 7:06:21 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795338403000-3999hotwheelsinfiniterus",
-    "fingerprint": "amazon|39.99|3999hotwheelsinfiniterushnintendoswitch2atamazon",
-    "title": "$39.99 | Hot Wheels: Infinite Rush (Nintendo Switch 2) at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 39.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $39.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20368389-39-99-hot-wheels-infinite-rush-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20368389-39-99-hot-wheels-infinite-rush-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T22:38:04.924Z",
-    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
     "discordStatus": "no-webhook"
   }
 ]
