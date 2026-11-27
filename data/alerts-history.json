@@ -1,5 +1,33 @@
 [
   {
+    "id": "sd-frontpage-1795751681000-selectwalmartstoresresid",
+    "fingerprint": "walmart|30.00|selectwalmartstoresresidentevilrequiemnintendoswitch230",
+    "title": "Select Walmart Stores: Resident Evil Requiem (Nintendo Switch 2) $30",
+    "retailer": "Walmart",
+    "store": "Walmart",
+    "sourceChannel": "Slickdeals Frontpage",
+    "price": 30,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Switch 2 at $30.00 < $499"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20407332-switch-2-gkc-resident-evil-requiem-30-ymmv-regional?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20407332-switch-2-gkc-resident-evil-requiem-30-ymmv-regional?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "triggeredAt": "2026-11-27T04:49:43.220Z",
+    "triggeredAtPT": "Nov 26, 2026, 8:49:43 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-tv-1795717997000-749funkopoptvspongebobsq",
     "fingerprint": "amazon|7.49|749funkopoptvspongebobsquarepants25thdoodlebobatamazon",
     "title": "$7.49 | Funko POP! TV: Spongebob Squarepants 25th - DoodleBob at Amazon",
@@ -1373,34 +1401,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://slickdeals.net/f/20368389-39-99-hot-wheels-infinite-rush-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20368389-39-99-hot-wheels-infinite-rush-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-22T22:38:04.924Z",
-    "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795340047000-3999thecrewmotorfestnint",
-    "fingerprint": "amazon|39.99|3999thecrewmotorfestnintendoswitch2atamazon",
-    "title": "$39.99: The Crew Motorfest - Nintendo Switch 2 at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 39.99,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $39.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20368524-39-99-the-crew-motorfest-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20368524-39-99-the-crew-motorfest-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "triggeredAt": "2026-11-22T22:38:04.924Z",
     "triggeredAtPT": "Nov 22, 2026, 2:38:04 PM PST",
     "discordStatus": "no-webhook"
