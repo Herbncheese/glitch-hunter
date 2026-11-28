@@ -1,5 +1,61 @@
 [
   {
+    "id": "sd-monitor-1795825665000-13999hyperxomen27g327inc",
+    "fingerprint": "amazon|139.99|13999hyperxomen27g327inchfhd240hzipsgamingmonitor",
+    "title": "$139.99: HyperX OMEN 27 G3 27-inch FHD 240Hz IPS Gaming Monitor",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals monitor search",
+    "price": 139.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "Laptop (not an accessory) at $139.99 ≤ $150"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20422986-139-99-hyperx-omen-27-g3-27-inch-fhd-240hz-ips-gaming-monitor?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20422986-139-99-hyperx-omen-27-g3-27-inch-fhd-240hz-ips-gaming-monitor?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-28T04:21:44.540Z",
+    "triggeredAtPT": "Nov 27, 2026, 8:21:44 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "sd-tv-1795824469000-tcls55h21soundbarwithwir",
+    "fingerprint": "amazon|99.99|tcls55h21soundbarwithwirelesssubwooferforsmarttv9999",
+    "title": "TCL S55H 2.1 Sound Bar with Wireless Subwoofer for Smart TV ($99.99)",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals TV search",
+    "price": 99.99,
+    "was": 159.99,
+    "discountPercent": 38,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $99.99 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20422881-tcl-s55h-2-1-sound-bar-with-wireless-subwoofer-for-smart-tv-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20422881-tcl-s55h-2-1-sound-bar-with-wireless-subwoofer-for-smart-tv-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+    "triggeredAt": "2026-11-28T04:21:44.540Z",
+    "triggeredAtPT": "Nov 27, 2026, 8:21:44 PM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-laptop-1795790251000-primemembers2packacerlap",
     "fingerprint": "amazon|18.99|primemembers2packacerlaptopprivacyscreenformacbookair13202220251899",
     "title": "Prime Members: (2-Pack) Acer Laptop Privacy Screen for MacBook Air 13\" (2022-2025) $18.99",
@@ -1347,62 +1403,6 @@
     "sourceUrl": "https://slickdeals.net/f/20375823-super-mario-party-jamboree-jamboree-tv-switch-2-digital-download-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "triggeredAt": "2026-11-24T00:05:04.890Z",
     "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "dealnews-electronics-1795453943000-beatsstudioprowirelessno",
-    "fingerprint": "bestbuy|99.00|beatsstudioprowirelessnoisecancellingoverearheadphonesfor99freeshipping",
-    "title": "Beats Studio Pro Wireless Noise Cancelling Over-Ear Headphones for $99 + free shipping",
-    "retailer": "Best Buy",
-    "store": "Best Buy",
-    "sourceChannel": "DealNews Electronics",
-    "price": 99,
-    "was": 299,
-    "discountPercent": 67,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "67% off new tech with usual price $299.00 (≥ 65% off, usual ≥ $100)"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://www.dealnews.com/products/Beats/Beats-Studio-Pro-Wireless-Noise-Cancelling-Over-Ear-Headphones/562849.html?iref=rss-c142",
-    "sourceUrl": "https://www.dealnews.com/products/Beats/Beats-Studio-Pro-Wireless-Noise-Cancelling-Over-Ear-Headphones/562849.html?iref=rss-c142",
-    "triggeredAt": "2026-11-24T00:05:04.890Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-popular-1795421772000-5319diabloivageofhatredc",
-    "fingerprint": "amazon|53.19|5319diabloivageofhatredcollectionnintendoswitch2codeinaboxatamazon",
-    "title": "$53.19: Diablo IV | Age of Hatred Collection | Nintendo Switch 2 [Code in a Box] at Amazon",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "Slickdeals Popular",
-    "price": 53.19,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $53.19 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20375145-53-19-diablo-iv-age-of-hatred-collection-nintendo-switch-2-code-in-a-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20375145-53-19-diablo-iv-age-of-hatred-collection-nintendo-switch-2-code-in-a-box-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-23T12:20:10.104Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:20:10 AM PST",
     "discordStatus": "no-webhook"
   }
 ]
