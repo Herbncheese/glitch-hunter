@@ -1,5 +1,61 @@
 [
   {
+    "id": "sd-popular-1795864163000-1999disneyafternooncolle",
+    "fingerprint": "amazon|19.99|1999disneyafternooncollectionnintendoswitchatamazon",
+    "title": "$19.99* | Disney Afternoon Collection (Nintendo Switch) at Amazon",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "Slickdeals Popular",
+    "price": 19.99,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "christmas-2026",
+        "label": "Christmas 2026 Watch",
+        "reason": "Nintendo Switch at $19.99 < $275"
+      }
+    ],
+    "ruleLabels": [
+      "Christmas 2026 Watch"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://slickdeals.net/f/20426535-19-99-disney-afternoon-collection-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "sourceUrl": "https://slickdeals.net/f/20426535-19-99-disney-afternoon-collection-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+    "triggeredAt": "2026-11-28T13:20:15.747Z",
+    "triggeredAtPT": "Nov 28, 2026, 5:20:15 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
+    "id": "dealnews-electronics-1795868354000-insigniaf40series401080p",
+    "fingerprint": "amazon|85.00|insigniaf40series401080pledsmartfiretvfor85freeshipping",
+    "title": "Insignia F40 Series 40\" 1080p LED Smart Fire TV for $85 + free shipping",
+    "retailer": "Amazon",
+    "store": "Amazon",
+    "sourceChannel": "DealNews Electronics",
+    "price": 85,
+    "was": 0,
+    "discountPercent": 0,
+    "condition": "Unverified condition",
+    "rules": [
+      {
+        "ruleId": "tech-clearance",
+        "label": "Tech & Clearance",
+        "reason": "TV at $85.00 ≤ $100"
+      }
+    ],
+    "ruleLabels": [
+      "Tech & Clearance"
+    ],
+    "isPossiblePriceError": false,
+    "directBuyUrl": "https://www.dealnews.com/products/Insignia/Insignia-40-1080-p-LED-Smart-Fire-TV/492699.html?iref=rss-c142",
+    "sourceUrl": "https://www.dealnews.com/products/Insignia/Insignia-40-1080-p-LED-Smart-Fire-TV/492699.html?iref=rss-c142",
+    "triggeredAt": "2026-11-28T13:20:15.747Z",
+    "triggeredAtPT": "Nov 28, 2026, 5:20:15 AM PST",
+    "discordStatus": "no-webhook"
+  },
+  {
     "id": "sd-monitor-1795825665000-13999hyperxomen27g327inc",
     "fingerprint": "amazon|139.99|13999hyperxomen27g327inchfhd240hzipsgamingmonitor",
     "title": "$139.99: HyperX OMEN 27 G3 27-inch FHD 240Hz IPS Gaming Monitor",
@@ -1345,62 +1401,6 @@
     "isPossiblePriceError": false,
     "directBuyUrl": "https://slickdeals.net/f/20366757-24-99-persona-5-royal-standard-edition-nintendo-switch-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
     "sourceUrl": "https://slickdeals.net/f/20366757-24-99-persona-5-royal-standard-edition-nintendo-switch-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-    "triggeredAt": "2026-11-24T00:05:04.890Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "9to5toys-1795442136000-samsungsswitch2compatibl",
-    "fingerprint": "amazon|44.99|samsungsswitch2compatibleexpressmicrosdcardsarenearly50offforblackfridayweek",
-    "title": "Samsung’s Switch 2-compatible Express microSD cards are nearly 50% off for Black Friday Week",
-    "retailer": "Amazon",
-    "store": "Amazon",
-    "sourceChannel": "9to5Toys",
-    "price": 44.99,
-    "was": 89.98,
-    "discountPercent": 50,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "christmas-2026",
-        "label": "Christmas 2026 Watch",
-        "reason": "Switch 2 at $44.99 < $499"
-      }
-    ],
-    "ruleLabels": [
-      "Christmas 2026 Watch"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://9to5toys.com/2026/11/23/samsung-switch-2-compatible-express-microsd-cards-are-nearly-50-off/",
-    "sourceUrl": "https://9to5toys.com/2026/11/23/samsung-switch-2-compatible-express-microsd-cards-are-nearly-50-off/",
-    "triggeredAt": "2026-11-24T00:05:04.890Z",
-    "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
-    "discordStatus": "no-webhook"
-  },
-  {
-    "id": "sd-tv-1795430509000-supermariopartyjamboreej",
-    "fingerprint": "walmart|30.00|supermariopartyjamboreejamboreetvswitch2digitaldownload30",
-    "title": "Super Mario Party Jamboree + Jamboree TV (Switch 2 Digital Download) $30",
-    "retailer": "Walmart",
-    "store": "Walmart",
-    "sourceChannel": "Slickdeals TV search",
-    "price": 30,
-    "was": 0,
-    "discountPercent": 0,
-    "condition": "Unverified condition",
-    "rules": [
-      {
-        "ruleId": "tech-clearance",
-        "label": "Tech & Clearance",
-        "reason": "TV at $30.00 ≤ $100"
-      }
-    ],
-    "ruleLabels": [
-      "Tech & Clearance"
-    ],
-    "isPossiblePriceError": false,
-    "directBuyUrl": "https://slickdeals.net/f/20375823-super-mario-party-jamboree-jamboree-tv-switch-2-digital-download-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
-    "sourceUrl": "https://slickdeals.net/f/20375823-super-mario-party-jamboree-jamboree-tv-switch-2-digital-download-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
     "triggeredAt": "2026-11-24T00:05:04.890Z",
     "triggeredAtPT": "Nov 23, 2026, 4:05:04 PM PST",
     "discordStatus": "no-webhook"
